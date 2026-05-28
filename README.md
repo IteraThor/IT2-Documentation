@@ -3,6 +3,8 @@
 **Last Updated:** Wednesday, May 27, 2026  
 **Version:** 1.0 (BETA)
 
+> 🌍 **Read this manual in other languages:** [Deutsch](README.de.md)
+
 Welcome to the official manual for the IT2 Autodarts Scoring System. This guide will walk you through the assembly process.
 
 ![dimensions](images/dimensions.png)
