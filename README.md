@@ -3,35 +3,36 @@
 **Last Updated:** Wednesday, May 27, 2026  
 **Version:** 1.0 (BETA)
 
-> Welcome to the official manual for the IT2 Autodarts Scoring System. This guide will walk you through the assembly process.
+Welcome to the official manual for the IT2 Autodarts Scoring System. This guide will walk you through the assembly process.
 
-![dimensions main-finished.png](images/dimensions.png)
+![dimensions](images/dimensions.png)
 
 ---
 ## Table of Contents
-1. [General Overview](#general-overview)
-2. [What You'll Need](#what-youll-need)
+1. [General Overview](#1-general-overview)
+2. [What You'll Need](#2-what-youll-need)
     * [2.1 Core Hardware (Required)](#21-core-hardware-required)
     * [2.2 Recommended Electronics](#22-recommended-electronics)
     * [2.3 Required Tools](#23-required-tools)
-3. [General Assembly: Camera Arms](#general-assembly-camera-arms)
+3. [General Assembly: Camera Arms](#3-general-assembly-camera-arms)
     * [3.1 Step 1: Heat Inserts](#31-step-1-heat-inserts)
-    * [3.2 Step 2: Camera Preparation & Resizing](#32-step-2-camera-preparation-resizing)
-4. [Build Options: Choose Your Path](#build-options-choose-your-path)
+    * [3.2 Step 2: Camera Preparation & Resizing](#32-step-2-camera-preparation--resizing)
+4. [Build Options: Choose Your Path](#4-build-options-choose-your-path)
     * [4.1 Option 1: Winmau Plasma Light Ring](#41-option-1-winmau-plasma-light-ring)
     * [4.2 Option 2: IT2 DIY Light Ring](#42-option-2-it2-diy-light-ring)
     * [4.3 Option 3: Target Corona Light Ring](#43-option-3-target-corona-light-ring)
-5. [Final Step: Wall Mounting](#final-step-wall-mounting)
-6. [Pro Tips & Troubleshooting](#pro-tips-troubleshooting)
+5. [Final Step: Wall Mounting](#5-final-step-wall-mounting)
+6. [Pro Tips & Troubleshooting](#6-pro-tips--troubleshooting)
     * [6.1 Assembly Best Practices](#61-assembly-best-practices)
-    * [6.2 Alignment & Performance](#62-alignment-performance)
-7. [Licensing & Community Support](#licensing-community-support)
+    * [6.2 Alignment & Performance](#62-alignment--performance)
+7. [Licensing & Community Support](#7-licensing--community-support)
 
 ---
 
 ## 1. General Overview
 
-> **Project Sirius** was designed with a clear vision: to be the brightest star in the sky. It points the way forward for an Autodarts system that is not only on par with existing solutions but aims to be significantly better in aesthetics, features, modularity, and ease of use.
+**Project Sirius** was designed with a clear vision: to be the brightest star in the sky. It points the way forward for an Autodarts system that is not only on par with existing solutions but aims to be significantly better in aesthetics, features, modularity, and ease of use.
+
 ### Key Features
 *   **Sleek & Slim Design** - Slimmest LED Light Ring as of 2026
 *   **Hidden Cable Management** - Internal routing for a clean, professional look
@@ -51,6 +52,7 @@
 | Cylindrical Screws | M4x10mm (ISO4762/DIN912) | 12   | Aliexpress<br>Amazon | Required for most of the assembly                                                                      |
 | Cylindrical Screws | M2x6mm (ISO4762/DIN912)  | 6-12 | Aliexpress<br>Amazon | Camera Screws.                                                                                         |
 | M4 Heat Inserts*   | 6.3mm OD                 | 12   | Aliexpress<br>Amazon | A heat insert with 6mm OD will also work.<br><br>*Only required when printing the heat insert version. |
+
 ### 2.2 Recommended Electronics
 
 | Part Name    | Type                                   | Link       | Comment                                        |
@@ -72,28 +74,27 @@
 
 ## 3. General Assembly: Camera Arms
 
-> Before building your specific version (DIY, Winmau Plasma, or Target Corona), you need to prepare the three camera arms. This process is identical for all versions.
+Before building your specific version (DIY, Winmau Plasma, or Target Corona), you need to prepare the three camera arms. This process is identical for all versions.
 
 > **Note:** If you have printed the **Self-Tapping version**, you can skip Step 1 (Heat Inserts).
 
-
 ### 3.1 Step 1: Heat Inserts
-> If you are using the **Heat Insert version**, melt the **M4 inserts** into the pre-designed holes in the camera arms using a soldering iron.
+If you are using the **Heat Insert version**, melt the **M4 inserts** into the pre-designed holes in the camera arms using a soldering iron.
 *   Ensure the inserts are flush with the surface for a clean fit.
 
-![kopf zu bein assembly.png](images/head-to-arm-assembly.png)
+![head-to-arm-assembly](images/head-to-arm-assembly.png)
 
 ### 3.2 Step 2: Camera Preparation & Resizing
-> Some cameras come with a 38x38mm mounting frame. To fit them, you need to **snap off the outer frame** to resize it to **32x32mm**.
+Some cameras come with a 38x38mm mounting frame. To fit them, you need to **snap off the outer frame** to resize it to **32x32mm**.
 *   Carefully break away the perforated edges using pliers.
 
 ---
 
 ## 4. Build Options: Choose Your Path
 
-> Now that your camera arms are prepared, choose the build guide that fits your setup.
+Now that your camera arms are prepared, choose the build guide that fits your setup.
 
-### 4.1 Option 1: Winmau Plasma Light Ring
+### 4.1 Option 1: Setup with Winmau Plasma Light Ring
 
 **Step 1:** ...
 **Step 2:** ...
@@ -102,7 +103,7 @@
 
 ---
 
-### 4.2 Option 2: IT2 DIY Light Ring
+### 4.2 Option 2: Setup with IT2 DIY Light Ring
 
 **Step 1:** ...
 **Step 2:** ...
@@ -131,15 +132,15 @@
 
 ## 6. Pro Tips & Troubleshooting
 
-> To ensure the best possible experience with your IT2 system, follow these professional tips and best practices.
+To ensure the best possible experience with your IT2 system, follow these professional tips and best practices.
 
 ### 6.1 Assembly Best Practices
-> When securing the cameras with M2 screws and the frame with M4 screws, tighten them until **"finger-tight."** 
+When securing the cameras with M2 screws and the frame with M4 screws, tighten them until **"finger-tight."** 
 *   Avoid over-tightening, as it can stress the 3D-printed threads or slightly bend the camera PCB, which might affect focus.
 
 ### 6.2 Alignment & Performance
 #### 120° Alignment
-> Correct alignment is crucial for scoring accuracy. Depending on your version, this is handled differently:
+Correct alignment is crucial for scoring accuracy. Depending on your version, this is handled differently:
 
 *   **Winmau Plasma & DIY Ring:** These setups feature a **"Hardware-Locked"** alignment. As long as the arms are correctly seated, your 120-degree angles are mathematically perfect—no manual alignment tools required.
 *   **Target Corona:** Since the adapters allow the arms to slide freely along the ring, you must take care to align them manually at exactly **120 degrees** to each other for optimal scoring accuracy.
@@ -147,7 +148,6 @@
 ---
 
 ## 7. Licensing & Community Support
-
 
 ### Commercial License
 *   **For-Profit Sales:** Selling this design for profit requires an active commercial license, available via my [Makerworld Profile](https://makerworld.com/en/@HipsThor/). Sales are only permitted while the subscription is active.
