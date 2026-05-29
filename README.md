@@ -1,5 +1,8 @@
 # IT2 - Autodarts Scoring System Manual
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20My%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/pZAjmwV5kE)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Project-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iterathor)
+
 **Last Updated:** Wednesday, May 27, 2026  
 **Version:** 1.0 (BETA)
 
