@@ -98,6 +98,7 @@ Secure the camera PCB using two **M2 screws**.
 
 **3. Lens Hood & Closing**  
 Twist-lock the lens hood into the camera lid (clockwise), then snap the lid onto the head.
+> **Tip:** Choose between the two lens hood designs provided in the print profile.
 
 ![lens-hood-preparation](images/lens-hood-preparation.png)
 
@@ -128,7 +129,7 @@ Route the USB cables through the internal channels of the arms towards the back 
 Connect the 3D-printed segments of the IT2 DIY Light Ring. Ensure the connections are tight to maintain structural integrity.
 
 **Step 2: LED Installation**  
-Install the **Auxmer 5000k LED strip** into the recessed channel of the ring. Start from the bottom to ensure the power cable can be routed cleanly.
+Install the **LED strip** into the recessed channel of the ring. Start from the bottom to ensure the power cable can be routed cleanly.
 
 **Step 3: Attaching the Arms**  
 Secure the camera arms to the integrated mounting points on the DIY ring using M4 screws. Like the Plasma version, this setup is **Hardware-Locked** for perfect alignment.
@@ -157,7 +158,7 @@ This version is specifically designed for rooms with limited height. It uses the
 Connect the 3D-printed segments of the IT2 DIY Low Ceiling Light Ring. Ensure the connections are tight to maintain structural integrity.
 
 **Step 2: LED Installation**  
-Install the **Auxmer 5000k LED strip** into the recessed channel of the ring. Start from the bottom to ensure the power cable can be routed cleanly.
+Install the **LED strip** into the recessed channel of the ring. Start from the bottom to ensure the power cable can be routed cleanly.
 
 **Step 3: Attaching the Arms**  
 Secure the camera arms to the integrated mounting points on the Low Ceiling ring using M4 screws. This setup is **Hardware-Locked** for perfect alignment.
@@ -232,15 +233,6 @@ Correct alignment is crucial for scoring accuracy. Depending on your version, th
 *   **For-Profit Sales:** Selling this design for profit requires an active commercial license, available via my [Makerworld Profile](https://makerworld.com/en/@HipsThor/). Sales are only permitted while the subscription is active.
 
 ### Exceptions (Non-Commercial)
-*   **Personal & Social:** Sharing with friends, family, or your local dart club (at material cost only) is encouraged and does not require a license. I only ask for feedback or a small donation if you like the project.
-*   **Community Assistance:** Printing for community members who don't own a printer (at material cost + a small handling fee) is allowed but **MUST** be handled transparently and discussed with me (**IteraThor**) on Discord first.
-
-### Support the Project
-*   **Feedback:** Join the Discord or leave a comment on Makerworld.
-*   **Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
-
----
-Commercial)
 *   **Personal & Social:** Sharing with friends, family, or your local dart club (at material cost only) is encouraged and does not require a license. I only ask for feedback or a small donation if you like the project.
 *   **Community Assistance:** Printing for community members who don't own a printer (at material cost + a small handling fee) is allowed but **MUST** be handled transparently and discussed with me (**IteraThor**) on Discord first.
 

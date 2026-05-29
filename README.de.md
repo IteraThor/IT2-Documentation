@@ -17,7 +17,7 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
     * [2.2 Erforderliches Werkzeug](#22-erforderliches-werkzeug)
 3. [Allgemeine Montage: Kamera-Arme](#3-allgemeine-montage-kamera-arme)
     * [3.1 Schritt 1: Kamera-Vorbereitung & Größenanpassung](#31-schritt-1-kamera-vorbereitung--größenanpassung)
-    * [3.2 Schritt 2: Vorbereitung der Schmelzeinsätze](#32-schritt-2-vorbereitung-der-heat-inserts)
+    * [3.2 Schritt 2: Vorbereitung der Schmelzeinsätze](#32-schritt-2-vorbereitung-der-schmelzeinsätze)
     * [3.3 Schritt 3: Kamera-Installation & Verschluss](#33-schritt-3-kamera-installation--verschluss)
 4. [Aufbau-Optionen: Wähle deinen Weg](#4-aufbau-optionen-wähle-deinen-weg)
     * [4.1 Option 1: Winmau Plasma Lichtring](#41-option-1-winmau-plasma-lichtring)
@@ -131,7 +131,7 @@ Führe die USB-Kabel durch die internen Kanäle der Arme zur Rückseite des Boar
 Verbinde die 3D-gedruckten Segmente des IT2 DIY Lichtrings. Achte auf eine feste Verbindung, um die Stabilität zu gewährleisten.
 
 **Schritt 2: LED-Installation**  
-Installiere den **Auxmer 5000k LED-Streifen** in den dafür vorgesehenen Kanal des Rings. Beginne unten, damit das Stromkabel sauber weggeführt werden kann.
+Installiere den **LED-Streifen** in den dafür vorgesehenen Kanal des Rings. Beginne unten, damit das Stromkabel sauber weggeführt werden kann.
 
 **Schritt 3: Befestigung der Arme**  
 Sichere die Kamera-Arme an den integrierten Montagepunkten des DIY-Rings mit M4 Schrauben. Wie bei der Plasma-Version ist dieses Setup **Hardware-Locked** für eine perfekte Ausrichtung.
@@ -160,7 +160,7 @@ Diese Version wurde speziell für Räume mit geringer Deckenhöhe entwickelt. Si
 Verbinde die 3D-gedruckten Segmente des IT2 DIY Low Ceiling Lichtrings. Achte auf eine feste Verbindung, um die Stabilität zu gewährleisten.
 
 **Schritt 2: LED-Installation**  
-Installiere den **Auxmer 5000k LED-Streifen** in den dafür vorgesehenen Kanal des Rings. Beginne unten, damit das Stromkabel sauber weggeführt werden kann.
+Installiere den **LED-Streifen** in den dafür vorgesehenen Kanal des Rings. Beginne unten, damit das Stromkabel sauber weggeführt werden kann.
 
 **Schritt 3: Befestigung der Arme**  
 Sichere die Kamera-Arme an den integrierten Montagepunkten des Low Ceiling Rings mit M4 Schrauben. Dieses Setup ist **Hardware-Locked** für eine perfekte Ausrichtung.
@@ -236,14 +236,6 @@ Die korrekte Ausrichtung ist entscheidend für die Scoring-Genauigkeit. Je nach 
 
 ### Ausnahmen (Nicht-kommerziell)
 *   **Privat & Sozial:** Das Teilen mit Freunden, Familie oder deinem lokalen Dartclub (nur zu Materialkosten) ist ausdrücklich erwünscht und erfordert keine Lizenz. Ich freue mich über Feedback oder eine kleine Spende, wenn dir das Projekt gefällt.
-*   **Community-Unterstützung:** Das Drucken für Community-Mitglieder, die keinen eigenen Drucker besitzen (Materialkosten + kleine Bearbeitungsgebühr), ist erlaubt, **MUSS** aber transparent gehandhabt und vorher mit mir (**IteraThor**) auf Discord besprochen werden.
-
-### Unterstütze das Projekt
-*   **Feedback:** Tritt dem Discord bei oder hinterlasse einen Kommentar auf Makerworld.
-*   **Spenden:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
-
----
-rivat & Sozial:** Das Teilen mit Freunden, Familie oder deinem lokalen Dartclub (nur zu Materialkosten) ist ausdrücklich erwünscht und erfordert keine Lizenz. Ich freue mich über Feedback oder eine kleine Spende, wenn dir das Projekt gefällt.
 *   **Community-Unterstützung:** Das Drucken für Community-Mitglieder, die keinen eigenen Drucker besitzen (Materialkosten + kleine Bearbeitungsgebühr), ist erlaubt, **MUSS** aber transparent gehandhabt und vorher mit mir (**IteraThor**) auf Discord besprochen werden.
 
 ### Unterstütze das Projekt
