@@ -17,7 +17,7 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
     * [2.2 Erforderliches Werkzeug](#22-erforderliches-werkzeug)
 3. [Allgemeine Montage: Kamera-Arme](#3-allgemeine-montage-kamera-arme)
     * [3.1 Schritt 1: Kamera-Vorbereitung & Größenanpassung](#31-schritt-1-kamera-vorbereitung--größenanpassung)
-    * [3.2 Schritt 2: Vorbereitung der Heat Inserts](#32-schritt-2-vorbereitung-der-heat-inserts)
+    * [3.2 Schritt 2: Vorbereitung der Schmelzeinsätze](#32-schritt-2-vorbereitung-der-heat-inserts)
     * [3.3 Schritt 3: Kamera-Installation & Verschluss](#33-schritt-3-kamera-installation--verschluss)
 4. [Aufbau-Optionen: Wähle deinen Weg](#4-aufbau-optionen-wähle-deinen-weg)
     * [4.1 Option 1: Winmau Plasma Lichtring](#41-option-1-winmau-plasma-lichtring)
@@ -56,7 +56,7 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
 | ------------------- | ------------------------- | ----- | -------------------- | -------------------------------------------------------------------------------------------------------- |
 | Zylinderschrauben   | M4x10mm (ISO4762/DIN912)  | 12    | Aliexpress<br>Amazon | Erforderlich für den Großteil der Montage.                                                               |
 | Zylinderschrauben   | M2x6mm (ISO4762/DIN912)   | 6-12  | Aliexpress<br>Amazon | Kameraschrauben.                                                                                         |
-| M4 Heat Inserts*    | 6.3mm Außendurchm.        | 12    | Aliexpress<br>Amazon | Ein Insert mit 6mm funktioniert ebenfalls.<br><br>*Nur für die Heat-Insert-Druckversion erforderlich.   |
+| M4 Schmelzeinsätze*    | 6.3mm Außendurchm.        | 12    | Aliexpress<br>Amazon | Ein Insert mit 6mm funktioniert ebenfalls.<br><br>*Nur für die Heat-Insert-Druckversion erforderlich.   |
 
 ### 2.2 Erforderliches Werkzeug
 
@@ -64,7 +64,7 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
 | ---------------------- | ------------------------------------------------------------------------ |
 | Inbusschlüssel-Set     | Für M4 und M2 Zylinderschrauben.                                         |
 | Zange / Seitenschneider| Zum Anpassen der Kamerarahmen von 38x38 auf 32x32.                       |
-| Lötkolben              | Zum Einschmelzen der M4 Heat Inserts (nur Heat-Insert-Version).          |
+| Lötkolben              | Zum Einschmelzen der M4 Schmelzeinsätze (nur Heat-Insert-Version).          |
 
 ---
 
@@ -79,7 +79,7 @@ Bevor du deine spezifische Version (DIY, Winmau Plasma oder Target Corona) baust
 
 ![camera-pliers](images/camera-pliers-2.png)
 
-### 3.2 Schritt 2: Vorbereitung der Heat Inserts
+### 3.2 Schritt 2: Vorbereitung der Schmelzeinsätze
 > **Selbstschneidende Version:** Wenn du diese Version gedruckt hast, kannst du diesen Schritt überspringen.
 
 Schmelze die **M4 Inserts** mit einem Lötkolben in die Löcher der Kamera-Arme und -Köpfe ein, wie im Bild unten gezeigt.
@@ -88,12 +88,12 @@ Schmelze die **M4 Inserts** mit einem Lötkolben in die Löcher der Kamera-Arme 
 
 ### 3.3 Schritt 3: Kamera-Installation & Verschluss
 **1. Montage von Kopf & Arm**  
-Verbinde den Kamerakopf und den Arm mit zwei **M4x10mm Schrauben**. Ziehe danach das USB-Kabel durch den internen Kanal des Gehäuses und schließe es an den 4-Pin-Anschluss der Kamera an.
+Verbinde den Kamerakopf und den Arm mit zwei **M4 Schrauben**. Ziehe danach das USB-Kabel durch den internen Kanal des Gehäuses und schließe es an den 4-Pin-Anschluss der Kamera an.
 
 ![head-to-leg-assembly-and-wire-pull](images/head-to-leg-assembly-and-wire-pull.png)
 
 **2. Montage der Kamera**  
-Befestige die Kamera-Platine mit zwei **M2x6mm Schrauben**. 
+Befestige die Kamera-Platine mit zwei **M2 Schrauben**. 
 
 > **Hinweis:** Diese Löcher sind selbstschneidend. Die Verwendung von nur zwei Schrauben wird empfohlen und ist beabsichtigt.
 
@@ -114,7 +114,7 @@ Nachdem deine Kamera-Arme vorbereitet sind, wähle die Aufbauanleitung, die zu d
 > **Pro-Tipp:** Du hast die Möglichkeit, das Stromkabel des Winmau Plasma durch die internen Kanäle des IT2-Systems zu führen, um eine noch sauberere Optik zu erzielen. Dies erfordert einige zusätzliche Schritte – siehe [Abschnitt 6.3: Verstecken des Winmau Plasma Stromkabels](#63-verstecken-des-winmau-plasma-stromkabels) für Details.
 
 **Schritt 1: Montage der Arme**  
-Befestige die drei vorbereiteten Kamera-Arme an den vorgesehenen Positionen auf dem Winmau Plasma Ring. Die IT2-Arme sind so konzipiert, dass sie perfekt auf das Profil des Plasma passen. Verwende M4x10mm Schrauben, um sie zu sichern.  
+Befestige die drei vorbereiteten Kamera-Arme an den vorgesehenen Positionen auf dem Winmau Plasma Ring. Die IT2-Arme sind so konzipiert, dass sie perfekt auf das Profil des Plasma passen. Verwende M4 Schrauben, um sie zu sichern.  
 *   **Hardware-Locked Ausrichtung:** Sobald die Arme sitzen, sind deine 120-Grad-Winkel mathematisch perfekt. Eine manuelle Justierung ist nicht erforderlich.
 
 **Schritt 2: Kabelführung**  
@@ -133,7 +133,7 @@ Verbinde die 3D-gedruckten Segmente des IT2 DIY Lichtrings. Achte auf eine feste
 Installiere den **Auxmer 5000k LED-Streifen** in den dafür vorgesehenen Kanal des Rings. Beginne unten, damit das Stromkabel sauber weggeführt werden kann.
 
 **Schritt 3: Befestigung der Arme**  
-Sichere die Kamera-Arme an den integrierten Montagepunkten des DIY-Rings mit M4x10mm Schrauben. Wie bei der Plasma-Version ist dieses Setup **Hardware-Locked** für eine perfekte Ausrichtung.
+Sichere die Kamera-Arme an den integrierten Montagepunkten des DIY-Rings mit M4 Schrauben. Wie bei der Plasma-Version ist dieses Setup **Hardware-Locked** für eine perfekte Ausrichtung.
 
 [Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
@@ -145,7 +145,7 @@ Sichere die Kamera-Arme an den integrierten Montagepunkten des DIY-Rings mit M4x
 Schiebe die **IT2 Corona Adapter** auf den Target Corona Ring. Diese Adapter bieten eine stabile Montagefläche für die Kamera-Arme auf dem dünneren Corona-Rahmen.
 
 **Schritt 2: Ausrichtung**  
-Befestige die Kamera-Arme an den Adaptern mit M4x10mm Schrauben. Da die Adapter auf dem Ring verschiebbar sind, musst du manuell darauf achten, dass sie in einem Winkel von exakt **120 Grad** zueinander positioniert sind, um eine optimale Genauigkeit zu gewährleisten.
+Befestige die Kamera-Arme an den Adaptern mit M4 Schrauben. Da die Adapter auf dem Ring verschiebbar sind, musst du manuell darauf achten, dass sie in einem Winkel von exakt **120 Grad** zueinander positioniert sind, um eine optimale Genauigkeit zu gewährleisten.
 
 [Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 

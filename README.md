@@ -86,12 +86,12 @@ Melt the **M4 inserts** into the holes of the camera arms and heads using a sold
 
 ### 3.3 Step 3: Camera Installation & Closing
 **1. Head & Leg Assembly**  
-Connect the camera head and leg together using two **M4x10mm screws**. Afterward, pull the USB cable through the internal channel of the body and connect it to the camera's 4-pin connector.
+Connect the camera head and leg together using two **M4 screws**. Afterward, pull the USB cable through the internal channel of the body and connect it to the camera's 4-pin connector.
 
 ![head-to-leg-assembly-and-wire-pull](images/head-to-leg-assembly-and-wire-pull.png)
 
 **2. Mounting**  
-Secure the camera PCB using two **M2x6mm screws**. 
+Secure the camera PCB using two **M2 screws**. 
 
 > **Note:** These holes are self-tapping. Using only two screws is recommended and intentional.
 
@@ -111,7 +111,7 @@ Now that your camera arms are prepared, choose the build guide that fits your se
 > **Pro Tip:** You have the option to route the Winmau Plasma's power cable through the internal channels of the IT2 system for an even cleaner look. This requires some extra steps refer to [Section 6.3: Hiding Winmau Plasma Power Cable](#63-hiding-winmau-plasma-power-cable) for details.
 
 **Step 1: Mounting the Arms**  
-Attach the three prepared camera arms to the designated positions on the Winmau Plasma ring. The IT2 arms are designed to fit the Plasma's profile perfectly. Use M4x10mm screws to secure them.  
+Attach the three prepared camera arms to the designated positions on the Winmau Plasma ring. The IT2 arms are designed to fit the Plasma's profile perfectly. Use M4 screws to secure them.  
 *   **Hardware-Locked Alignment:** Once the arms are seated, your 120-degree angles are mathematically perfect. No manual adjustment is required.
 
 **Step 2: Cable Management**  
@@ -130,7 +130,7 @@ Connect the 3D-printed segments of the IT2 DIY Light Ring. Ensure the connection
 Install the **Auxmer 5000k LED strip** into the recessed channel of the ring. Start from the bottom to ensure the power cable can be routed cleanly.
 
 **Step 3: Attaching the Arms**  
-Secure the camera arms to the integrated mounting points on the DIY ring using M4x10mm screws. Like the Plasma version, this setup is **Hardware-Locked** for perfect alignment.
+Secure the camera arms to the integrated mounting points on the DIY ring using M4 screws. Like the Plasma version, this setup is **Hardware-Locked** for perfect alignment.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -142,7 +142,7 @@ Secure the camera arms to the integrated mounting points on the DIY ring using M
 Slide the **IT2 Corona Adapters** onto the Target Corona ring. These adapters provide a stable mounting surface for the camera arms on the thinner Corona frame.
 
 **Step 2: Alignment**  
-Attach the camera arms to the adapters using M4x10mm screws. Since the adapters can slide along the ring, you must manually ensure they are positioned at exactly **120 degrees** to each other for optimal scoring accuracy.
+Attach the camera arms to the adapters using M4 screws. Since the adapters can slide along the ring, you must manually ensure they are positioned at exactly **120 degrees** to each other for optimal scoring accuracy.
 
 [Back to Table of Contents](#table-of-contents)
 
