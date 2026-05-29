@@ -220,7 +220,7 @@ Correct alignment is crucial for scoring accuracy. Depending on your version, th
 | Part Name    | Type                                   | Link       | Comment                                        |
 | ------------ | -------------------------------------- | ---------- | ---------------------------------------------- |
 | Cameras      | HBV OV2710                             | Aliexpress | Best Price to Performance Cameras.             |
-| LED Strip    | Auxmer 5000k 12V 9.6W                  | Aliexpress | Personal favorite. Truest to life colors.      |
+| LED Strip    | 12V 9.6W LED Strip                     | Aliexpress | Personal favorite. Truest to life colors.      |
 | PC           | Dell Wyse 5070 >=4GB RAM >= 16 Storage | Aliexpress | Personal favorite. Good Price for performance. |
 | Touch Screen | Anmite 16" Touchscreen                 | Aliexpress | Personal favorite. Good Price for performance. |
 

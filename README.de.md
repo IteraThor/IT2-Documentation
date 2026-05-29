@@ -223,7 +223,7 @@ Die korrekte Ausrichtung ist entscheidend für die Scoring-Genauigkeit. Je nach 
 | Teil-Name    | Typ                                    | Link       | Kommentar                                      |
 | ------------ | -------------------------------------- | ---------- | ---------------------------------------------- |
 | Kameras      | HBV OV2710                             | Aliexpress | Beste Preis-Leistungs-Kameras.                 |
-| LED-Streifen | Auxmer 5000k 12V 9.6W                  | Aliexpress | Mein Favorit. Beste Farbwiedergabe.            |
+| LED-Streifen | 12V 9.6W LED-Streifen                  | Aliexpress | Mein Favorit. Beste Farbwiedergabe.            |
 | PC           | Dell Wyse 5070 >=4GB RAM >= 16 Storage | Aliexpress | Mein Favorit. Gutes Preis-Leistungs-Verhältnis. |
 | Touchscreen  | Anmite 16" Touchscreen                 | Aliexpress | Mein Favorit. Gutes Preis-Leistungs-Verhältnis. |
 
