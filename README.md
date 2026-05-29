@@ -21,6 +21,7 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
     * [4.1 Option 1: Winmau Plasma Light Ring](#41-option-1-winmau-plasma-light-ring)
     * [4.2 Option 2: IT2 DIY Light Ring](#42-option-2-it2-diy-light-ring)
     * [4.3 Option 3: Target Corona Light Ring](#43-option-3-target-corona-light-ring)
+    * [4.4 Option 4: IT2 DIY Low Ceiling Light Ring](#44-option-4-it2-diy-low-ceiling-light-ring)
 5. [Final Step: Installation & Wall Mounting](#5-final-step-installation--wall-mounting)
 6. [Pro Tips & Troubleshooting](#6-pro-tips--troubleshooting)
     * [6.1 Assembly Best Practices](#61-assembly-best-practices)
@@ -166,7 +167,7 @@ The **IT2 Baseplate** is an optional unit designed to simplify the installation 
     *   **Sound Insulation:** Features an integrated, optional sound insulation system.
     *   **Stand Compatibility:** Can be installed on a dartboard stand by default (e.g., Winmau Xtreme Dartboard Stand 2).
 *   **Trade-offs:**
-    *   **Wall Offset:** The baseplate adds approximately **25mm of depth**. You **MUST** adjust your oche (throw line) distance by 25mm to maintain official dimensions.
+    *   **Wall Offset:** The baseplate adds approximately **30mm of depth**. You **MUST** adjust your oche (throw line) distance by 30mm to maintain official dimensions.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -212,6 +213,15 @@ Correct alignment is crucial for scoring accuracy. Depending on your version, th
 *   **For-Profit Sales:** Selling this design for profit requires an active commercial license, available via my [Makerworld Profile](https://makerworld.com/en/@HipsThor/). Sales are only permitted while the subscription is active.
 
 ### Exceptions (Non-Commercial)
+*   **Personal & Social:** Sharing with friends, family, or your local dart club (at material cost only) is encouraged and does not require a license. I only ask for feedback or a small donation if you like the project.
+*   **Community Assistance:** Printing for community members who don't own a printer (at material cost + a small handling fee) is allowed but **MUST** be handled transparently and discussed with me (**IteraThor**) on Discord first.
+
+### Support the Project
+*   **Feedback:** Join the Discord or leave a comment on Makerworld.
+*   **Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+
+---
+Commercial)
 *   **Personal & Social:** Sharing with friends, family, or your local dart club (at material cost only) is encouraged and does not require a license. I only ask for feedback or a small donation if you like the project.
 *   **Community Assistance:** Printing for community members who don't own a printer (at material cost + a small handling fee) is allowed but **MUST** be handled transparently and discussed with me (**IteraThor**) on Discord first.
 

@@ -23,6 +23,7 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
     * [4.1 Option 1: Winmau Plasma Lichtring](#41-option-1-winmau-plasma-lichtring)
     * [4.2 Option 2: IT2 DIY Lichtring](#42-option-2-it2-diy-lichtring)
     * [4.3 Option 3: Target Corona Lichtring](#43-option-3-target-corona-lichtring)
+    * [4.4 Option 4: IT2 DIY Low Ceiling Lichtring](#44-option-4-it2-diy-low-ceiling-lichtring)
 5. [Letzter Schritt: Installation & Wandmontage](#5-letzter-schritt-installation--wandmontage)
 6. [Profi-Tipps & Fehlerbehebung](#6-profi-tipps--fehlerbehebung)
     * [6.1 Best Practices für die Montage](#61-best-practices-für-die-montage)
@@ -169,7 +170,7 @@ Die **IT2 Baseplate** ist eine optionale Einheit, die den Installationsprozess v
     *   **Schallschutz:** Verfügt über ein integriertes, optionales Schallschutzsystem.
     *   **Ständer-Kompatibilität:** Kann standardmäßig auf einem Dartständer installiert werden (z. B. Winmau Xtreme Dartboard Stand 2).
 *   **Nachteile:**
-    *   **Wandabstand:** Die Basisplatte fügt ca. **25mm Tiefe** hinzu. Du **MUSST** den Abstand deiner Oche (Abwurflinie) um 25mm anpassen, um die offiziellen Maße einzuhalten.
+    *   **Wandabstand:** Die Basisplatte fügt ca. **30mm Tiefe** hinzu. Du **MUSST** den Abstand deiner Oche (Abwurflinie) um 30mm anpassen, um die offiziellen Maße einzuhalten.
 
 [Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
@@ -216,6 +217,14 @@ Die korrekte Ausrichtung ist entscheidend für die Scoring-Genauigkeit. Je nach 
 
 ### Ausnahmen (Nicht-kommerziell)
 *   **Privat & Sozial:** Das Teilen mit Freunden, Familie oder deinem lokalen Dartclub (nur zu Materialkosten) ist ausdrücklich erwünscht und erfordert keine Lizenz. Ich freue mich über Feedback oder eine kleine Spende, wenn dir das Projekt gefällt.
+*   **Community-Unterstützung:** Das Drucken für Community-Mitglieder, die keinen eigenen Drucker besitzen (Materialkosten + kleine Bearbeitungsgebühr), ist erlaubt, **MUSS** aber transparent gehandhabt und vorher mit mir (**IteraThor**) auf Discord besprochen werden.
+
+### Unterstütze das Projekt
+*   **Feedback:** Tritt dem Discord bei oder hinterlasse einen Kommentar auf Makerworld.
+*   **Spenden:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+
+---
+rivat & Sozial:** Das Teilen mit Freunden, Familie oder deinem lokalen Dartclub (nur zu Materialkosten) ist ausdrücklich erwünscht und erfordert keine Lizenz. Ich freue mich über Feedback oder eine kleine Spende, wenn dir das Projekt gefällt.
 *   **Community-Unterstützung:** Das Drucken für Community-Mitglieder, die keinen eigenen Drucker besitzen (Materialkosten + kleine Bearbeitungsgebühr), ist erlaubt, **MUSS** aber transparent gehandhabt und vorher mit mir (**IteraThor**) auf Discord besprochen werden.
 
 ### Unterstütze das Projekt
