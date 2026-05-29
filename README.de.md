@@ -152,6 +152,25 @@ Befestige die Kamera-Arme an den Adaptern mit M4 Schrauben. Da die Adapter auf d
 
 ---
 
+### 4.4 Option 4: IT2 DIY Low Ceiling Lichtring
+
+Diese Version wurde speziell für Räume mit geringer Deckenhöhe entwickelt. Sie nutzt die gleiche Montage-Logik wie der Standard-DIY-Ring, verfügt aber über ein modifiziertes Profil, um Platz zu sparen.
+
+**Schritt 1: Zusammenbau des Rings**  
+Verbinde die 3D-gedruckten Segmente des IT2 DIY Low Ceiling Lichtrings. Achte auf eine feste Verbindung, um die Stabilität zu gewährleisten.
+
+**Schritt 2: LED-Installation**  
+Installiere den **Auxmer 5000k LED-Streifen** in den dafür vorgesehenen Kanal des Rings. Beginne unten, damit das Stromkabel sauber weggeführt werden kann.
+
+**Schritt 3: Befestigung der Arme**  
+Sichere die Kamera-Arme an den integrierten Montagepunkten des Low Ceiling Rings mit M4 Schrauben. Dieses Setup ist **Hardware-Locked** für eine perfekte Ausrichtung.
+
+*(Bild-Platzhalter)*
+
+[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+---
+
 ## 5. Letzter Schritt: Installation & Wandmontage
 
 Das IT2-System bietet zwei Hauptinstallationswege, je nach deinen Anforderungen an Ästhetik, Montageaufwand und Wandschutz.
