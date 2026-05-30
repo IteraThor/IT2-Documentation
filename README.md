@@ -3,8 +3,8 @@
 [![Discord](https://img.shields.io/badge/Discord-Join%20My%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/pZAjmwV5kE)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Project-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iterathor)
 
-**Last Updated:** Wednesday, May 30, 2026  
-**Version:** 0.95
+**Last Updated:** Samstag, 30. Mai 2026  
+**Version:** 1.0 (BETA)
 
 Welcome to the official manual for the IT2 Autodarts Scoring System. This guide will walk you through the assembly process.
 
@@ -30,8 +30,11 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
     * [6.1 Assembly Best Practices](#61-assembly-best-practices)
     * [6.2 Alignment & Performance](#62-alignment--performance)
     * [6.3 Hiding Winmau Plasma Power Cable](#63-hiding-winmau-plasma-power-cable)
+    * [6.4 Hiding Target Corona Power Cable](#64-hiding-target-corona-power-cable)
 7. [Recommended Electronics](#7-recommended-electronics)
-8. [Licensing & Community Support](#8-licensing--community-support)
+8. [FAQ](#8-faq)
+9. [Licensing & Community Support](#9-licensing--community-support)
+10. [Support the Project](#10-support-the-project)
 
 
 ---
@@ -41,10 +44,11 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
 **Project Sirius** was designed with a clear vision: to be the brightest star in the sky. It points the way forward for an Autodarts system that is not only on par with existing solutions but aims to be significantly better in aesthetics, features, modularity, and ease of use.
 
 ### Key Features
-*   **Sleek & Slim Design** - Slimmest LED Light Ring as of 2026
-*   **Hidden Cable Management** - Internal routing for a clean, professional look
-*   **Universal Compatibility** - Winmau Plasma, Corona Target - and more in the future
-*   **Two Screw Assembly** - Minimalist hardware: M4 for assembly, M2 for cameras
+*   **Sleek & Slim Design** - The slimmest DIY LED Light Ring as of 2026.
+*   **Hidden Cable Management** - Internal routing for a clean look. Fits Corona or Plasma power barrels without any modifications.
+*   **No-Support Printing** - Designed for zero supports, minimizing material waste and print time.
+*   **Universal Compatibility** - Native support for Winmau Plasma, Target Corona, and IT2 DIY Rings.
+*   **Minimalist Hardware** - Built using only 12x M4 screws and standard M2 camera screws.
 
 ---
 
@@ -56,8 +60,8 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
 
 | Part Name          | Type                     | qty  | Link                 | Comment                                                                                                |
 | ------------------ | ------------------------ | ---- | -------------------- | ------------------------------------------------------------------------------------------------------ |
-| Cylindrical Screws | M4x10mm (ISO4762/DIN912) | 12   | Aliexpress<br>Amazon | Required for most of the assembly                                                                      |
-| Cylindrical Screws | M2x6mm (ISO4762/DIN912)  | 6-12 | Aliexpress<br>Amazon | Camera Screws.                                                                                         |
+| Cylindrical Screws | M4 (ISO4762/DIN912)      | 12   | Aliexpress<br>Amazon | Required for most of the assembly                                                                      |
+| Cylindrical Screws | M2 (ISO4762/DIN912)      | 6-12 | Aliexpress<br>Amazon | Camera Screws.                                                                                         |
 | M4 Heat Inserts*   | 6.3mm OD                 | 12   | Aliexpress<br>Amazon | A heat insert with 6mm OD will also work.<br><br>*Only required when printing the heat insert version. |
 
 ### 2.2 Required Tools
@@ -105,6 +109,11 @@ Twist-lock the lens hood into the camera lid (clockwise), then snap the lid onto
 
 ![lens-hood-preparation](images/lens-hood-preparation.png)
 
+**Final Result of Phase 1**  
+After completing these steps, you should have three fully assembled camera arms ready for mounting.
+
+[<img src="images/assembled.png" width="200" alt="assembled camera arms">](images/assembled.png)
+
 ---
 
 ## 4. Build Options: Choose Your Path
@@ -113,62 +122,79 @@ Now that your camera arms are prepared, choose the build guide that fits your se
 
 ### 4.1 Option 1: Winmau Plasma Light Ring
 
-> **Pro Tip:** You have the option to route the Winmau Plasma's power cable through the internal channels of the IT2 system for an even cleaner look. This requires some extra steps refer to [Section 6.3: Hiding Winmau Plasma Power Cable](#63-hiding-winmau-plasma-power-cable) for details.
+> **Pro Tip:** You have the option to route the Winmau Plasma's power cable through the internal channels of the IT2 system for an even cleaner look. This requires some extra steps- refer to [Section 6.3: Hiding Winmau Plasma Power Cable](#63-hiding-winmau-plasma-power-cable) for details.
 
-**Step 1: Mounting the Arms**  
+**Step 1: Removing Original Legs**  
+Remove the three original mounting legs from your Winmau Plasma light ring. These will be replaced by the IT2 camera arms.
+
+**Step 2: Mounting the IT2 Arms**  
 Attach the three prepared camera arms to the designated positions on the Winmau Plasma ring. The IT2 arms are designed to fit the Plasma's profile perfectly. Use M4 screws to secure them.  
 *   **Hardware-Locked Alignment:** Once the arms are seated, your 120-degree angles are mathematically perfect. No manual adjustment is required.
 
-**Step 2: Cable Management**  
+![winmau-assembly](images/winmau-assembly.png)
+
+**Step 3: Cable Management**  
 Route the USB cables through the internal channels of the arms towards the back of the board. This ensures a clean look and protects the cables from stray dart hits.
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-installation-to-the-wall)**
 
 ---
 
 ### 4.2 Option 2: Setup with IT2 DIY Light Ring
 
 **Step 1: Ring Assembly**  
-Connect the 3D-printed segments of the IT2 DIY Light Ring. Ensure the connections are tight to maintain structural integrity.
+Assemble the ring by sliding the **dovetail joints** together. Use the **3 mounting segments** and **6 intermediate segments** in the correct sequence for a perfect 120° alignment.
+
+![dovetail-assembly-diy-ring](images/dovetail-assembly-diy-ring.png)
+
+> **Note:** All segments must sit flush against each other. The dovetail joints should slide together with moderate force. If they are too tight, it is likely due to printer tolerances or uncalibrated filament. In this case, carefully sand the dovetail edges until they fit smoothly.
 
 **Step 2: LED Installation**  
-Install the **LED strip** into the recessed channel of the ring. Start from the bottom to ensure the power cable can be routed cleanly.
+Install the **LED strip** as shown in the picture below. Ensure the strip is touching the deepest surface for optimal results.
+
+![diy_led_install](images/diy_led_install.png)
 
 **Step 3: Attaching the Arms**  
-Secure the camera arms to the integrated mounting points on the DIY ring using M4 screws. Like the Plasma version, this setup is **Hardware-Locked** for perfect alignment.
+Secure the camera arms to the integrated mounting points on the DIY ring using M4 screws. 
 
-[Back to Table of Contents](#table-of-contents)
+![diy-assembly](images/diy-assembly.png)
+
+[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-installation-to-the-wall)**
 
 ---
 
 ### 4.3 Option 3: Target Corona Light Ring
 
-**Step 1: Using the Adapters**  
-Slide the **IT2 Corona Adapters** onto the Target Corona ring. These adapters provide a stable mounting surface for the camera arms on the thinner Corona frame.
+**Step 1: Adapter Preparation**  
+Install the **lower part of the IT2 Corona Adapter** onto the three prepared camera arms using M4 screws. 
 
-**Step 2: Alignment**  
-Attach the camera arms to the adapters using M4 screws. Since the adapters can slide along the ring, you must manually ensure they are positioned at exactly **120 degrees** to each other for optimal scoring accuracy.
+![corona-preparation](images/corona-preparation.png)
 
-[Back to Table of Contents](#table-of-contents)
+**Step 2: Mounting & Alignment**  
+Place the Target Corona ring into the recesses of the installed lower adapter parts. 
+
+![corona-recess](images/corona-recess.png)
+
+Then, hook the **upper part of the adapter** into the ring and snap it into place. 
+
+![corona-hook](images/corona-hook.png)
+
+> **Tip:** Try to position the adapters at an approximate **120-degree offset** while snapping them on. This will minimize the amount of fine-tuning needed afterward.
+
+![corona-alignment](images/corona-alignment.png)
+
+> **Pro Tip:** You have the option to route the Target Corona's power cable through the internal channels of the IT2 system for an even cleaner look. This requires some extra steps- refer to [Section 6.4: Hiding Target Corona Power Cable](#64-hiding-target-corona-power-cable) for details.
+
+[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-installation-to-the-wall)**
 
 ---
 
 ### 4.4 Option 4: IT2 DIY Low Ceiling Light Ring
 
-This version is specifically designed for rooms with limited height. It uses the same core assembly logic as the standard DIY ring but with a modified profile to save space.
+**Work in Progress**  
+The documentation for the Low Ceiling version is currently being finalized. For now, please refer to the [standard IT2 DIY Light Ring assembly](#42-option-2-setup-with-it2-diy-light-ring) for general guidance, as the core assembly steps are nearly identical.
 
-**Step 1: Ring Assembly**  
-Connect the 3D-printed segments of the IT2 DIY Low Ceiling Light Ring. Ensure the connections are tight to maintain structural integrity.
-
-**Step 2: LED Installation**  
-Install the **LED strip** into the recessed channel of the ring. Start from the bottom to ensure the power cable can be routed cleanly.
-
-**Step 3: Attaching the Arms**  
-Secure the camera arms to the integrated mounting points on the Low Ceiling ring using M4 screws. This setup is **Hardware-Locked** for perfect alignment.
-
-*(Picture Placeholder)*
-
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-installation-to-the-wall)**
 
 ---
 
@@ -208,12 +234,15 @@ When securing the cameras with M2 screws and the frame with M4 screws, tighten t
 #### 120° Alignment
 Correct alignment is crucial for scoring accuracy. Depending on your version, this is handled differently:
 
-*   **Winmau Plasma & DIY Ring:** These setups feature a **"Hardware-Locked"** alignment. As long as the arms are correctly seated, your 120-degree angles are mathematically perfect—no manual alignment tools required.
+*   **Winmau Plasma & DIY Ring:** These setups feature a **"Hardware-Locked"** alignment. As long as the arms are correctly seated, your 120-degree angles are mathematically perfect - no manual alignment tools required.
 *   **Target Corona:** Since the adapters allow the arms to slide freely along the ring, you must take care to align them manually at exactly **120 degrees** to each other for optimal scoring accuracy.
 
 ### 6.3 Hiding Winmau Plasma Power Cable
 **Step 1:** ...
 **Step 2:** ...
+
+### 6.4 Hiding Target Corona Power Cable
+*(Instructions coming soon)*
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -230,7 +259,23 @@ Correct alignment is crucial for scoring accuracy. Depending on your version, th
 
 ---
 
-## 8. Licensing & Community Support
+## 8. FAQ
+
+### Q: Which material should I use for 3D printing?
+**A:** If your setup is located indoors away from direct sunlight and temperatures stay below **40°C**, standard **PLA** is perfectly sufficient. For environments with higher temperatures or direct sun exposure, **PETG** or **ASA** is recommended, though these can be more challenging to print depending on your printer.
+
+### Q: Which cameras should I choose?
+**A:** The clear price-to-performance winner is the **HBV OV2710**. Investing in more expensive, higher-resolution cameras provides no benefit as Autodarts is resolution-limited. While the **OV9732** is a cheaper alternative, it requires significantly better lighting; therefore, I exclusively recommend the OV2710 for its superior handling of various lighting conditions.
+
+### Q: Which LED strip should I get?
+**A:** Avoid USB light strips. The community standard is **6000K COB LEDs** (12V or 24V). My personal recommendation is the **Auxmer 120 LEDs/m (9.6W, CRI90)**; in my tests, it outperformed even the Winmau Plasma. If you are on a budget, any 6000K strip with approximately 10W per meter will work. Just ensure it is bright enough.
+
+### Q: Should I use a Raspberry Pi or a Mini PC?
+**A:** Unless you already own a Raspberry Pi, I recommend getting a refurbished Mini PC. They are often cheaper (starting at 50€) and offer better performance and touchscreen support. My personal favorite is the **Dell Wyse 5070** (4GB RAM, 16GB storage), which is widely available refurbished and perfectly handles the Autodarts software.
+
+---
+
+## 9. Licensing & Community Support
 
 ### Commercial License
 *   **For-Profit Sales:** Selling this design for profit requires an active commercial license, available via my [Makerworld Profile](https://makerworld.com/en/@HipsThor/). Sales are only permitted while the subscription is active.
@@ -239,7 +284,9 @@ Correct alignment is crucial for scoring accuracy. Depending on your version, th
 *   **Personal & Social:** Sharing with friends, family, or your local dart club (at material cost only) is encouraged and does not require a license. I only ask for feedback or a small donation if you like the project.
 *   **Community Assistance:** Printing for community members who don't own a printer (at material cost + a small handling fee) is allowed but **MUST** be handled transparently and discussed with me (**IteraThor**) on Discord first.
 
-### Support the Project
+---
+
+## 10. Support the Project
 *   **Feedback:** Join the Discord or leave a comment on Makerworld.
 *   **Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
 
