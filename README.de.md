@@ -44,9 +44,10 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
 
 ### Hauptmerkmale
 *   **Schlankes Design** - Der bisher schmalste 3D-gedruckte LED-Lichtring (Stand 2026).
-*   **Verdeckte Kabelführung** - Interne Kanäle für eine saubere, professionelle Optik.
-*   **Universelle Kompatibilität** - Winmau Plasma, Target Corona – und weitere in der Zukunft.
-*   **Minimalistische Hardware** - Nur zwei Schraubentypen: M4 für den Aufbau, M2 für die Kameras.
+*   **Verdeckte Kabelführung** - Interne Kanäle für eine saubere Optik. Passt ohne Modifikationen für Corona- oder Plasma-Stromanschlüsse.
+*   **Druck ohne Supports** - Für null Supports optimiert, um Materialabfall und Druckzeit zu minimieren.
+*   **Universelle Kompatibilität** - Native Unterstützung für Winmau Plasma, Target Corona und IT2 DIY-Ringe.
+*   **Minimalistische Hardware** - Gebaut mit nur 12x M4 Schrauben und Standard M2 Kameraschrauben.
 
 ---
 
