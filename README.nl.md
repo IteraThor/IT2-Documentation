@@ -64,7 +64,7 @@ Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Dez
 
 | Onderdeelnaam      | Type                     | Aantal | Link                 | Opmerking                                                                                              |
 | ------------------ | ------------------------ | ------ | -------------------- | ------------------------------------------------------------------------------------------------------ |
-| Cilinderkopschroef | M4 (ISO4762/DIN912)      | 12     | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>Amazon | Vereist voor het grootste deel van de montage.                                                         |
+| Cilinderkopschroef | M4 (ISO4762/DIN912)      | 12     | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon](https://amzn.to/49r8kCE) | Vereist voor het grootste deel van de montage.                                                         |
 | Cilinderkopschroef | M2 (ISO4762/DIN912)      | 6-12   | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>Amazon | Cameraschroeven.                                                                                       |
 | M4 Smeltmoeren*    | 6.3mm OD                 | 12     | Aliexpress<br>Amazon | Een smeltmoer met 6mm OD werkt ook.<br><br>*Alleen vereist bij het printen van de "heat insert" versie. |
 
