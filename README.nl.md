@@ -274,7 +274,7 @@ Zorg er bij het aandraaien van schroeven voor dat ze slechts **"handvast"** zitt
 | LED-strip     | Auxmer 12V 9.6W LED-strip              | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | Persoonlijke favoriet. Meest natuurgetrouwe kleuren. |
 | Voeding       | 12V 3A Voedingsadapter                 | [Aliexpress](https://s.click.aliexpress.com/e/_c2IYxq1R) | Vereist voor de DIY LED-strip.                 |
 | DC-connector  | 2.1mm DC-Hohlbuchse                    | [Aliexpress](https://s.click.aliexpress.com/e/_c3L2uy4H) | Om de voeding op de LED-strip aan te sluiten.  |
-| PC            | Dell Wyse 5070 ≥4GB RAM ≥ 16 Storage   |                                                          | Persoonlijke favoriet. Goede prijs-kwaliteitverhouding. |
+| PC            | Dell Wyse 5070 ≥4GB RAM ≥ 16GB Storage   |                                                          | Persoonlijke favoriet. Goede prijs-kwaliteitverhouding. |
 | Touchscreen   | Anmite 16" Touchscreen                 | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | Persoonlijke favoriet. Goede prijs-kwaliteitverhouding. |
 
 ---

@@ -265,7 +265,7 @@ Achte beim Festziehen der Schrauben darauf, diese nur **"handfest"** anzuziehen.
 | LED-Streifen | Auxmer 12V 9.6W LED-Streifen           | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | Mein Favorit. Beste Farbwiedergabe.            |
 | Netzteil     | 12V 3A Netzadapter                     | [Aliexpress](https://s.click.aliexpress.com/e/_c2IYxq1R) | Erforderlich für den DIY LED-Streifen.         |
 | DC-Anschluss | 2.1mm DC-Hohlbuchse                    | [Aliexpress](https://s.click.aliexpress.com/e/_c3L2uy4H) | Zum Anschluss der Stromversorgung an die LEDs. |
-| PC           | Dell Wyse 5070 ≥4GB RAM ≥ 16 Storage   |                                                          | Mein Favorit. Gutes Preis-Leistungs-Verhältnis. |
+| PC           | Dell Wyse 5070 ≥4GB RAM ≥ 16GB Storage   |                                                          | Mein Favorit. Gutes Preis-Leistungs-Verhältnis. |
 | Touchscreen  | Anmite 16" Touchscreen                 | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | Mein Favorit. Gutes Preis-Leistungs-Verhältnis. |
 
 ---

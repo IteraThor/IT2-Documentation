@@ -272,7 +272,7 @@ When tightening screws, ensure they are only **"finger-tight."**
 | LED Strip    | Auxmer 12V 9.6W LED Strip            | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | Personal favorite. Truest to life colors.      |
 | Power Supply | 12V 3A Power Adapter                 | [Aliexpress](https://s.click.aliexpress.com/e/_c2IYxq1R) | Required for the DIY LED strip.                |
 | DC Connector | 2.1mm Female DC Barrel Jack          | [Aliexpress](https://s.click.aliexpress.com/e/_c3L2uy4H) | Required to connect power to the LED strip.    |
-| PC           | Dell Wyse 5070 ≥4GB RAM ≥ 16 Storage |                                                          | Personal favorite. Good Price for performance. |
+| PC           | Dell Wyse 5070 ≥4GB RAM ≥ 16GB Storage   |                                                          | Personal favorite. Good Price for performance. |
 | Touch Screen | Anmite 16" Touchscreen               | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | Personal favorite. Good Price for performance. |
 
 ---
