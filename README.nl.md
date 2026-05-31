@@ -12,7 +12,7 @@
 
 Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Deze gids begeleidt je door het montageproces.
 
-![dimensions](images/dimensions.png)
+![afmetingen](images/01_overview/dimensions.png)
 
 ---
 ## Inhoudsopgave
@@ -87,20 +87,20 @@ Voordat je jouw specifieke versie bouwt (DIY, Winmau Plasma of Target Corona), m
 
  Breek de geperforeerde randen voorzichtig af met een tang.
 
-![camera-pliers](images/camera-pliers-2.png)
+![camera_verkleinen](images/03_general/01_camera_resize.png)
 
 ### 3.2 Stap 2: Voorbereiding smeltmoeren
 > Zelftappende versie: Als je voor deze versie hebt gekozen, kun je deze stap overslaan.
 
 Smelt de **M4 moeren** in de gaten van de camera-armen en -koppen met een soldeerbout, zoals weergegeven op de onderstaande afbeelding.
 
-![heat_insert-ion](images/heat_insert-ion.png)
+![smeltmoeren_voorbereiding](images/03_general/02_heat_inserts.png)
 
 ### 3.3 Stap 3: Camera installatie & sluiten
 **1. Montage van Kop & Arm**  
 Verbind de camerakop en de arm met twee **M4 schroeven**. Trek vervolgens de USB-kabel door het interne kanaal van de behuizing en sluit deze aan op de 4-pins connector van de camera.
 
-![head-to-leg-assembly-and-wire-pull](images/head-to-leg-assembly-and-wire-pull.png)
+![arm_montage](images/03_general/03_arm_assembly.png)
 
 **2. Montage**  
 Zet de camera PCB vast met twee **M2 schroeven**. 
@@ -111,12 +111,12 @@ Zet de camera PCB vast met twee **M2 schroeven**.
 Draai de zonnekap vast in het cameradeksel (met de klok mee, twist-lock), en klik vervolgens het deksel op de kop.
 > **Tip:** Kies tussen de twee zonnekap-ontwerpen die in het printprofiel worden aangeboden.
 
-![lens-hood-preparation](images/lens-hood-preparation.png)
+![zonnekap_voorbereiding](images/03_general/04_lens_hood.png)
 
 **Eindresultaat van Fase 1**  
 Na het voltooien van deze stappen heb je drie volledig gemonteerde camera-armen klaar voor installatie.
 
-[<img src="images/assembled.png" width="200" alt="gemonteerde camera-armen">](images/assembled.png)
+[<img src="images/03_general/05_result_phase1.png" width="200" alt="gemonteerde camera-armen">](images/03_general/05_result_phase1.png)
 
 ---
 
@@ -135,7 +135,7 @@ Verwijder de drie originele montagepoten van je Winmau Plasma lichtring. Deze wo
 Bevestig de drie voorbereide camera-armen op de daarvoor bestemde posities op de Winmau Plasma ring. De IT2-armen zijn ontworpen om perfect op het profiel van de Plasma te passen. Gebruik M4 schroeven om ze vast te zetten.  
 *   **Hardware-Locked Uitlijning:** Zodra de armen op hun plek zitten, zijn je 120-graden hoeken wiskundig perfect. Handmatige aanpassing is niet nodig.
 
-![winmau-assembly](images/winmau-assembly.png)
+![plasma_montage](images/04_options/01_plasma_mounting.png)
 
 **Stap 3: Kabelbeheer**  
 Leid de USB-kabels door de interne kanalen van de armen naar de achterkant van het bord. Dit zorgt voor een strak uiterlijk en beschermt de kabels tegen verdwaalde darts.
@@ -149,19 +149,19 @@ Leid de USB-kabels door de interne kanalen van de armen naar de achterkant van h
 **Stap 1: Montage van de Ring**  
 Zet de ring in elkaar door de **zwaluwstaartverbindingen** in elkaar te schuiven. Gebruik de **3 montagesegmenten** en **6 tussensegmenten** in de juiste volgorde voor een perfecte 120° uitlijning.
 
-![dovetail-assembly-diy-ring](images/dovetail-assembly-diy-ring.png)
+![ring_zwaluwstaart](images/04_options/02_diy_ring_assembly.png)
 
 > **Opmerking:** Alle segmenten moeten vlak tegen elkaar aanliggen. De zwaluwstaartverbindingen moeten met matige kracht in elkaar schuiven. Als ze te strak zitten, komt dit waarschijnlijk door printertoleranties of ongekalibreerd filament. Schuur in dat geval voorzichtig de randen van de zwaluwstaart af tot ze soepel passen.
 
 **Stap 2: LED-installatie**  
 Installeer de **LED-strip** zoals getoond op de onderstaande afbeelding. Zorg ervoor dat de strip het diepste oppervlak raakt voor een optimaal resultaat.
 
-![diy_led_install](images/diy_led_install.png)
+![led_installatie](images/04_options/03_diy_led_install.png)
 
 **Stap 3: Bevestigen van de armen**  
 Zet de camera-armen vast op de geïntegreerde montagepunten op de DIY-ring met M4 schroeven. 
 
-![diy-assembly](images/diy-assembly.png)
+![arm_bevestiging](images/04_options/04_diy_arm_mounting.png)
 
 [Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-installatie-aan-de-wand)**
 
@@ -170,22 +170,22 @@ Zet de camera-armen vast op de geïntegreerde montagepunten op de DIY-ring met M
 ### 4.3 Optie 3: Target Corona Lichtring
 
 **Stap 1: Voorbereiding Adapter**  
-Installeer het **onderste deel van de IT2 Corona Adapter** op de drie voorbereide camera-armen met M4 schroeven. 
+Installeer het **onderste deel van de IT2 Corona Adapter** op de drie [voorbereide camera-armen](#3-algemene-montage-camera-armen) met M4 schroeven. 
 
-![corona-preparation](images/corona-preparation.png)
+![corona_adapter_voorbereiding](images/04_options/05_corona_adapter_prep.png)
 
 **Stap 2: Montage & Uitlijning**  
 Plaats de Target Corona ring in de uitsparingen van de gemonteerde onderste adapterdelen. 
 
-![corona-recess](images/corona-recess.png)
+![corona_ring_montage](images/04_options/06_corona_ring_mounting.png)
 
 Haak vervolgens het **bovenste deel van de adapter** in de ring en klik het op zijn plaats. 
 
-![corona-hook](images/corona-hook.png)
+![corona_adapter_haak](images/04_options/07_corona_adapter_hook.png)
 
 > **Tip:** Probeer de adapters op een geschatte **120 graden afstand** te plaatsen terwijl je ze vastklikt. Dit minimaliseert de hoeveelheid fijnafstelling die achteraf nodig is.
 
-![corona-alignment](images/corona-alignment.png)
+![corona_uitlijning](images/04_options/08_corona_alignment.png)
 
 > **Pro-tip:** Je hebt de mogelijkheid om de stroomkabel van de Target Corona door de interne kanalen van het IT2-systeem te leiden voor een nog strakker uiterlijk. Dit vereist wat extra stappen - zie [Sectie 6.4: Target Corona stroomkabel verbergen](#64-target-corona-stroomkabel-verbergen) voor details.
 

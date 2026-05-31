@@ -10,7 +10,7 @@
 
 Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Diese Anleitung führt dich durch den gesamten Montageprozess.
 
-![dimensions](images/dimensions.png)
+![dimensions](images/01_overview/dimensions.png)
 
 ---
 ## Inhaltsverzeichnis
@@ -81,20 +81,20 @@ Bevor du deine spezifische Version (DIY, Winmau Plasma oder Target Corona) baust
 
 *   Brich die perforierten Kanten vorsichtig mit einer Zange ab.
 
-![camera-pliers](images/camera-pliers-2.png)
+![camera-resize](images/03_general/01_camera_resize.png)
 
 ### 3.2 Schritt 2: Vorbereitung der Schmelzeinsätze
 > **Selbstschneidende Version:** Wenn du diese Version gedruckt hast, kannst du diesen Schritt überspringen.
 
 Schmelze die **M4 Inserts** mit einem Lötkolben in die Löcher der Kamera-Arme und -Köpfe ein, wie im Bild unten gezeigt.
 
-![heat_insert-ion](images/heat_insert-ion.png)
+![heat_inserts](images/03_general/02_heat_inserts.png)
 
 ### 3.3 Schritt 3: Kamera-Installation & Verschluss
 **1. Montage von Kopf & Arm**  
 Verbinde den Kamerakopf und den Arm mit zwei **M4 Schrauben**. Ziehe danach das USB-Kabel durch den internen Kanal des Gehäuses und schließe es an den 4-Pin-Anschluss der Kamera an.
 
-![head-to-leg-assembly-and-wire-pull](images/head-to-leg-assembly-and-wire-pull.png)
+![arm_assembly](images/03_general/03_arm_assembly.png)
 
 **2. Montage der Kamera**  
 Befestige die Kamera-Platine mit zwei **M2 Schrauben**. 
@@ -105,7 +105,12 @@ Befestige die Kamera-Platine mit zwei **M2 Schrauben**.
 Drehe die Lens Hood im Uhrzeigersinn in den Kameradeckel (Twist-Lock) und klicke den Deckel anschließend auf den Kopf.
 > **Tipp:** Wähle zwischen den zwei verschiedenen Lens-Hood-Designs, die im Druckprofil enthalten sind.
 
-![lens-hood-preparation](images/lens-hood-preparation.png)
+![lens_hood](images/03_general/04_lens_hood.png)
+
+**Endergebnis von Phase 1**  
+Nach Abschluss dieser Schritte solltest du drei vollständig montierte Kamera-Arme bereit für die Installation haben.
+
+[<img src="images/03_general/05_result_phase1.png" width="200" alt="vollständig montierte Kamera-Arme">](images/03_general/05_result_phase1.png)
 
 ---
 
@@ -118,40 +123,60 @@ Nachdem deine Kamera-Arme vorbereitet sind, wähle die Aufbauanleitung, die zu d
 > **Pro-Tipp:** Du hast die Möglichkeit, das Stromkabel des Winmau Plasma durch die internen Kanäle des IT2-Systems zu führen, um eine noch sauberere Optik zu erzielen. Dies erfordert einige zusätzliche Schritte – siehe [Abschnitt 6.3: Verstecken des Winmau Plasma Stromkabels](#63-verstecken-des-winmau-plasma-stromkabels) für Details.
 
 **Schritt 1: Montage der Arme**  
-Befestige die drei vorbereiteten Kamera-Arme an den vorgesehenen Positionen auf dem Winmau Plasma Ring. Die IT2-Arme sind so konzipiert, dass sie perfekt auf das Profil des Plasma passen. Verwende M4 Schrauben, um sie zu sichern.  
+Befestige die drei [vorbereiteten Kamera-Arme](#3-allgemeine-montage-kamera-arme) an den vorgesehenen Positionen auf dem Winmau Plasma Ring. Die IT2-Arme sind so konzipiert, dass sie perfekt auf das Profil des Plasma passen. Verwende M4 Schrauben, um sie zu sichern.  
 *   **Hardware-Locked Ausrichtung:** Sobald die Arme sitzen, sind deine 120-Grad-Winkel mathematisch perfekt. Eine manuelle Justierung ist nicht erforderlich.
+
+![plasma_mounting](images/04_options/01_plasma_mounting.png)
 
 **Schritt 2: Kabelführung**  
 Führe die USB-Kabel durch die internen Kanäle der Arme zur Rückseite des Boards. Dies sorgt für eine saubere Optik und schützt die Kabel vor Fehlwürfen.
 
-[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Installation an die Wand](#5-letzter-schritt-installation--wandmontage)**
 
 ---
 
-### 4.2 Option 2: Setup mit IT2 DIY Lichtring
+### 4.2 Option 2: IT2 DIY Lichtring
 
 **Schritt 1: Zusammenbau des Rings**  
 Verbinde die 3D-gedruckten Segmente des IT2 DIY Lichtrings. Achte auf eine feste Verbindung, um die Stabilität zu gewährleisten.
 
+![ring_dovetail](images/04_options/02_diy_ring_assembly.png)
+
 **Schritt 2: LED-Installation**  
 Installiere den **LED-Streifen** in den dafür vorgesehenen Kanal des Rings. Beginne unten, damit das Stromkabel sauber weggeführt werden kann.
+
+![led_install](images/04_options/03_diy_led_install.png)
 
 **Schritt 3: Befestigung der Arme**  
 Sichere die Kamera-Arme an den integrierten Montagepunkten des DIY-Rings mit M4 Schrauben. Wie bei der Plasma-Version ist dieses Setup **Hardware-Locked** für eine perfekte Ausrichtung.
 
-[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+![arm_mounting](images/04_options/04_diy_arm_mounting.png)
+
+[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Installation an die Wand](#5-letzter-schritt-installation--wandmontage)**
 
 ---
 
 ### 4.3 Option 3: Target Corona Lichtring
 
-**Schritt 1: Verwendung der Adapter**  
-Schiebe die **IT2 Corona Adapter** auf den Target Corona Ring. Diese Adapter bieten eine stabile Montagefläche für die Kamera-Arme auf dem dünneren Corona-Rahmen.
+**Schritt 1: Vorbereitung der Adapter**  
+Installiere den **unteren Teil des IT2 Corona Adapters** an den drei [vorbereiteten Kamera-Armen](#3-general-assembly-camera-arms) mit M4 Schrauben. 
 
-**Schritt 2: Ausrichtung**  
-Befestige die Kamera-Arme an den Adaptern mit M4 Schrauben. Da die Adapter auf dem Ring verschiebbar sind, musst du manuell darauf achten, dass sie in einem Winkel von exakt **120 Grad** zueinander positioniert sind, um eine optimale Genauigkeit zu gewährleisten.
+![corona_adapter_prep](images/04_options/05_corona_adapter_prep.png)
 
-[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+**Schritt 2: Montage & Ausrichtung**  
+Setze den Target Corona Ring in die Vertiefungen der installierten unteren Adapterteile. 
+
+![corona_ring_mounting](images/04_options/06_corona_ring_mounting.png)
+
+Hake dann den **oberen Teil des Adapters** in den Ring ein und lass ihn einrasten. 
+
+![corona_adapter_hook](images/04_options/07_corona_adapter_hook.png)
+
+> **Tipp:** Versuche, die Adapter beim Einrasten in einem ungefähren **120-Grad-Abstand** zu positionieren. Dies minimiert den Aufwand für die spätere Feinjustierung.
+
+![corona_alignment](images/04_options/08_corona_alignment.png)
+
+[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Installation an die Wand](#5-letzter-schritt-installation--wandmontage)**
 
 ---
 
@@ -170,7 +195,7 @@ Sichere die Kamera-Arme an den integrierten Montagepunkten des Low Ceiling Rings
 
 *(Bild-Platzhalter)*
 
-[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Installation an die Wand](#5-letzter-schritt-installation--wandmontage)**
 
 ---
 
@@ -244,5 +269,15 @@ Die korrekte Ausrichtung ist entscheidend für die Scoring-Genauigkeit. Je nach 
 ### Unterstütze das Projekt
 *   **Feedback:** Tritt dem Discord bei oder hinterlasse einen Kommentar auf Makerworld.
 *   **Spenden:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+
+---
+ier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+
+---
+d.
+*   **Spenden:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+
+---
+ier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
 
 ---

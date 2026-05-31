@@ -10,7 +10,7 @@
 
 Welcome to the official manual for the IT2 Autodarts Scoring System. This guide will walk you through the assembly process.
 
-![dimensions](images/dimensions.png)
+![dimensions](images/01_overview/dimensions.png)
 
 ---
 ## Table of Contents
@@ -68,11 +68,11 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
 
 ### 2.2 Required Tools
 
-| Tool                  | Purpose                                                                 |
-| --------------------- | ----------------------------------------------------------------------- |
-| Hex Key Set           | For M4 and M2 cylindrical screws.                                       |
-| Pliers / Side Cutters | Required for resizing the camera frames from 38x38 to 32x32.            |
-| Soldering Iron        | Required for melting M4 heat inserts (Heat Insert version only).        |
+| Tool                  | Purpose                                                          |
+| --------------------- | ---------------------------------------------------------------- |
+| Hex Key Set           | For M4 and M2 cylindrical screws.                                |
+| Pliers / Side Cutters | Required for resizing the camera frames from 38x38 to 32x32.     |
+| Soldering Iron        | Required for melting M4 heat inserts (Heat Insert version only). |
 
 ---
 
@@ -85,20 +85,20 @@ Before building your specific version (DIY, Winmau Plasma, or Target Corona), yo
 
  Carefully break away the perforated edges using pliers.
 
-![camera-pliers](images/camera-pliers-2.png)
+![camera-resize](images/03_general/01_camera_resize.png)
 
 ### 3.2 Step 2: Heat Inserts Preparation
 > Self-Tapping Version: If you chose this version, you can skip this step.
 
 Melt the **M4 inserts** into the holes of the camera arms and heads using a soldering iron as shown in the picture below.
 
-![heat_insert-ion](images/heat_insert-ion.png)
+![heat_inserts](images/03_general/02_heat_inserts.png)
 
 ### 3.3 Step 3: Camera Installation & Closing
 **1. Head & Leg Assembly**  
 Connect the camera head and leg together using two **M4 screws**. Afterward, pull the USB cable through the internal channel of the body and connect it to the camera's 4-pin connector.
 
-![head-to-leg-assembly-and-wire-pull](images/head-to-leg-assembly-and-wire-pull.png)
+![arm_assembly](images/03_general/03_arm_assembly.png)
 
 **2. Mounting**  
 Secure the camera PCB using two **M2 screws**. 
@@ -109,12 +109,12 @@ Secure the camera PCB using two **M2 screws**.
 Twist-lock the lens hood into the camera lid (clockwise), then snap the lid onto the head.
 > **Tip:** Choose between the two lens hood designs provided in the print profile.
 
-![lens-hood-preparation](images/lens-hood-preparation.png)
+![lens_hood](images/03_general/04_lens_hood.png)
 
 **Final Result of Phase 1**  
 After completing these steps, you should have three fully assembled camera arms ready for mounting.
 
-[<img src="images/assembled.png" width="200" alt="assembled camera arms">](images/assembled.png)
+[<img src="images/03_general/05_result_phase1.png" width="200" alt="assembled camera arms">](images/03_general/05_result_phase1.png)
 
 ---
 
@@ -133,12 +133,12 @@ Remove the three original mounting legs from your Winmau Plasma light ring. Thes
 Attach the three prepared camera arms to the designated positions on the Winmau Plasma ring. The IT2 arms are designed to fit the Plasma's profile perfectly. Use M4 screws to secure them.  
 *   **Hardware-Locked Alignment:** Once the arms are seated, your 120-degree angles are mathematically perfect. No manual adjustment is required.
 
-![winmau-assembly](images/winmau-assembly.png)
+![plasma_mounting](images/04_options/01_plasma_mounting.png)
 
 **Step 3: Cable Management**  
 Route the USB cables through the internal channels of the arms towards the back of the board. This ensures a clean look and protects the cables from stray dart hits.
 
-[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-installation-to-the-wall)**
+[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-final-step-installation--wall-mounting)**
 
 ---
 
@@ -147,47 +147,47 @@ Route the USB cables through the internal channels of the arms towards the back 
 **Step 1: Ring Assembly**  
 Assemble the ring by sliding the **dovetail joints** together. Use the **3 mounting segments** and **6 intermediate segments** in the correct sequence for a perfect 120° alignment.
 
-![dovetail-assembly-diy-ring](images/dovetail-assembly-diy-ring.png)
+![ring_dovetail](images/04_options/02_diy_ring_assembly.png)
 
 > **Note:** All segments must sit flush against each other. The dovetail joints should slide together with moderate force. If they are too tight, it is likely due to printer tolerances or uncalibrated filament. In this case, carefully sand the dovetail edges until they fit smoothly.
 
 **Step 2: LED Installation**  
 Install the **LED strip** as shown in the picture below. Ensure the strip is touching the deepest surface for optimal results.
 
-![diy_led_install](images/diy_led_install.png)
+![led_install](images/04_options/03_diy_led_install.png)
 
 **Step 3: Attaching the Arms**  
 Secure the camera arms to the integrated mounting points on the DIY ring using M4 screws. 
 
-![diy-assembly](images/diy-assembly.png)
+![arm_mounting](images/04_options/04_diy_arm_mounting.png)
 
-[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-installation-to-the-wall)**
+[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-final-step-installation--wall-mounting)**
 
 ---
 
 ### 4.3 Option 3: Target Corona Light Ring
 
 **Step 1: Adapter Preparation**  
-Install the **lower part of the IT2 Corona Adapter** onto the three prepared camera arms using M4 screws. 
+Install the **lower part of the IT2 Corona Adapter** onto the three [prepared camera arms](#3-general-assembly-camera-arms) using M4 screws. 
 
-![corona-preparation](images/corona-preparation.png)
+![corona_adapter_prep](images/04_options/05_corona_adapter_prep.png)
 
 **Step 2: Mounting & Alignment**  
 Place the Target Corona ring into the recesses of the installed lower adapter parts. 
 
-![corona-recess](images/corona-recess.png)
+![corona_ring_mounting](images/04_options/06_corona_ring_mounting.png)
 
 Then, hook the **upper part of the adapter** into the ring and snap it into place. 
 
-![corona-hook](images/corona-hook.png)
+![corona_adapter_hook](images/04_options/07_corona_adapter_hook.png)
 
 > **Tip:** Try to position the adapters at an approximate **120-degree offset** while snapping them on. This will minimize the amount of fine-tuning needed afterward.
 
-![corona-alignment](images/corona-alignment.png)
+![corona_alignment](images/04_options/08_corona_alignment.png)
 
 > **Pro Tip:** You have the option to route the Target Corona's power cable through the internal channels of the IT2 system for an even cleaner look. This requires some extra steps- refer to [Section 6.4: Hiding Target Corona Power Cable](#64-hiding-target-corona-power-cable) for details.
 
-[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-installation-to-the-wall)**
+[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-final-step-installation--wall-mounting)**
 
 ---
 
@@ -196,7 +196,7 @@ Then, hook the **upper part of the adapter** into the ring and snap it into plac
 **Work in Progress**  
 The documentation for the Low Ceiling version is currently being finalized. For now, please refer to the [standard IT2 DIY Light Ring assembly](#42-option-2-setup-with-it2-diy-light-ring) for general guidance, as the core assembly steps are nearly identical.
 
-[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-installation-to-the-wall)**
+[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-final-step-installation--wall-mounting)**
 
 ---
 
@@ -291,5 +291,14 @@ Correct alignment is crucial for scoring accuracy. Depending on your version, th
 ## 10. Support the Project
 *   **Feedback:** Join the Discord or leave a comment on Makerworld.
 *   **Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+
+---
+IteraThor)
+
+---
+raThor)
+
+---
+raThor)
 
 ---
