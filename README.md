@@ -249,14 +249,9 @@ The **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is an optional uni
 To ensure the best possible experience with your IT2 system, follow these tips and best practices.
 
 ### 6.1 Assembly Best Practices
-When securing the cameras with M2 screws and the frame with M4 screws, tighten them until **"finger-tight."** 
+When tightening screws, ensure they are only **"finger-tight."**
 *   Avoid over-tightening, as it can stress the 3D-printed threads.
-
-### 6.2 Alignment & Performance
-#### 120° Alignment
-Correct alignment is crucial for scoring accuracy. Depending on your version, this is handled differently:
-
-*   **Target Corona:** Since the adapters allow the arms to slide freely along the ring, you must take care to align them manually at exactly **120 degrees** to each other for optimal scoring accuracy.
+*   **Self-Tapping Version:** Be especially careful when using the self-tapping version, as the plastic threads can easily be stripped if too much force is applied.
 
 ### 6.3 Hiding Winmau Plasma Power Cable
 **Step 1:** ...
@@ -306,6 +301,15 @@ Correct alignment is crucial for scoring accuracy. Depending on your version, th
 ### Exceptions (Non-Commercial)
 *   **Personal & Social:** Sharing with friends, family, or your local dart club (at material cost only) is encouraged and does not require a license. I only ask for feedback or a small donation if you like the project.
 *   **Community Assistance:** Printing for community members who don't own a printer (at material cost + a small handling fee) is allowed but **MUST** be handled transparently and discussed with me (**IteraThor**) on Discord first.
+
+---
+
+## 10. Support the Project
+*   **Feedback:** Join the Discord or leave a comment on Makerworld.
+*   **Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+
+---
+ST** be handled transparently and discussed with me (**IteraThor**) on Discord first.
 
 ---
 

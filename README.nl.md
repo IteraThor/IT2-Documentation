@@ -32,7 +32,6 @@ Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Dez
 5. [Laatste Stap: Installatie & Wandmontage](#5-laatste-stap-installatie--wandmontage)
 6. [Pro-tips & Probleemoplossing](#6-pro-tips--probleemoplossing)
     * [6.1 Best Practices voor Montage](#61-best-practices-voor-montage)
-    * [6.2 Uitlijning & Prestaties](#62-uitlijning--prestaties)
     * [6.3 Winmau Plasma stroomkabel verbergen](#63-winmau-plasma-stroomkabel-verbergen)
     * [6.4 Target Corona stroomkabel verbergen](#64-target-corona-stroomkabel-verbergen)
 7. [Aanbevolen Elektronica](#7-aanbevolen-elektronica)

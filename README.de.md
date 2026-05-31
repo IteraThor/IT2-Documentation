@@ -32,7 +32,6 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
     * [Option B: IT2 Baseplate](#option-b-it2-baseplate)
 6. [Profi-Tipps & Fehlerbehebung](#6-profi-tipps--fehlerbehebung)
     * [6.1 Best Practices für die Montage](#61-best-practices-für-die-montage)
-    * [6.2 Ausrichtung & Performance](#62-ausrichtung--performance)
     * [6.3 Verstecken des Winmau Plasma Stromkabels](#63-verstecken-des-winmau-plasma-stromkabels)
 7. [Empfohlene Elektronik](#7-empfohlene-elektronik)
 8. [Lizenzierung & Community-Support](#8-lizenzierung--community-support)
@@ -228,8 +227,9 @@ Die **IT2 Baseplate** ist eine optionale Einheit, die den Installationsprozess v
 Um das bestmögliche Erlebnis mit deinem IT2-System zu gewährleisten, befolge diese Profi-Tipps.
 
 ### 6.1 Best Practices für die Montage
-Wenn du die Kameras mit M2-Schrauben und den Rahmen mit M4-Schrauben sicherst, ziehe diese nur **"handfest"** an.
+Achte beim Festziehen der Schrauben darauf, diese nur **"handfest"** anzuziehen.
 *   Vermeide übermäßiges Festziehen, da dies die 3D-gedruckten Gewinde belasten kann.
+*   **Selbstschneidende Version:** Sei besonders vorsichtig bei der selbstschneidenden Version. Die Kunststoffgewinde können leicht überdrehen, wenn zu viel Kraft angewendet wird.
 
 ### 6.2 Ausrichtung & Performance
 #### 120°-Ausrichtung
