@@ -229,7 +229,7 @@ Um das bestmögliche Erlebnis mit deinem IT2-System zu gewährleisten, befolge d
 
 ### 6.1 Best Practices für die Montage
 Wenn du die Kameras mit M2-Schrauben und den Rahmen mit M4-Schrauben sicherst, ziehe diese nur **"handfest"** an.
-*   Vermeide übermäßiges Festziehen, da dies die 3D-gedruckten Gewinde belasten oder die Kamera-Platine leicht verbiegen kann, was den Fokus beeinträchtigen könnte.
+*   Vermeide übermäßiges Festziehen, da dies die 3D-gedruckten Gewinde belasten kann.
 
 ### 6.2 Ausrichtung & Performance
 #### 120°-Ausrichtung

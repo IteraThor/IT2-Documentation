@@ -250,7 +250,7 @@ To ensure the best possible experience with your IT2 system, follow these tips a
 
 ### 6.1 Assembly Best Practices
 When securing the cameras with M2 screws and the frame with M4 screws, tighten them until **"finger-tight."** 
-*   Avoid over-tightening, as it can stress the 3D-printed threads or slightly bend the camera PCB, which might affect focus.
+*   Avoid over-tightening, as it can stress the 3D-printed threads.
 
 ### 6.2 Alignment & Performance
 #### 120° Alignment
