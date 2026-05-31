@@ -200,7 +200,7 @@ The assembly logic for this version is identical to the standard DIY ring. Pleas
 **Final Result**  
 Once assembled, your Low Ceiling Light Ring should look like this:
 
-*(Image placeholder: Final Assembled Low Ceiling Ring)*
+![low_ceiling_assembly](images/04_options/09_low_ceiling_assembly.png)
 
 [Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-final-step-installation--wall-mounting)**
 

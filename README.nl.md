@@ -202,7 +202,7 @@ De montagelogica voor deze versie is identiek aan de standaard DIY-ring. Volg de
 **Eindresultaat**  
 Na montage zou je Low Ceiling Lichtring er als volgt uit moeten zien:
 
-*(Afbeelding placeholder: Volledig gemonteerde Low Ceiling Ring)*
+![low_ceiling_assembly](images/04_options/09_low_ceiling_assembly.png)
 
 [Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-installatie-aan-de-wand)**
 

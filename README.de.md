@@ -189,7 +189,7 @@ Die Montage-Logik für diese Version ist identisch mit dem Standard-DIY-Ring. Bi
 **Endergebnis**  
 Nach dem Zusammenbau sollte dein Low Ceiling Lichtring wie folgt aussehen:
 
-*(Bild-Platzhalter: Fertig montierter Low Ceiling Ring)*
+![low_ceiling_assembly](images/04_options/09_low_ceiling_assembly.png)
 
 [Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Installation an die Wand](#5-letzter-schritt-installation--wandmontage)**
 
