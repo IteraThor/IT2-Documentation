@@ -28,13 +28,15 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
     * [4.3 Option 3: Target Corona Lichtring](#43-option-3-target-corona-lichtring)
     * [4.4 Option 4: IT2 DIY Low Ceiling Lichtring](#44-option-4-it2-diy-low-ceiling-lichtring)
 5. [Letzter Schritt: Installation & Wandmontage](#5-letzter-schritt-installation--wandmontage)
-    * [Option A: Direktmontage](#option-a-direktmontage)
-    * [Option B: IT2 Baseplate](#option-b-it2-baseplate)
+    * [5.1 Montageanleitung: Direkte Wandmontage (Option A)](#51-montageanleitung-direkte-wandmontage-option-a)
+    * [5.2 Montageanleitung: Baseplate-Montage (Option B)](#52-montageanleitung-baseplate-montage-option-b)
 6. [Profi-Tipps & Fehlerbehebung](#6-profi-tipps--fehlerbehebung)
     * [6.1 Best Practices für die Montage](#61-best-practices-für-die-montage)
-    * [6.3 Verstecken des Winmau Plasma Stromkabels](#63-verstecken-des-winmau-plasma-stromkabels)
+    * [6.2 Verstecken des Winmau Plasma Stromkabels](#62-verstecken-des-winmau-plasma-stromkabels)
+    * [6.3 Verstecken des Target Corona Stromkabels](#63-verstecken-des-target-corona-stromkabels)
 7. [Empfohlene Elektronik](#7-empfohlene-elektronik)
 8. [Lizenzierung & Community-Support](#8-lizenzierung--community-support)
+9. [Unterstütze das Projekt](#9-unterstütze-das-projekt)
 
 
 ---
@@ -61,9 +63,9 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
 
 | Teil-Name           | Typ                       | Menge | Link                 | Kommentar                                                                                                |
 | ------------------- | ------------------------- | ----- | -------------------- | -------------------------------------------------------------------------------------------------------- |
-| Zylinderschrauben   | M4x10mm (ISO4762/DIN912)  | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Erforderlich für den Großteil der Montage.                                                               |
-| Zylinderschrauben   | M2x6mm (ISO4762/DIN912)   | 6     | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Kameraschrauben.                                                                                         |
-| M4 Schmelzeinsätze*    | 6.3mm AD (max 9mm lang)   | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | Ein Insert mit 6mm funktioniert ebenfalls.<br><br>*Nur für die Heat-Insert-Druckversion erforderlich.   |
+| Zylinderschrauben   | M4 (ISO4762/DIN912)       | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Erforderlich für den Großteil der Montage.                                                               |
+| Zylinderschrauben   | M2 (ISO4762/DIN912)       | 6     | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Kameraschrauben.                                                                                         |
+| M4 Schmelzeinsätze* | 6.3mm AD (max 9mm lang)   | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | Ein Insert mit 6mm funktioniert ebenfalls.<br><br>*Nur für die Heat-Insert-Druckversion erforderlich.   |
 > 💡 **Suchst du Empfehlungen für sonstige Hardware?** [Empfohlene Elektronik & Zubehör ansehen](#7-empfohlene-elektronik)
 
 ### 2.2 Erforderliches Werkzeug
@@ -124,7 +126,7 @@ Nachdem deine Kamera-Arme vorbereitet sind, wähle die Aufbauanleitung, die zu d
 
 ### 4.1 Option 1: Winmau Plasma Lichtring
 
-> **Pro-Tipp:** Du hast die Möglichkeit, das Stromkabel des Winmau Plasma durch die internen Kanäle des IT2-Systems zu führen, um eine noch sauberere Optik zu erzielen. Dies erfordert einige zusätzliche Schritte - siehe [Abschnitt 6.3: Verstecken des Winmau Plasma Stromkabels](#63-verstecken-des-winmau-plasma-stromkabels) für Details.
+> **Pro-Tipp:** Du hast die Möglichkeit, das Stromkabel des Winmau Plasma durch die internen Kanäle des IT2-Systems zu führen, um eine noch sauberere Optik zu erzielen. Dies erfordert einige zusätzliche Schritte - siehe [Abschnitt 6.2: Verstecken des Winmau Plasma Stromkabels](#62-verstecken-des-winmau-plasma-stromkabels) für Details.
 
 **Schritt 1: Montage der Arme**  
 Befestige die drei [vorbereiteten Kamera-Arme](#3-allgemeine-montage-kamera-arme) an den vorgesehenen Positionen auf dem Winmau Plasma Ring. Die IT2-Arme sind so konzipiert, dass sie perfekt auf das Profil des Plasma passen. Verwende M4 Schrauben, um sie zu sichern.  
@@ -176,6 +178,8 @@ Hake dann den **oberen Teil des Adapters** in den Ring ein und lass ihn einraste
 
 ![corona_alignment](images/04_options/08_corona_alignment.png)
 
+> **Pro-Tipp:** Du hast die Möglichkeit, das Stromkabel des Target Corona durch die internen Kanäle des IT2-Systems zu führen, um eine noch sauberere Optik zu erzielen. Dies erfordert einige zusätzliche Schritte - siehe [Abschnitt 6.3: Verstecken des Target Corona Stromkabels](#63-verstecken-des-target-corona-stromkabels) für Details.
+
 [Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Installation an die Wand](#5-letzter-schritt-installation--wandmontage)**
 
 ---
@@ -202,13 +206,13 @@ Nach dem Zusammenbau sollte dein Low Ceiling Lichtring wie folgt aussehen:
 
 Das IT2-System bietet zwei Hauptinstallationswege, je nach deinen Anforderungen an Ästhetik, Montageaufwand und Wandschutz.
 
-### 5.1 Option A: Direktmontage
+### Option A: Direktmontage
 In dieser Konfiguration wird das IT2-System direkt an der Wand montiert. Dies erfordert das Bohren von **6 Löchern** für die Arme sowie **2 weitere Löcher** für die Dartboard-Aufhängung (falls noch nicht vorhanden).
 *   **Vorteile:** Weniger Teile zum Zusammenbauen; minimaler Platzbedarf; das System sitzt bündig an der Wand.
 *   **Nachteile:** Erfordert mehr Bohrpunkte in der Wand; die Positionen für die Beine müssen manuell durch Messen, Anzeichnen oder eine Bohrschablone ermittelt werden.
 
-### 5.2 Option B: IT2 Baseplate
-Die **IT2 Baseplate** ist eine optionale Einheit, die den Installationsprozess vereinfacht und zusätzliche Funktionen bietet.
+### Option B: IT2 Baseplate
+Die **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** ist eine optionale Einheit, die den Installationsprozess vereinfacht und zusätzliche Funktionen bietet.
 
 *   **Vorteile:**
     *   **Einfache Installation:** Zentriere die Platte auf dem Bullseye und montiere sie waagerecht; das komplette Setup wird dann mit nur drei Wandschrauben an der Platte befestigt.
@@ -217,6 +221,14 @@ Die **IT2 Baseplate** ist eine optionale Einheit, die den Installationsprozess v
     *   **Ständer-Kompatibilität:** Kann standardmäßig auf einem Dartständer installiert werden (z. B. Winmau Xtreme Dartboard Stand 2).
 *   **Nachteile:**
     *   **Wandabstand:** Die Basisplatte fügt ca. **30mm Tiefe** hinzu. Du solltest den Abstand deiner Oche (Abwurflinie) um 30mm anpassen, um die offiziellen Maße einzuhalten.
+
+---
+
+### 5.1 Montageanleitung: Direkte Wandmontage (Option A)
+*(Detaillierte Schritt-für-Schritt-Anweisungen für die direkte Wandmontage folgen hier)*
+
+### 5.2 Montageanleitung: Baseplate-Montage (Option B)
+*(Detaillierte Schritt-für-Schritt-Anweisungen für die Montage über die IT2 Baseplate folgen hier)*
 
 [Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
@@ -231,15 +243,15 @@ Achte beim Festziehen der Schrauben darauf, diese nur **"handfest"** anzuziehen.
 *   Vermeide übermäßiges Festziehen, da dies die Schmelzeinsätze belasten kann.
 *   **Selbstschneidende Version:** Sei besonders vorsichtig bei der selbstschneidenden Version. Die Kunststoffgewinde können leicht überdrehen, was **irreversibel** ist, wenn zu viel Kraft angewendet wird.
 
-### 6.2 Ausrichtung & Performance
-#### 120°-Ausrichtung
-Die korrekte Ausrichtung ist entscheidend für die Scoring-Genauigkeit. Je nach Version wird dies unterschiedlich gehandhabt:
-
-*   **Target Corona:** Da die Adapter ein freies Verschieben auf dem Ring ermöglichen, musst du darauf achten, sie manuell in einem Winkel von exakt **120 Grad** zueinander auszurichten.
-
-### 6.3 Verstecken des Winmau Plasma Stromkabels
+### 6.2 Verstecken des Winmau Plasma Stromkabels
 **Schritt 1:** ...
 **Schritt 2:** ...
+*(Anleitung folgt in Kürze)*
+
+### 6.3 Verstecken des Target Corona Stromkabels
+**Schritt 1:** ...
+**Schritt 2:** ...
+*(Anleitung folgt in Kürze)*
 
 [Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
@@ -251,7 +263,9 @@ Die korrekte Ausrichtung ist entscheidend für die Scoring-Genauigkeit. Je nach 
 | ------------ | -------------------------------------- | ---------- | ---------------------------------------------- |
 | Kameras      | HBV OV2710                             | [Aliexpress](https://s.click.aliexpress.com/e/_c4bziy33) | Beste Preis-Leistungs-Kameras.                 |
 | LED-Streifen | Auxmer 12V 9.6W LED-Streifen           | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | Mein Favorit. Beste Farbwiedergabe.            |
-| PC           | Dell Wyse 5070 >=4GB RAM >= 16 Storage | Aliexpress | Mein Favorit. Gutes Preis-Leistungs-Verhältnis. |
+| Netzteil     | 12V 3A Netzadapter                     | [Aliexpress](https://s.click.aliexpress.com/e/_c2IYxq1R) | Erforderlich für den DIY LED-Streifen.         |
+| DC-Anschluss | 2.1mm DC-Hohlbuchse                    | [Aliexpress](https://s.click.aliexpress.com/e/_c3L2uy4H) | Zum Anschluss der Stromversorgung an die LEDs. |
+| PC           | Dell Wyse 5070 ≥4GB RAM ≥ 16 Storage   |                                                          | Mein Favorit. Gutes Preis-Leistungs-Verhältnis. |
 | Touchscreen  | Anmite 16" Touchscreen                 | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | Mein Favorit. Gutes Preis-Leistungs-Verhältnis. |
 
 ---
@@ -265,8 +279,8 @@ Die korrekte Ausrichtung ist entscheidend für die Scoring-Genauigkeit. Je nach 
 *   **Privat & Sozial:** Das Teilen mit Freunden, Familie oder deinem lokalen Dartclub (nur zu Materialkosten) ist ausdrücklich erwünscht und erfordert keine Lizenz. Ich freue mich über Feedback oder eine kleine Spende, wenn dir das Projekt gefällt.
 *   **Community-Unterstützung:** Das Drucken für Community-Mitglieder, die keinen eigenen Drucker besitzen (Materialkosten + kleine Bearbeitungsgebühr), ist erlaubt, **MUSS** aber transparent gehandhabt und vorher mit mir (**IteraThor**) auf Discord besprochen werden.
 
-### Unterstütze das Projekt
+---
+
+## 9. Unterstütze das Projekt
 *   **Feedback:** Tritt dem Discord bei oder hinterlasse einen Kommentar auf Makerworld.
 *   **Spenden:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
-
----

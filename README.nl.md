@@ -25,15 +25,17 @@ Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Dez
     * [3.2 Stap 2: Voorbereiding smeltmoeren](#32-stap-2-voorbereiding-smeltmoeren)
     * [3.3 Stap 3: Camera installatie & sluiten](#33-stap-3-camera-installatie--sluiten)
 4. [Bouwopties: Kies je pad](#4-bouwopties-kies-je-pad)
-    * [4.1 Optie 1: Winmau Plasma Lichtring](#41-optie-1-winmau-plasma-lichtring)
-    * [4.2 Optie 2: IT2 DIY Lichtring](#42-optie-2-it2-diy-lichtring)
-    * [4.3 Optie 3: Target Corona Lichtring](#43-optie-3-target-corona-lichtring)
-    * [4.4 Optie 4: IT2 DIY Low Ceiling Lichtring](#44-optie-4-it2-diy-low-ceiling-lichtring)
+    * [4.1 Optie 1: Winmau Plasma Lichtring](#41-option-1-winmau-plasma-lichtring)
+    * [4.2 Optie 2: IT2 DIY Lichtring](#42-option-2-it2-diy-lichtring)
+    * [4.3 Optie 3: Target Corona Lichtring](#43-option-3-target-corona-lichtring)
+    * [4.4 Optie 4: IT2 DIY Low Ceiling Lichtring](#44-option-4-it2-diy-low-ceiling-lichtring)
 5. [Laatste Stap: Installatie & Wandmontage](#5-laatste-stap-installatie--wandmontage)
+    * [5.1 Montage-instructies: Directe Wandmontage (Optie A)](#51-montage-instructies-directe-wandmontage-optie-a)
+    * [5.2 Montage-instructies: Baseplate Montage (Optie B)](#52-montage-instructies-baseplate-montage-optie-b)
 6. [Pro-tips & Probleemoplossing](#6-pro-tips--probleemoplossing)
     * [6.1 Best Practices voor Montage](#61-best-practices-voor-montage)
-    * [6.3 Winmau Plasma stroomkabel verbergen](#63-winmau-plasma-stroomkabel-verbergen)
-    * [6.4 Target Corona stroomkabel verbergen](#64-target-corona-stroomkabel-verbergen)
+    * [6.2 Winmau Plasma stroomkabel verbergen](#62-winmau-plasma-stroomkabel-verbergen)
+    * [6.3 Target Corona stroomkabel verbergen](#63-target-corona-stroomkabel-verbergen)
 7. [Aanbevolen Elektronica](#7-aanbevolen-elektronica)
 8. [FAQ](#8-faq)
 9. [Licenties & Community-ondersteuning](#9-licenties--community-ondersteuning)
@@ -68,7 +70,7 @@ Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Dez
 | Cilinderkopschroef | M2 (ISO4762/DIN912)      | 6      | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Cameraschroeven.                                                                                       |
 | M4 Smeltmoeren*    | 6.3mm OD (max 9mm lang)  | 12     | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | Een smeltmoer met 6mm OD werkt ook.<br><br>*Alleen vereist bij het printen van de "heat insert" versie. |
 
-> 💡 **Op zoek naar aanbevelingen voor overige hardware?** [Bekijk Aanbevolen Elektronica & Accessoires](#7-aanbevolen-elektronika)
+> 💡 **Op zoek naar aanbevelingen voor overige hardware?** [Bekijk Aanbevolen Elektronica & Accessoires](#7-aanbevolen-elektronica)
 
 ### 2.2 Benodigd Gereedschap
 
@@ -128,7 +130,7 @@ Nu je camera-armen klaar zijn, kies je de bouwhandleiding die bij jouw setup pas
 
 ### 4.1 Optie 1: Winmau Plasma Lichtring
 
-> **Pro-tip:** Je hebt de mogelijkheid om de stroomkabel van de Winmau Plasma door de interne kanalen van het IT2-systeem te leiden voor een nog strakker uiterlijk. Dit vereist wat extra stappen - zie [Sectie 6.3: Winmau Plasma stroomkabel verbergen](#63-winmau-plasma-stroomkabel-verbergen) voor details.
+> **Pro-tip:** Je hebt de mogelijkheid om de stroomkabel van de Winmau Plasma door de interne kanalen van het IT2-systeem te leiden voor een nog strakker uiterlijk. Dit vereist wat extra stappen - zie [Sectie 6.2: Winmau Plasma stroomkabel verbergen](#62-winmau-plasma-stroomkabel-verbergen) voor details.
 
 **Stap 1: Originele poten verwijderen**  
 Verwijder de drie originele montagepoten van je Winmau Plasma lichtring. Deze worden vervangen door de IT2 camera-armen.
@@ -185,7 +187,7 @@ Haak vervolgens het **bovenste deel van de adapter** in de ring en klik het op z
 
 ![corona_uitlijning](images/04_options/08_corona_alignment.png)
 
-> **Pro-tip:** Je hebt de mogelijkheid om de stroomkabel van de Target Corona door de interne kanalen van het IT2-systeem te leiden voor een nog strakker uiterlijk. Dit vereist wat extra stappen - zie [Sectie 6.4: Target Corona stroomkabel verbergen](#64-target-corona-stroomkabel-verbergen) voor details.
+> **Pro-tip:** Je hebt de mogelijkheid om de stroomkabel van de Target Corona door de interne kanalen van het IT2-systeem te leiden voor een nog strakker uiterlijk. Dit vereist wat extra stappen - zie [Sectie 6.3: Target Corona stroomkabel verbergen](#63-target-corona-stroomkabel-verbergen) voor details.
 
 [Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-laatste-stap-installatie--wandmontage)**
 
@@ -196,7 +198,7 @@ Haak vervolgens het **bovenste deel van de adapter** in de ring en klik het op z
 > Deze versie is speciaal ontwikkeld voor ruimtes met een laag plafond. Het vereist een minimale plafondhoogte van **2,00m**.
 
 **Montage-instructies**  
-De montagelogica voor deze versie is identiek aan de standaard DIY-ring. Volg de gedetailleerde **[Stap-voor-stap instructies in Sectie 4.2](#42-optie-2-setup-met-it2-diy-lichtring)**.
+De montagelogica voor deze versie is identiek aan de standaard DIY-ring. Volg de gedetailleerde **[Stap-voor-stap instructies in Sectie 4.2](#42-option-2-setup-met-it2-diy-lichtring)**.
 
 > 💡 **Tip:** In tegenstelling tot de standaard ring bestaat de Low Ceiling versie uit **6 verschillende soorten segmenten**. Leg voordat je de zwaluwstaartverbindingen samenvoegt alle stukken in de juiste volgorde op de grond om montagefouten te voorkomen. Eenmaal verbonden kunnen de segmenten erg lastig weer uit elkaar te halen zijn zonder de onderdelen te beschadigen.
 
@@ -213,12 +215,12 @@ Na montage zou je Low Ceiling Lichtring er als volgt uit moeten zien:
 
 Het IT2-systeem biedt twee belangrijke installatiemogelijkheden, afhankelijk van je wensen voor esthetiek, installatiegemak en behoud van de muur.
 
-### Option A: Directe Montage
+### Optie A: Directe Montage
 In deze configuratie wordt het IT2-systeem rechtstreeks aan de muur gemonteerd. Dit vereist het boren van 6 gaten voor de armen en 2 extra gaten voor de ophanging van je dartbord (indien nog niet aanwezig).
 *   **Voordelen:** Minder onderdelen om te monteren; minimale voetafdruk; het systeem zit vlak tegen de muur.
 *   **Nadelen:** Vereist meer boorpunten; de gaten voor de poten moeten handmatig worden bepaald met behulp van metingen, cirkeltekeningen of een boormal.
 
-### Option B: IT2 Baseplate
+### Optie B: IT2 Baseplate
 De **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is een optionele unit die is ontworpen om het installatieproces te vereenvoudigen en extra functionaliteit toe te voegen.
 
 *   **Voordelen:**
@@ -250,12 +252,12 @@ Zorg er bij het aandraaien van schroeven voor dat ze slechts **"handvast"** zitt
 *   Vermijd overmatig vastdraaien, omdat dit de smeltmoeren kan belasten.
 *   **Zelftappende Versie:** Wees extra voorzichtig bij het gebruik van de zelftappende versie, omdat de plastic schroefdraad gemakkelijk kan worden gestript (wat **onomkeerbaar** is) als er te veel kracht wordt uitgeoefend.
 
-### 6.3 Winmau Plasma stroomkabel verbergen
+### 6.2 Winmau Plasma stroomkabel verbergen
 **Stap 1:** ...
 **Stap 2:** ...
 *(Instructies volgen binnenkort)*
 
-### 6.4 Target Corona stroomkabel verbergen
+### 6.3 Target Corona stroomkabel verbergen
 **Stap 1:** ...
 **Stap 2:** ...
 *(Instructies volgen binnenkort)*
@@ -270,7 +272,9 @@ Zorg er bij het aandraaien van schroeven voor dat ze slechts **"handvast"** zitt
 | ------------- | -------------------------------------- | ---------- | ----------------------------------------------- |
 | Camera's      | HBV OV2710                             | [Aliexpress](https://s.click.aliexpress.com/e/_c4bziy33) | Camera's met de beste prijs-kwaliteitverhouding.|
 | LED-strip     | Auxmer 12V 9.6W LED-strip              | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | Persoonlijke favoriet. Meest natuurgetrouwe kleuren. |
-| PC            | Dell Wyse 5070 >=4GB RAM >= 16 Storage | Aliexpress | Persoonlijke favoriet. Goede prijs-kwaliteitverhouding. |
+| Voeding       | 12V 3A Voedingsadapter                 | [Aliexpress](https://s.click.aliexpress.com/e/_c2IYxq1R) | Vereist voor de DIY LED-strip.                 |
+| DC-connector  | 2.1mm DC-Hohlbuchse                    | [Aliexpress](https://s.click.aliexpress.com/e/_c3L2uy4H) | Om de voeding op de LED-strip aan te sluiten.  |
+| PC            | Dell Wyse 5070 ≥4GB RAM ≥ 16 Storage   |                                                          | Persoonlijke favoriet. Goede prijs-kwaliteitverhouding. |
 | Touchscreen   | Anmite 16" Touchscreen                 | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | Persoonlijke favoriet. Goede prijs-kwaliteitverhouding. |
 
 ---
@@ -287,7 +291,7 @@ Zorg er bij het aandraaien van schroeven voor dat ze slechts **"handvast"** zitt
 **A:** Vermijd USB-lichtstrips. De standaard in de community is **6000K COB LED's** (12V of 24V). Mijn persoonlijke aanbeveling is de **Auxmer 120 LED's/m (9.6W, CRI90)**; in mijn tests presteerde deze zelfs beter dan de Winmau Plasma. Als je een beperkt budget hebt, werkt elke 6000K strip met ongeveer 10W per meter. Zorg er wel voor dat deze fel genoeg is.
 
 ### V: Moet ik een Raspberry Pi of een Mini PC gebruiken?
-**A:** Tenzij je al een Raspberry Pi hebt, raad ik aan om een refurbished Mini PC te kopen. Deze zijn vaak goedkoper (vanaf 50€) en bieden betere prestaties en touchscreen-ondersteuning. Mijn persoonlijke favoriet is de **Dell Wyse 5070** (4GB RAM, 16GB opslag), die op grote schaal refurbished verkrijgbaar is en de Autodarts-software perfect aan kan.
+**A:** Tenzij je al een Raspberry Pi hebt, raad ik aan om een refurbished Mini PC te kopen. Deze zijn vaak goedkoper (vanaf 50€) en bieden betere prestaties en touchscreen-ondersteuning. Mijn persoonlijke favoriet is the **Dell Wyse 5070** (4GB RAM, 16GB opslag), die op grote schaal refurbished verkrijgbaar is en de Autodarts-software perfect aan kan.
 
 ---
 
@@ -298,13 +302,10 @@ Zorg er bij het aandraaien van schroeven voor dat ze slechts **"handvast"** zitt
 
 ### Uitzonderingen (Niet-commercieel)
 *   **Persoonlijk & Sociaal:** Delen met vrienden, familie of je lokale dartclub (alleen tegen materiaalkosten) wordt aangemoedigd en vereist geen licentie. Ik vraag alleen om feedback of een kleine donatie als je het project leuk vindt.
-*   **Hulp aan de community:** Printen voor communityleden die zelf geen printer hebben (tegen materiaalkosten + een kleine vergoeding voor de moeite) is toegestaan, maar **MOET** transparant worden afgehandeld en eerst met mij (**IteraThor**) op Discord worden besproken.
+*   **Hulp aan de community:** Printen voor communityleden die zelf geen printer hebben (tegen materiaalkosten + een kleine vergoeding voor de moeite) is toegestaan, maar **MOET** transparant worden afgehandeld en eerst met mij (**IteraThor**) op Discord besproken worden.
 
 ---
 
 ## 10. Ondersteun het Project
 *   **Feedback:** Word lid van de Discord of laat een reactie achter op Makerworld.
 *   **Donaties:** Steun de ontwikkeling hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
-
----
-

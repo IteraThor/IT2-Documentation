@@ -28,15 +28,12 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
     * [4.3 Option 3: Target Corona Light Ring](#43-option-3-target-corona-light-ring)
     * [4.4 Option 4: IT2 DIY Low Ceiling Light Ring](#44-option-4-it2-diy-low-ceiling-light-ring)
 5. [Final Step: Installation & Wall Mounting](#5-final-step-installation--wall-mounting)
-    * [Option A: Direct Mounting](#option-a-direct-mounting)
-    * [Option B: IT2 Baseplate](#option-b-it2-baseplate)
-    * [5.1 Mounting: Direct Wall Attachment](#51-mounting-instructions-direct-wall-mounting-option-a)
-    * [5.2 Mounting: IT2 Baseplate](#52-mounting-instructions-baseplate-mounting-option-b)
+    * [5.1 Mounting Instructions: Direct Wall Mounting (Option A)](#51-mounting-instructions-direct-wall-mounting-option-a)
+    * [5.2 Mounting Instructions: Baseplate Mounting (Option B)](#52-mounting-instructions-baseplate-mounting-option-b)
 6. [Pro Tips & Troubleshooting](#6-pro-tips--troubleshooting)
     * [6.1 Assembly Best Practices](#61-assembly-best-practices)
-    * [6.2 Alignment & Performance](#62-alignment--performance)
-    * [6.3 Hiding Winmau Plasma Power Cable](#63-hiding-winmau-plasma-power-cable)
-    * [6.4 Hiding Target Corona Power Cable](#64-hiding-target-corona-power-cable)
+    * [6.2 Hiding Winmau Plasma Power Cable](#62-hiding-winmau-plasma-power-cable)
+    * [6.3 Hiding Target Corona Power Cable](#63-hiding-target-corona-power-cable)
 7. [Recommended Electronics](#7-recommended-electronics)
 8. [FAQ](#8-faq)
 9. [Licensing & Community Support](#9-licensing--community-support)
@@ -131,7 +128,7 @@ Now that your camera arms are prepared, choose the build guide that fits your se
 
 ### 4.1 Option 1: Winmau Plasma Light Ring
 
-> **Pro Tip:** You have the option to route the Winmau Plasma's power cable through the internal channels of the IT2 system for an even cleaner look. This requires some extra steps- refer to [Section 6.3: Hiding Winmau Plasma Power Cable](#63-hiding-winmau-plasma-power-cable) for details.
+> **Pro Tip:** You have the option to route the Winmau Plasma's power cable through the internal channels of the IT2 system for an even cleaner look. This requires some extra steps - refer to [Section 6.2: Hiding Winmau Plasma Power Cable](#62-hiding-winmau-plasma-power-cable) for details.
 
 **Step 1: Removing Original Legs**  
 Remove the three original mounting legs from your Winmau Plasma light ring. These will be replaced by the IT2 camera arms.
@@ -188,7 +185,7 @@ Then, hook the **upper part of the adapter** into the ring and snap it into plac
 
 ![corona_alignment](images/04_options/08_corona_alignment.png)
 
-> **Pro Tip:** You have the option to route the Target Corona's power cable through the internal channels of the IT2 system for an even cleaner look. This requires some extra steps- refer to [Section 6.4: Hiding Target Corona Power Cable](#64-hiding-target-corona-power-cable) for details.
+> **Pro Tip:** You have the option to route the Target Corona's power cable through the internal channels of the IT2 system for an even cleaner look. This requires some extra steps - refer to [Section 6.3: Hiding Target Corona Power Cable](#63-hiding-target-corona-power-cable) for details.
 
 [Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-final-step-installation--wall-mounting)**
 
@@ -253,11 +250,12 @@ When tightening screws, ensure they are only **"finger-tight."**
 *   Avoid over-tightening, as it can stress the heat inserts.
 *   **Self-Tapping Version:** Be especially careful when using the self-tapping version, as the plastic threads can easily be stripped (which is **irreversible**) if too much force is applied.
 
-### 6.3 Hiding Winmau Plasma Power Cable
+### 6.2 Hiding Winmau Plasma Power Cable
 **Step 1:** ...
 **Step 2:** ...
 *(Instructions coming soon)*
-### 6.4 Hiding Target Corona Power Cable
+
+### 6.3 Hiding Target Corona Power Cable
 **Step 1:** ...
 **Step 2:** ...
 *(Instructions coming soon)*
@@ -268,12 +266,14 @@ When tightening screws, ensure they are only **"finger-tight."**
 
 ## 7. Recommended Electronics
 
-| Part Name    | Type                                   | Link                                                     | Comment                                        |
-| ------------ | -------------------------------------- | -------------------------------------------------------- | ---------------------------------------------- |
-| Cameras      | HBV OV2710                             | [Aliexpress](https://s.click.aliexpress.com/e/_c4bziy33) | Best Price to Performance Cameras.             |
-| LED Strip    | Auxmer 12V 9.6W LED Strip              | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | Personal favorite. Truest to life colors.      |
-| PC           | Dell Wyse 5070 >=4GB RAM >= 16 Storage | Aliexpress                                               | Personal favorite. Good Price for performance. |
-| Touch Screen | Anmite 16" Touchscreen                 | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | Personal favorite. Good Price for performance. |
+| Part Name    | Type                                 | Link                                                     | Comment                                        |
+| ------------ | ------------------------------------ | -------------------------------------------------------- | ---------------------------------------------- |
+| Cameras      | HBV OV2710                           | [Aliexpress](https://s.click.aliexpress.com/e/_c4bziy33) | Best Price to Performance Cameras.             |
+| LED Strip    | Auxmer 12V 9.6W LED Strip            | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | Personal favorite. Truest to life colors.      |
+| Power Supply | 12V 3A Power Adapter                 | [Aliexpress](https://s.click.aliexpress.com/e/_c2IYxq1R) | Required for the DIY LED strip.                |
+| DC Connector | 2.1mm Female DC Barrel Jack          | [Aliexpress](https://s.click.aliexpress.com/e/_c3L2uy4H) | Required to connect power to the LED strip.    |
+| PC           | Dell Wyse 5070 ≥4GB RAM ≥ 16 Storage |                                                          | Personal favorite. Good Price for performance. |
+| Touch Screen | Anmite 16" Touchscreen               | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | Personal favorite. Good Price for performance. |
 
 ---
 
@@ -307,14 +307,3 @@ When tightening screws, ensure they are only **"finger-tight."**
 ## 10. Support the Project
 *   **Feedback:** Join the Discord or leave a comment on Makerworld.
 *   **Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
-
----
-ST** be handled transparently and discussed with me (**IteraThor**) on Discord first.
-
----
-
-## 10. Support the Project
-*   **Feedback:** Join the Discord or leave a comment on Makerworld.
-*   **Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
-
----
