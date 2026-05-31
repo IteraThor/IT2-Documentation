@@ -207,7 +207,7 @@ Sichere die Kamera-Arme an den integrierten Montagepunkten des DIY-Rings mit M4 
 Das IT2-System bietet zwei Hauptinstallationswege, je nach deinen Anforderungen an Ästhetik, Montageaufwand und Wandschutz.
 
 ### 5.1 Option A: Direktmontage
-In dieser Konfiguration wird das IT2-System direkt an der Wand montiert. Dies erfordert das Bohren von bis zu 8 Löchern (je 2 pro Bein und 2 für dein Dartboard).
+In dieser Konfiguration wird das IT2-System direkt an der Wand montiert. Dies erfordert das Bohren von **6 Löchern** für die Arme sowie **2 weitere Löcher** für die Dartboard-Aufhängung (falls noch nicht vorhanden).
 *   **Vorteile:** Weniger Teile zum Zusammenbauen; minimaler Platzbedarf; das System sitzt bündig an der Wand.
 *   **Nachteile:** Erfordert mehr Bohrpunkte in der Wand; die Positionen für die Beine müssen manuell durch Messen, Anzeichnen oder eine Bohrschablone ermittelt werden.
 

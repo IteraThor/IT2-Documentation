@@ -222,7 +222,7 @@ Zet de camera-armen vast op de geïntegreerde montagepunten met M4 schroeven.
 Het IT2-systeem biedt twee belangrijke installatiemogelijkheden, afhankelijk van je wensen voor esthetiek, installatiegemak en behoud van de muur.
 
 ### 5.1 Optie A: Directe Montage
-In deze configuratie wordt het IT2-systeem rechtstreeks aan de muur gemonteerd. Dit vereist het boren van maximaal 8 gaten (2 voor elke poot en 2 voor je dartbord).
+In deze configuratie wordt het IT2-systeem rechtstreeks aan de muur gemonteerd. Dit vereist het boren van **6 gaten** voor de armen en **2 extra gaten** voor de ophanging van je dartbord (indien nog niet aanwezig).
 *   **Voordelen:** Minder onderdelen om te monteren; minimale voetafdruk; het systeem zit vlak tegen de muur.
 *   **Nadelen:** Vereist meer boorpunten; de gaten voor de poten moeten handmatig worden bepaald met behulp van metingen, cirkeltekeningen of een boormal.
 

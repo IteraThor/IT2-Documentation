@@ -220,7 +220,7 @@ Secure the camera arms to the integrated mounting points on the DIY ring using M
 The IT2 system offers two main installation paths depending on your requirements for aesthetics, ease of installation, and wall preservation.
 
 ### 5.1 Option A: Direct Mounting
-In this configuration, the IT2 system mounts directly to the wall. This requires drilling up to 8 holes (2 for each leg and 2 for your dartboard).
+In this configuration, the IT2 system mounts directly to the wall. This requires drilling **6 holes** for the arms and **2 additional holes** for your dartboard mount (if not already installed).
 *   **Pros:** Fewer parts to assemble; minimal footprint; the system sits flush against the wall.
 *   **Cons:** Requires more drilling points; leg holes must be located manually using measurements, circle drawings, or a drill template.
 
