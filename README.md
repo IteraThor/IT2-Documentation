@@ -30,6 +30,8 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
 5. [Final Step: Installation & Wall Mounting](#5-final-step-installation--wall-mounting)
     * [Option A: Direct Mounting](#option-a-direct-mounting)
     * [Option B: IT2 Baseplate](#option-b-it2-baseplate)
+    * [5.1 Mounting: Direct Wall Attachment](#51-mounting-instructions-direct-wall-mounting-option-a)
+    * [5.2 Mounting: IT2 Baseplate](#52-mounting-instructions-baseplate-mounting-option-b)
 6. [Pro Tips & Troubleshooting](#6-pro-tips--troubleshooting)
     * [6.1 Assembly Best Practices](#61-assembly-best-practices)
     * [6.2 Alignment & Performance](#62-alignment--performance)
@@ -229,6 +231,14 @@ The **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is an optional uni
     *   **Stand Compatibility:** Can be installed on a dartboard stand by default (e.g., Winmau Xtreme Dartboard Stand 2).
 *   **Trade-offs:**
     *   **Wall Offset:** The baseplate adds approximately **30mm of depth**. You **MUST** adjust your oche (throw line) distance by 30mm to maintain official dimensions.
+
+---
+
+### 5.1 Mounting Instructions: Direct Wall Mounting (Option A)
+*(Detailed step-by-step instructions for direct wall mounting will follow here)*
+
+### 5.2 Mounting Instructions: Baseplate Mounting (Option B)
+*(Detailed step-by-step instructions for mounting via the IT2 Baseplate will follow here)*
 
 [Back to Table of Contents](#table-of-contents)
 
