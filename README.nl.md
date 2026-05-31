@@ -194,7 +194,7 @@ Haak vervolgens het **bovenste deel van de adapter** in de ring en klik het op z
 
 ### 4.4 Optie 4: IT2 DIY Low Ceiling Lichtring
 
-Deze versie is speciaal ontwikkeld voor ruimtes met een laag plafond. Het vereist een minimale plafondhoogte van **2,00m**.
+> ⚠️ **Belangrijk:** Deze versie is speciaal ontwikkeld voor ruimtes met een laag plafond. Het vereist een minimale plafondhoogte van **2,00m**.
 
 **Stap 1: Montage van de Ring**  
 Zet de ring in elkaar door de **zwaluwstaartverbindingen** in elkaar te schuiven. Gebruik de **3 montagesegmenten** en **6 tussensegmenten** in de juiste volgorde voor een perfecte 120° uitlijning.
