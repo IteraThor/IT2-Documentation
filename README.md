@@ -238,7 +238,6 @@ When securing the cameras with M2 screws and the frame with M4 screws, tighten t
 #### 120° Alignment
 Correct alignment is crucial for scoring accuracy. Depending on your version, this is handled differently:
 
-*   **Winmau Plasma & DIY Ring:** These setups feature a **"Hardware-Locked"** alignment. As long as the arms are correctly seated, your 120-degree angles are mathematically perfect - no manual alignment tools required.
 *   **Target Corona:** Since the adapters allow the arms to slide freely along the ring, you must take care to align them manually at exactly **120 degrees** to each other for optimal scoring accuracy.
 
 ### 6.3 Hiding Winmau Plasma Power Cable
@@ -293,6 +292,10 @@ Correct alignment is crucial for scoring accuracy. Depending on your version, th
 ## 10. Support the Project
 *   **Feedback:** Join the Discord or leave a comment on Makerworld.
 *   **Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+
+---
+--
+Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
 
 ---
 --

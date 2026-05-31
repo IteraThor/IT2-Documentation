@@ -236,7 +236,6 @@ Wenn du die Kameras mit M2-Schrauben und den Rahmen mit M4-Schrauben sicherst, z
 #### 120°-Ausrichtung
 Die korrekte Ausrichtung ist entscheidend für die Scoring-Genauigkeit. Je nach Version wird dies unterschiedlich gehandhabt:
 
-*   **Winmau Plasma & DIY Ring:** Diese Setups verfügen über eine **"Hardware-Locked"** Ausrichtung. Solange die Arme korrekt sitzen, sind deine 120-Grad-Winkel mathematisch perfekt – kein manuelles Ausrichten erforderlich.
 *   **Target Corona:** Da die Adapter ein freies Verschieben auf dem Ring ermöglichen, musst du darauf achten, sie manuell in einem Winkel von exakt **120 Grad** zueinander auszurichten.
 
 ### 6.3 Verstecken des Winmau Plasma Stromkabels
@@ -269,6 +268,11 @@ Die korrekte Ausrichtung ist entscheidend für die Scoring-Genauigkeit. Je nach 
 
 ### Unterstütze das Projekt
 *   **Feedback:** Tritt dem Discord bei oder hinterlasse einen Kommentar auf Makerworld.
+*   **Spenden:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+
+---
+--
+terlasse einen Kommentar auf Makerworld.
 *   **Spenden:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
 
 ---

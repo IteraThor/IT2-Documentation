@@ -134,8 +134,7 @@ Nu je camera-armen klaar zijn, kies je de bouwhandleiding die bij jouw setup pas
 Verwijder de drie originele montagepoten van je Winmau Plasma lichtring. Deze worden vervangen door de IT2 camera-armen.
 
 **Stap 2: Montage van de IT2-armen**  
-Bevestig de drie voorbereide camera-armen op de daarvoor bestemde posities op de Winmau Plasma ring. De IT2-armen zijn ontworpen om perfect op het profiel van de Plasma te passen. Gebruik M4 schroeven om ze vast te zetten.  
-*   **Hardware-Locked Uitlijning:** Zodra de armen op hun plek zitten, zijn je 120-graden hoeken wiskundig perfect. Handmatige aanpassing is niet nodig.
+Bevestig de drie [voorbereidde camera-armen](#3-algemene-montage-camera-armen) op de daarvoor bestemde posities op de Winmau Plasma ring. De IT2-armen zijn ontworpen om perfect op het profiel van de Plasma te passen. Gebruik M4 schroeven om ze vast te zetten.  
 
 ![plasma_montage](images/04_options/01_plasma_mounting.png)
 
