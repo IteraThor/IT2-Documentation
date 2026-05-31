@@ -228,7 +228,7 @@ Um das bestmögliche Erlebnis mit deinem IT2-System zu gewährleisten, befolge d
 
 ### 6.1 Best Practices für die Montage
 Achte beim Festziehen der Schrauben darauf, diese nur **"handfest"** anzuziehen.
-*   Vermeide übermäßiges Festziehen, da dies die 3D-gedruckten Gewinde belasten kann.
+*   Vermeide übermäßiges Festziehen, da dies die Schmelzeinsätze belasten kann.
 *   **Selbstschneidende Version:** Sei besonders vorsichtig bei der selbstschneidenden Version. Die Kunststoffgewinde können leicht überdrehen, wenn zu viel Kraft angewendet wird.
 
 ### 6.2 Ausrichtung & Performance

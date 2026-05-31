@@ -250,7 +250,7 @@ To ensure the best possible experience with your IT2 system, follow these tips a
 
 ### 6.1 Assembly Best Practices
 When tightening screws, ensure they are only **"finger-tight."**
-*   Avoid over-tightening, as it can stress the 3D-printed threads.
+*   Avoid over-tightening, as it can stress the heat inserts.
 *   **Self-Tapping Version:** Be especially careful when using the self-tapping version, as the plastic threads can easily be stripped if too much force is applied.
 
 ### 6.3 Hiding Winmau Plasma Power Cable
