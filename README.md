@@ -268,12 +268,12 @@ When tightening screws, ensure they are only **"finger-tight."**
 
 ## 7. Recommended Electronics
 
-| Part Name    | Type                                   | Link       | Comment                                        |
-| ------------ | -------------------------------------- | ---------- | ---------------------------------------------- |
+| Part Name    | Type                                   | Link                                                     | Comment                                        |
+| ------------ | -------------------------------------- | -------------------------------------------------------- | ---------------------------------------------- |
 | Cameras      | HBV OV2710                             | [Aliexpress](https://s.click.aliexpress.com/e/_c4bziy33) | Best Price to Performance Cameras.             |
-| LED Strip    | Auxmer 12V 9.6W LED Strip              | Aliexpress | Personal favorite. Truest to life colors.      |
-| PC           | Dell Wyse 5070 >=4GB RAM >= 16 Storage | Aliexpress | Personal favorite. Good Price for performance. |
-| Touch Screen | Anmite 16" Touchscreen                 | Aliexpress | Personal favorite. Good Price for performance. |
+| LED Strip    | Auxmer 12V 9.6W LED Strip              | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | Personal favorite. Truest to life colors.      |
+| PC           | Dell Wyse 5070 >=4GB RAM >= 16 Storage | Aliexpress                                               | Personal favorite. Good Price for performance. |
+| Touch Screen | Anmite 16" Touchscreen                 | Aliexpress                                               | Personal favorite. Good Price for performance. |
 
 ---
 
