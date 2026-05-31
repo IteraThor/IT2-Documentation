@@ -66,7 +66,7 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
 | Cylindrical Screws | M2 (ISO4762/DIN912)      | 6    | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Camera Screws.                                                                                         |
 | M4 Heat Inserts*   | 6.3mm OD (max 9mm long) | 12   | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | A heat insert with 6mm OD will also work.<br><br>*Only required when printing the heat insert version. |
 
-> 💡 **Looking for the rest?** [View Recommended Electronics & Accessories](#7-recommended-electronics)
+> 💡 **Looking for more?** [View Recommendations for Electronics & Accessories](#7-recommended-electronics)
 
 ### 2.2 Required Tools
 
