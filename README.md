@@ -197,7 +197,7 @@ Then, hook the **upper part of the adapter** into the ring and snap it into plac
 **Assembly Instructions**  
 The assembly logic for this version is identical to the standard DIY ring. Please follow the detailed **[Step-by-Step Instructions in Section 4.2](#42-option-2-it2-diy-light-ring)**.
 
-> 💡 **Tip:** Unlike the standard ring, the Low Ceiling version consists of **6 different types of segments**. Before joining the dovetail joints, lay out all pieces on the floor in the correct sequence to ensure a perfect fit.
+> 💡 **Tip:** Unlike the standard ring, the Low Ceiling version consists of **6 different types of segments**. Before joining the dovetail joints, lay out all pieces on the floor in the correct sequence to prevent assembly errors. Once the dovetails are connected, they can be very difficult to pull apart without damaging the parts.
 
 **Final Result**  
 Once assembled, your Low Ceiling Light Ring should look like this:

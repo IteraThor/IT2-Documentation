@@ -199,7 +199,7 @@ Haak vervolgens het **bovenste deel van de adapter** in de ring en klik het op z
 **Montage-instructies**  
 De montagelogica voor deze versie is identiek aan de standaard DIY-ring. Volg de gedetailleerde **[Stap-voor-stap instructies in Sectie 4.2](#42-optie-2-setup-met-it2-diy-lichtring)**.
 
-> 💡 **Tip:** In tegenstelling tot de standaard ring bestaat de Low Ceiling versie uit **6 verschillende soorten segmenten**. Leg voordat je de zwaluwstaartverbindingen samenvoegt alle stukken in de juiste volgorde op de grond om een perfecte pasvorm te garanderen.
+> 💡 **Tip:** In tegenstelling tot de standaard ring bestaat de Low Ceiling versie uit **6 verschillende soorten segmenten**. Leg voordat je de zwaluwstaartverbindingen samenvoegt alle stukken in de juiste volgorde op de grond om montagefouten te voorkomen. Eenmaal verbonden kunnen de segmenten erg lastig weer uit elkaar te halen zijn zonder de onderdelen te beschadigen.
 
 **Eindresultaat**  
 Na montage zou je Low Ceiling Lichtring er als volgt uit moeten zien:
