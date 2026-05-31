@@ -76,7 +76,7 @@ Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Dez
 | Gereedschap           | Link                                 | Doel                                                                    |
 | --------------------- | ------------------------------------ | ----------------------------------------------------------------------- |
 | Inbussleutelset       | [Amazon.de](https://amzn.to/4nWmdhU) | Voor M4 en M2 cilinderkopschroeven.                                     |
-| Tang / Zijkniptang    |                                      | Nodig voor het verkleinen van de cameraframes van 38x38 naar 32x32.      |
+| Tang / Zijkniptang    | [Amazon.de](https://amzn.to/3PBMeql) | Nodig voor het verkleinen van de cameraframes van 38x38 naar 32x32.      |
 | Soldeerbout           |                                      | Nodig voor het smelten van de M4 smeltmoeren (alleen Heat Insert versie).|
 
 ---

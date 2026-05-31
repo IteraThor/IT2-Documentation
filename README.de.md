@@ -70,7 +70,7 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
 | Werkzeug               | Link                                 | Zweck                                                                    |
 | ---------------------- | ------------------------------------ | ------------------------------------------------------------------------ |
 | Inbusschlüssel-Set     | [Amazon.de](https://amzn.to/4nWmdhU) | Für M4 und M2 Zylinderschrauben.                                         |
-| Zange / Seitenschneider|                                      | Zum Anpassen der Kamera-Rahmen von 38x38 auf 32x32.                      |
+| Zange / Seitenschneider| [Amazon.de](https://amzn.to/3PBMeql) | Zum Anpassen der Kamera-Rahmen von 38x38 auf 32x32.                      |
 | Lötkolben              |                                      | Zum Einschmelzen der M4 Schmelzeinsätze (nur Heat-Insert-Version).          |
 
 ---
