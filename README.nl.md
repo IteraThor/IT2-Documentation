@@ -214,13 +214,13 @@ Na montage zou je Low Ceiling Lichtring er als volgt uit moeten zien:
 
 Het IT2-systeem biedt twee belangrijke installatiemogelijkheden, afhankelijk van je wensen voor esthetiek, installatiegemak en behoud van de muur.
 
-### 5.1 Optie A: Directe Montage
+### Optie A: Directe Montage
 In deze configuratie wordt het IT2-systeem rechtstreeks aan de muur gemonteerd. Dit vereist het boren van **6 gaten** voor de armen en **2 extra gaten** voor de ophanging van je dartbord (indien nog niet aanwezig).
 *   **Voordelen:** Minder onderdelen om te monteren; minimale voetafdruk; het systeem zit vlak tegen de muur.
 *   **Nadelen:** Vereist meer boorpunten; de gaten voor de poten moeten handmatig worden bepaald met behulp van metingen, cirkeltekeningen of een boormal.
 
-### 5.2 Optie B: IT2 Baseplate
-De **IT2 Baseplate** is een optionele unit die is ontworpen om het installatieproces te vereenvoudigen en extra functionaliteit toe te voegen.
+### Optie B: IT2 Baseplate
+De **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is een optionele unit die is ontworpen om het installatieproces te vereenvoudigen en extra functionaliteit toe te voegen.
 
 *   **Voordelen:**
     *   **Installatiegemak:** Centreer de plaat op de bullseye en installeer deze waterpas; de volledige setup wordt vervolgens op de plaat gemonteerd met slechts drie muurschroeven.
@@ -300,5 +300,8 @@ Een correcte uitlijning is cruciaal voor de nauwkeurigheid van de score. Afhanke
 ## 10. Ondersteun het Project
 *   **Feedback:** Word lid van de Discord of laat een reactie achter op Makerworld.
 *   **Donaties:** Steun de ontwikkeling hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+
+---
+ontwikkeling hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
 
 ---

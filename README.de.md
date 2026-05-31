@@ -28,6 +28,8 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
     * [4.3 Option 3: Target Corona Lichtring](#43-option-3-target-corona-lichtring)
     * [4.4 Option 4: IT2 DIY Low Ceiling Lichtring](#44-option-4-it2-diy-low-ceiling-lichtring)
 5. [Letzter Schritt: Installation & Wandmontage](#5-letzter-schritt-installation--wandmontage)
+    * [Option A: Direktmontage](#option-a-direktmontage)
+    * [Option B: IT2 Baseplate](#option-b-it2-baseplate)
 6. [Profi-Tipps & Fehlerbehebung](#6-profi-tipps--fehlerbehebung)
     * [6.1 Best Practices für die Montage](#61-best-practices-für-die-montage)
     * [6.2 Ausrichtung & Performance](#62-ausrichtung--performance)

@@ -28,6 +28,8 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
     * [4.3 Option 3: Target Corona Light Ring](#43-option-3-target-corona-light-ring)
     * [4.4 Option 4: IT2 DIY Low Ceiling Light Ring](#44-option-4-it2-diy-low-ceiling-light-ring)
 5. [Final Step: Installation & Wall Mounting](#5-final-step-installation--wall-mounting)
+    * [Option A: Direct Mounting](#option-a-direct-mounting)
+    * [Option B: IT2 Baseplate](#option-b-it2-baseplate)
 6. [Pro Tips & Troubleshooting](#6-pro-tips--troubleshooting)
     * [6.1 Assembly Best Practices](#61-assembly-best-practices)
     * [6.2 Alignment & Performance](#62-alignment--performance)
@@ -212,12 +214,12 @@ Once assembled, your Low Ceiling Light Ring should look like this:
 
 The IT2 system offers two main installation paths depending on your requirements for aesthetics, ease of installation, and wall preservation.
 
-### 5.1 Option A: Direct Mounting
+### Option A: Direct Mounting
 In this configuration, the IT2 system mounts directly to the wall. This requires drilling **6 holes** for the arms and **2 additional holes** for your dartboard mount (if not already installed).
 *   **Pros:** Fewer parts to assemble; minimal footprint; the system sits flush against the wall.
 *   **Cons:** Requires more drilling points; leg holes must be located manually using measurements, circle drawings, or a drill template.
 
-### 5.2 Option B: IT2 Baseplate
+### Option B: IT2 Baseplate
 The **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is an optional unit designed to simplify the installation process and add extra functionality.
 
 *   **Advantages:**
