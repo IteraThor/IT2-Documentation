@@ -194,22 +194,13 @@ Then, hook the **upper part of the adapter** into the ring and snap it into plac
 
 > This version was specifically developed for rooms with low ceiling heights. It requires a minimum ceiling height of **2.00m**.
 
-**Step 1: Ring Assembly**  
-Assemble the ring by sliding the **dovetail joints** together. Use the **3 mounting segments** and **6 intermediate segments** in the correct sequence for a perfect 120° alignment.
+**Assembly Instructions**  
+The assembly logic for this version is identical to the standard DIY ring. Please follow the detailed **[Step-by-Step Instructions in Section 4.2](#42-option-2-it2-diy-light-ring)**.
 
-*(Image placeholder: Low Ceiling Ring Assembly)*
+**Final Result**  
+Once assembled, your Low Ceiling Light Ring should look like this:
 
-> **Note:** All segments must sit flush against each other. The dovetail joints should slide together with moderate force. If they are too tight, it is likely due to printer tolerances or uncalibrated filament. In this case, carefully sand the dovetail edges until they fit smoothly.
-
-**Step 2: LED Installation**  
-Install the **LED strip** as shown in the picture below. Ensure the strip is touching the deepest surface for optimal results.
-
-*(Image placeholder: Low Ceiling LED Installation)*
-
-**Step 3: Attaching the Arms**  
-Secure the camera arms to the integrated mounting points on the DIY ring using M4 screws. 
-
-*(Image placeholder: Low Ceiling Arm Mounting)*
+*(Image placeholder: Final Assembled Low Ceiling Ring)*
 
 [Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-final-step-installation--wall-mounting)**
 

@@ -183,20 +183,13 @@ Hake dann den **oberen Teil des Adapters** in den Ring ein und lass ihn einraste
 
 > Diese Version wurde speziell für Räume mit geringer Deckenhöhe entwickelt. Sie erfordert eine Deckenhöhe von mindestens **2,00m**.
 
-**Schritt 1: Zusammenbau des Rings**  
-Verbinde die 3D-gedruckten Segmente des IT2 DIY Lichtrings. Achte auf eine feste Verbindung, um die Stabilität zu gewährleisten.
+**Montageanleitung**  
+Die Montage-Logik für diese Version ist identisch mit dem Standard-DIY-Ring. Bitte folge den detaillierten **[Schritt-für-Schritt-Anweisungen in Abschnitt 4.2](#42-option-2-it2-diy-lichtring)**.
 
-*(Bild-Platzhalter: Low Ceiling Ring Zusammenbau)*
+**Endergebnis**  
+Nach dem Zusammenbau sollte dein Low Ceiling Lichtring wie folgt aussehen:
 
-**Schritt 2: LED-Installation**  
-Installiere den **LED-Streifen** in den dafür vorgesehenen Kanal des Rings. Beginne unten, damit das Stromkabel sauber weggeführt werden kann.
-
-*(Bild-Platzhalter: Low Ceiling LED Installation)*
-
-**Schritt 3: Befestigung der Arme**  
-Sichere die Kamera-Arme an den integrierten Montagepunkten des DIY-Rings mit M4 Schrauben.
-
-*(Bild-Platzhalter: Low Ceiling Arm Montage)*
+*(Bild-Platzhalter: Fertig montierter Low Ceiling Ring)*
 
 [Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Installation an die Wand](#5-letzter-schritt-installation--wandmontage)**
 

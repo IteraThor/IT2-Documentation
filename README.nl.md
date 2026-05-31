@@ -196,22 +196,13 @@ Haak vervolgens het **bovenste deel van de adapter** in de ring en klik het op z
 
 > Deze versie is speciaal ontwikkeld voor ruimtes met een laag plafond. Het vereist een minimale plafondhoogte van **2,00m**.
 
-**Stap 1: Montage van de Ring**  
-Zet de ring in elkaar door de **zwaluwstaartverbindingen** in elkaar te schuiven. Gebruik de **3 montagesegmenten** en **6 tussensegmenten** in de juiste volgorde voor een perfecte 120° uitlijning.
+**Montage-instructies**  
+De montagelogica voor deze versie is identiek aan de standaard DIY-ring. Volg de gedetailleerde **[Stap-voor-stap instructies in Sectie 4.2](#42-optie-2-setup-met-it2-diy-lichtring)**.
 
-*(Afbeelding placeholder: Low Ceiling Ring Montage)*
+**Eindresultaat**  
+Na montage zou je Low Ceiling Lichtring er als volgt uit moeten zien:
 
-> **Opmerking:** Alle segmenten moeten vlak tegen elkaar aanliggen. De zwaluwstaartverbindingen moeten met matige kracht in elkaar schuiven. Als ze te strak zitten, komt dit waarschijnlijk door printertoleranties of ongekalibreerd filament. Schuur in dat geval voorzichtig de randen van de zwaluwstaart af tot ze soepel passen.
-
-**Stap 2: LED-installatie**  
-Installeer de **LED-strip** zoals getoond op de onderstaande afbeelding. Zorg ervoor dat de strip het diepste oppervlak raakt voor een optimaal resultaat.
-
-*(Afbeelding placeholder: Low Ceiling LED Installatie)*
-
-**Stap 3: Bevestiging van de armen**  
-Zet de camera-armen vast op de geïntegreerde montagepunten met M4 schroeven.
-
-*(Afbeelding placeholder: Low Ceiling Arm Bevestiging)*
+*(Afbeelding placeholder: Volledig gemonteerde Low Ceiling Ring)*
 
 [Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-installatie-aan-de-wand)**
 
