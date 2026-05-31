@@ -192,7 +192,7 @@ Then, hook the **upper part of the adapter** into the ring and snap it into plac
 
 ### 4.4 Option 4: IT2 DIY Low Ceiling Light Ring
 
-This version was specifically developed for rooms with low ceiling heights. It requires a minimum ceiling height of **2.00m**. The core assembly logic is identical to the [standard IT2 DIY Light Ring](#42-option-2-it2-diy-light-ring), but it features a modified, more compact profile to save space at the top.
+This version was specifically developed for rooms with low ceiling heights. It requires a minimum ceiling height of **2.00m**.
 
 **Step 1: Ring Assembly**  
 Assemble the ring segments. Ensure all connections are tight for maximum stability.
