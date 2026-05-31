@@ -74,7 +74,7 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
 | Tool                  | Link                                 | Purpose                                                          |
 | --------------------- | ------------------------------------ | ---------------------------------------------------------------- |
 | Hex Key Set           | [Amazon.de](https://amzn.to/4nWmdhU) | For M4 and M2 cylindrical screws.                                |
-| Pliers / Side Cutters | [Amazon.de](https://amzn.to/3PBMeql) | Required for resizing the camera frames from 38x38 to 32x32.     |
+| Pliers / Side Cutters | [Aliexpress](https://s.click.aliexpress.com/e/_c4NYxuoH)<br>[Amazon.de](https://amzn.to/3PBMeql) | Required for resizing the camera frames from 38x38 to 32x32.     |
 | Soldering Iron        | [Amazon.de](https://amzn.to/3PBMeql) | Required for melting M4 heat inserts (Heat Insert version only). |
 
 ---
