@@ -271,7 +271,7 @@ Zorg er bij het aandraaien van schroeven voor dat ze slechts **"handvast"** zitt
 | Camera's      | HBV OV2710                             | [Aliexpress](https://s.click.aliexpress.com/e/_c4bziy33) | Camera's met de beste prijs-kwaliteitverhouding.|
 | LED-strip     | Auxmer 12V 9.6W LED-strip              | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | Persoonlijke favoriet. Meest natuurgetrouwe kleuren. |
 | PC            | Dell Wyse 5070 >=4GB RAM >= 16 Storage | Aliexpress | Persoonlijke favoriet. Goede prijs-kwaliteitverhouding. |
-| Touchscreen   | Anmite 16" Touchscreen                 | Aliexpress | Persoonlijke favoriet. Goede prijs-kwaliteitverhouding. |
+| Touchscreen   | Anmite 16" Touchscreen                 | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | Persoonlijke favoriet. Goede prijs-kwaliteitverhouding. |
 
 ---
 
