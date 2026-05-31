@@ -230,7 +230,7 @@ The **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is an optional uni
     *   **Sound Insulation:** Features an integrated, optional sound insulation system.
     *   **Stand Compatibility:** Can be installed on a dartboard stand by default (e.g., Winmau Xtreme Dartboard Stand 2).
 *   **Trade-offs:**
-    *   **Wall Offset:** The baseplate adds approximately **30mm of depth**. You **MUST** adjust your oche (throw line) distance by 30mm to maintain official dimensions.
+    *   **Wall Offset:** The baseplate adds approximately **30mm of depth**. You **should** adjust your oche (throw line) distance by 30mm to maintain official dimensions.
 
 ---
 

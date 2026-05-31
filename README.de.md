@@ -217,7 +217,7 @@ Die **IT2 Baseplate** ist eine optionale Einheit, die den Installationsprozess v
     *   **Schallschutz:** Verfügt über ein integriertes, optionales Schallschutzsystem.
     *   **Ständer-Kompatibilität:** Kann standardmäßig auf einem Dartständer installiert werden (z. B. Winmau Xtreme Dartboard Stand 2).
 *   **Nachteile:**
-    *   **Wandabstand:** Die Basisplatte fügt ca. **30mm Tiefe** hinzu. Du **MUSST** den Abstand deiner Oche (Abwurflinie) um 30mm anpassen, um die offiziellen Maße einzuhalten.
+    *   **Wandabstand:** Die Basisplatte fügt ca. **30mm Tiefe** hinzu. Du **solltest** den Abstand deiner Oche (Abwurflinie) um 30mm anpassen, um die offiziellen Maße einzuhalten.
 
 [Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
