@@ -58,8 +58,8 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
 
 | Teil-Name           | Typ                       | Menge | Link                 | Kommentar                                                                                                |
 | ------------------- | ------------------------- | ----- | -------------------- | -------------------------------------------------------------------------------------------------------- |
-| Zylinderschrauben   | M4x10mm (ISO4762/DIN912)  | 12    | Aliexpress<br>Amazon | Erforderlich für den Großteil der Montage.                                                               |
-| Zylinderschrauben   | M2x6mm (ISO4762/DIN912)   | 6-12  | Aliexpress<br>Amazon | Kameraschrauben.                                                                                         |
+| Zylinderschrauben   | M4x10mm (ISO4762/DIN912)  | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>Amazon | Erforderlich für den Großteil der Montage.                                                               |
+| Zylinderschrauben   | M2x6mm (ISO4762/DIN912)   | 6-12  | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>Amazon | Kameraschrauben.                                                                                         |
 | M4 Schmelzeinsätze*    | 6.3mm Außendurchm.        | 12    | Aliexpress<br>Amazon | Ein Insert mit 6mm funktioniert ebenfalls.<br><br>*Nur für die Heat-Insert-Druckversion erforderlich.   |
 
 ### 2.2 Erforderliches Werkzeug
