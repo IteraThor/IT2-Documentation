@@ -300,8 +300,3 @@ Correct alignment is crucial for scoring accuracy. Depending on your version, th
 *   **Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
 
 ---
---
-Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
-
----
---
