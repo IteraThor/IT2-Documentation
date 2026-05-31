@@ -125,12 +125,8 @@ Nachdem deine Kamera-Arme vorbereitet sind, wähle die Aufbauanleitung, die zu d
 
 **Schritt 1: Montage der Arme**  
 Befestige die drei [vorbereiteten Kamera-Arme](#3-allgemeine-montage-kamera-arme) an den vorgesehenen Positionen auf dem Winmau Plasma Ring. Die IT2-Arme sind so konzipiert, dass sie perfekt auf das Profil des Plasma passen. Verwende M4 Schrauben, um sie zu sichern.  
-*   **Hardware-Locked Ausrichtung:** Sobald die Arme sitzen, sind deine 120-Grad-Winkel mathematisch perfekt. Eine manuelle Justierung ist nicht erforderlich.
 
 ![plasma_mounting](images/04_options/01_plasma_mounting.png)
-
-**Schritt 2: Kabelführung**  
-Führe die USB-Kabel durch die internen Kanäle der Arme zur Rückseite des Boards. Dies sorgt für eine saubere Optik und schützt die Kabel vor Fehlwürfen.
 
 [Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Installation an die Wand](#5-letzter-schritt-installation--wandmontage)**
 
@@ -149,7 +145,7 @@ Installiere den **LED-Streifen** in den dafür vorgesehenen Kanal des Rings. Beg
 ![led_install](images/04_options/03_diy_led_install.png)
 
 **Schritt 3: Befestigung der Arme**  
-Sichere die Kamera-Arme an den integrierten Montagepunkten des DIY-Rings mit M4 Schrauben. Wie bei der Plasma-Version ist dieses Setup **Hardware-Locked** für eine perfekte Ausrichtung.
+Sichere die Kamera-Arme an den integrierten Montagepunkten des DIY-Rings mit M4 Schrauben.
 
 ![arm_mounting](images/04_options/04_diy_arm_mounting.png)
 
@@ -192,7 +188,7 @@ Verbinde die 3D-gedruckten Segmente des IT2 DIY Low Ceiling Lichtrings. Achte au
 Installiere den **LED-Streifen** in den dafür vorgesehenen Kanal des Rings. Beginne unten, damit das Stromkabel sauber weggeführt werden kann.
 
 **Schritt 3: Befestigung der Arme**  
-Sichere die Kamera-Arme an den integrierten Montagepunkten des Low Ceiling Rings mit M4 Schrauben. Dieses Setup ist **Hardware-Locked** für eine perfekte Ausrichtung.
+Sichere die Kamera-Arme an den integrierten Montagepunkten des Low Ceiling Rings mit M4 Schrauben.
 
 *(Bild-Platzhalter)*
 

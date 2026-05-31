@@ -132,13 +132,9 @@ Now that your camera arms are prepared, choose the build guide that fits your se
 Remove the three original mounting legs from your Winmau Plasma light ring. These will be replaced by the IT2 camera arms.
 
 **Step 2: Mounting the IT2 Arms**  
-Attach the three prepared camera arms to the designated positions on the Winmau Plasma ring. The IT2 arms are designed to fit the Plasma's profile perfectly. Use M4 screws to secure them.  
-*   **Hardware-Locked Alignment:** Once the arms are seated, your 120-degree angles are mathematically perfect. No manual adjustment is required.
+Attach the three [prepared camera arms](#3-general-assembly-camera-arms) to the designated positions on the Winmau Plasma ring. The IT2 arms are designed to fit the Plasma's profile perfectly. Use M4 screws to secure them.  
 
 ![plasma_mounting](images/04_options/01_plasma_mounting.png)
-
-**Step 3: Cable Management**  
-Route the USB cables through the internal channels of the arms towards the back of the board. This ensures a clean look and protects the cables from stray dart hits.
 
 [Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-final-step-installation--wall-mounting)**
 

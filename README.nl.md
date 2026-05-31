@@ -138,9 +138,6 @@ Bevestig de drie [voorbereidde camera-armen](#3-algemene-montage-camera-armen) o
 
 ![plasma_montage](images/04_options/01_plasma_mounting.png)
 
-**Stap 3: Kabelbeheer**  
-Leid de USB-kabels door de interne kanalen van de armen naar de achterkant van het bord. Dit zorgt voor een strak uiterlijk en beschermt de kabels tegen verdwaalde darts.
-
 [Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-installatie-aan-de-wand)**
 
 ---
@@ -239,8 +236,7 @@ Draai de M2 schroeven voor de camera's en de M4 schroeven voor het frame vast to
 #### 120° Uitlijning
 Een correcte uitlijning is cruciaal voor de nauwkeurigheid van de score. Afhankelijk van je versie wordt dit anders aangepakt:
 
-*   **Winmau Plasma & DIY Ring:** Deze setups hebben een **"Hardware-Locked"** uitlijning. Zolang de armen correct geplaatst zijn, zijn je 120-graden hoeken wiskundig perfect - geen handmatige uitlijntools nodig.
-*   **Target Corona:** Omdat de adapters vrij langs de ring kunnen glijden, moet je ervoor zorgen dat je ze handmatig uitlijnt op exact **120 graden** van elkaar voor een optimale score-nauwkeurigheid.
+*   **Target Corona:** Omdat the adapters vrij langs de ring kunnen glijden, moet je ervoor zorgen dat je ze handmatig uitlijnt op exact **120 graden** van elkaar voor een optimale score-nauwkeurigheid.
 
 ### 6.3 Winmau Plasma stroomkabel verbergen
 **Stap 1:** ...
