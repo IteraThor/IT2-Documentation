@@ -228,7 +228,7 @@ De **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is een optionele un
     *   **Geluidsisolatie:** Voorzien van een geïntegreerd, optioneel geluidsisolatiesysteem.
     *   **Compatibiliteit met standaard:** Kan standaard worden geïnstalleerd op een dartbord-standaard (bijv. Winmau Xtreme Dartboard Stand 2).
 *   **Keerzijde:**
-    *   **Afstand tot de muur:** De baseplate voegt ongeveer **30mm diepte** toe. Je **zou** je oche (werplijn) afstand met 30mm moeten aanpassen om de officiële afmetingen te behouden.
+    *   **Afstand tot de muur:** De baseplate voegt ongeveer **30mm diepte** toe. Je zou je oche (werplijn) afstand met 30mm moeten aanpassen om de officiële afmetingen te behouden.
 
 [Terug naar Inhoudsopgave](#inhoudsopgave)
 
