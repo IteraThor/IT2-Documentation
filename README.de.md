@@ -181,7 +181,7 @@ Hake dann den **oberen Teil des Adapters** in den Ring ein und lass ihn einraste
 
 ### 4.4 Option 4: IT2 DIY Low Ceiling Lichtring
 
-> ⚠️ **Wichtig:** Diese Version wurde speziell für Räume mit geringer Deckenhöhe entwickelt. Sie erfordert eine Deckenhöhe von mindestens **2,00m**.
+> Diese Version wurde speziell für Räume mit geringer Deckenhöhe entwickelt. Sie erfordert eine Deckenhöhe von mindestens **2,00m**.
 
 **Schritt 1: Zusammenbau des Rings**  
 Verbinde die 3D-gedruckten Segmente des IT2 DIY Lichtrings. Achte auf eine feste Verbindung, um die Stabilität zu gewährleisten.
