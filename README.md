@@ -50,6 +50,7 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
 *   **Hidden Cable Management** - Internal routing for a clean look. Fits Corona or Plasma power barrels without any modifications.
 *   **No-Support Printing** - Designed for zero supports, minimizing material waste and print time.
 *   **Universal Compatibility** - Native support for Winmau Plasma, Target Corona, and IT2 DIY Rings.
+*   **Flexible Assembly** - Choose between the **Heat Insert** version or the **Self-Tapping** version (no heat inserts required).
 *   **Minimalist Hardware** - Built using only 12x M4 screws and 6x M2 screws.
 
 ---

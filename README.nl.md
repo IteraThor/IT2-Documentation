@@ -52,6 +52,7 @@ Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Dez
 *   **Verborgen Kabelbeheer** - Interne routing voor een strak uiterlijk. Past op Corona of Plasma stroomaansluitingen zonder aanpassingen.
 *   **Printen zonder support** - Ontworpen voor nul supports, waardoor materiaalverspilling en printtijd tot een minimum worden beperkt.
 *   **Universele Compatibiliteit** - Native ondersteuning voor Winmau Plasma, Target Corona en IT2 DIY-ringen.
+*   **Flexibele Montage** - Kies tussen de **Heat Insert** versie of de **Zelf-tappende** versie (geen smeltmoeren nodig).
 *   **Minimalistische Hardware** - Gebouwd met slechts 12x M4 schroeven en 6x M2 schroeven.
 
 ---
