@@ -218,7 +218,7 @@ In this configuration, the IT2 system mounts directly to the wall. This requires
 *   **Cons:** Requires more drilling points; leg holes must be located manually using measurements, circle drawings, or a drill template.
 
 ### 5.2 Option B: IT2 Baseplate
-The **IT2 Baseplate** is an optional unit designed to simplify the installation process and add extra functionality.
+The **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is an optional unit designed to simplify the installation process and add extra functionality.
 
 *   **Advantages:**
     *   **Ease of Installation:** Center the plate on the bullseye and install it leveled; the complete setup then mounts to the plate using only three wall screws.
