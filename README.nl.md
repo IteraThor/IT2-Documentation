@@ -194,8 +194,16 @@ Haak vervolgens het **bovenste deel van de adapter** in de ring en klik het op z
 
 ### 4.4 Optie 4: IT2 DIY Low Ceiling Lichtring
 
-**In uitvoering**  
-De documentatie voor de Low Ceiling-versie wordt momenteel afgerond. Raadpleeg voor nu de [standaard IT2 DIY Lichtring montage](#42-optie-2-setup-with-it2-diy-lichtring) voor algemene instructies, aangezien de kernstappen bijna identiek zijn.
+Deze versie is speciaal ontwikkeld voor ruimtes met een laag plafond. Het vereist een minimale plafondhoogte van **2,00m**. De montagelogica is identiek aan de [standaard IT2 DIY Lichtring](#42-optie-2-setup-met-it2-diy-lichtring), maar heeft een aangepast, compacter profiel om ruimte te besparen aan de bovenkant.
+
+**Stap 1: Montage van de Ring**  
+Verbind de segmenten van de Low Ceiling ring. Zorg voor een stevige verbinding voor maximale stabiliteit.
+
+**Stap 2: LED-installatie**  
+Installeer de LED-strip in het daarvoor bestemde kanaal van de ring.
+
+**Stap 3: Bevestiging van de armen**  
+Zet de camera-armen vast op de geïntegreerde montagepunten met M4 schroeven.
 
 [Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-installatie-aan-de-wand)**
 

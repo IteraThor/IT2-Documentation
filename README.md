@@ -192,8 +192,16 @@ Then, hook the **upper part of the adapter** into the ring and snap it into plac
 
 ### 4.4 Option 4: IT2 DIY Low Ceiling Light Ring
 
-**Work in Progress**  
-The documentation for the Low Ceiling version is currently being finalized. For now, please refer to the [standard IT2 DIY Light Ring assembly](#42-option-2-setup-with-it2-diy-light-ring) for general guidance, as the core assembly steps are nearly identical.
+This version was specifically developed for rooms with low ceiling heights. It requires a minimum ceiling height of **2.00m**. The core assembly logic is identical to the [standard IT2 DIY Light Ring](#42-option-2-it2-diy-light-ring), but it features a modified, more compact profile to save space at the top.
+
+**Step 1: Ring Assembly**  
+Assemble the ring segments. Ensure all connections are tight for maximum stability.
+
+**Step 2: LED Installation**  
+Install the LED strip into the designated channel.
+
+**Step 3: Attaching the Arms**  
+Secure the camera arms to the integrated mounting points using M4 screws.
 
 [Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation to the Wall](#5-final-step-installation--wall-mounting)**
 
