@@ -186,6 +186,8 @@ Hake dann den **oberen Teil des Adapters** in den Ring ein und lass ihn einraste
 **Montageanleitung**  
 Die Montage-Logik für diese Version ist identisch mit dem Standard-DIY-Ring. Bitte folge den detaillierten **[Schritt-für-Schritt-Anweisungen in Abschnitt 4.2](#42-option-2-it2-diy-lichtring)**.
 
+> 💡 **Tipp:** Im Gegensatz zum Standard-Ring besteht die Low-Ceiling-Version aus **6 verschiedenen Segment-Typen**. Lege vor dem Verbinden der Schwalbenschwänze alle Teile in der richtigen Reihenfolge auf den Boden, um eine perfekte Passform zu gewährleisten.
+
 **Endergebnis**  
 Nach dem Zusammenbau sollte dein Low Ceiling Lichtring wie folgt aussehen:
 
