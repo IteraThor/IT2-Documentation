@@ -246,7 +246,7 @@ The **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is an optional uni
 
 ## 6. Pro Tips & Troubleshooting
 
-To ensure the best possible experience with your IT2 system, follow these professional tips and best practices.
+To ensure the best possible experience with your IT2 system, follow these tips and best practices.
 
 ### 6.1 Assembly Best Practices
 When securing the cameras with M2 screws and the frame with M4 screws, tighten them until **"finger-tight."** 
