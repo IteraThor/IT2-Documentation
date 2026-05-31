@@ -43,7 +43,7 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
 **Projekt Sirius** wurde mit einer klaren Vision entwickelt: der hellste Stern am Himmel zu sein. Es weist den Weg für ein Autodarts-System, das nicht nur mit bestehenden Lösungen gleichzieht, sondern in den Bereichen Ästhetik, Funktionen, Modularität und Benutzerfreundlichkeit deutlich besser sein will.
 
 ### Hauptmerkmale
-*   **Schlankes Design** - Der bisher schmalste LED-Lichtring (Stand 2026).
+*   **Schlankes Design** - Der bisher schmalste 3D-gedruckte LED-Lichtring (Stand 2026).
 *   **Verdeckte Kabelführung** - Interne Kanäle für eine saubere, professionelle Optik.
 *   **Universelle Kompatibilität** - Winmau Plasma, Target Corona – und weitere in der Zukunft.
 *   **Minimalistische Hardware** - Nur zwei Schraubentypen: M4 für den Aufbau, M2 für die Kameras.

@@ -48,7 +48,7 @@ Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Dez
 **Project Sirius** is ontworpen met een duidelijke visie: de helderste ster aan de hemel zijn. Het wijst de weg naar een Autodarts-systeem dat niet alleen op gelijke voet staat met bestaande oplossingen, maar ernaar streeft aanzienlijk beter te zijn in esthetiek, functies, modulariteit en gebruiksgemak.
 
 ### Belangrijkste Kenmerken
-*   **Slank & Elegant Ontwerp** - De slankste DIY LED-lichtring anno 2026.
+*   **Slank & Elegant Ontwerp** - De slankste 3D-geprinte LED-lichtring anno 2026.
 *   **Verborgen Kabelbeheer** - Interne routing voor een strak uiterlijk. Past op Corona of Plasma stroomaansluitingen zonder aanpassingen.
 *   **Printen zonder support** - Ontworpen voor nul supports, waardoor materiaalverspilling en printtijd tot een minimum worden beperkt.
 *   **Universele Compatibiliteit** - Native ondersteuning voor Winmau Plasma, Target Corona en IT2 DIY-ringen.

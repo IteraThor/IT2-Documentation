@@ -46,7 +46,7 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
 **Project Sirius** was designed with a clear vision: to be the brightest star in the sky. It points the way forward for an Autodarts system that is not only on par with existing solutions but aims to be significantly better in aesthetics, features, modularity, and ease of use.
 
 ### Key Features
-*   **Sleek & Slim Design** - The slimmest DIY LED Light Ring as of 2026.
+*   **Sleek & Slim Design** - The slimmest 3D-printed LED Light Ring as of 2026.
 *   **Hidden Cable Management** - Internal routing for a clean look. Fits Corona or Plasma power barrels without any modifications.
 *   **No-Support Printing** - Designed for zero supports, minimizing material waste and print time.
 *   **Universal Compatibility** - Native support for Winmau Plasma, Target Corona, and IT2 DIY Rings.
