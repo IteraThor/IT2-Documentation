@@ -271,13 +271,3 @@ Die korrekte Ausrichtung ist entscheidend für die Scoring-Genauigkeit. Je nach 
 *   **Spenden:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
 
 ---
-ier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
-
----
-d.
-*   **Spenden:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
-
----
-ier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
-
----
