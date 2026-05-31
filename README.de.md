@@ -124,7 +124,7 @@ Nachdem deine Kamera-Arme vorbereitet sind, wähle die Aufbauanleitung, die zu d
 
 ### 4.1 Option 1: Winmau Plasma Lichtring
 
-> **Pro-Tipp:** Du hast die Möglichkeit, das Stromkabel des Winmau Plasma durch die internen Kanäle des IT2-Systems zu führen, um eine noch sauberere Optik zu erzielen. Dies erfordert einige zusätzliche Schritte – siehe [Abschnitt 6.3: Verstecken des Winmau Plasma Stromkabels](#63-verstecken-des-winmau-plasma-stromkabels) für Details.
+> **Pro-Tipp:** Du hast die Möglichkeit, das Stromkabel des Winmau Plasma durch die internen Kanäle des IT2-Systems zu führen, um eine noch sauberere Optik zu erzielen. Dies erfordert einige zusätzliche Schritte - siehe [Abschnitt 6.3: Verstecken des Winmau Plasma Stromkabels](#63-verstecken-des-winmau-plasma-stromkabels) für Details.
 
 **Schritt 1: Montage der Arme**  
 Befestige die drei [vorbereiteten Kamera-Arme](#3-allgemeine-montage-kamera-arme) an den vorgesehenen Positionen auf dem Winmau Plasma Ring. Die IT2-Arme sind so konzipiert, dass sie perfekt auf das Profil des Plasma passen. Verwende M4 Schrauben, um sie zu sichern.  

@@ -138,7 +138,7 @@ Bevestig de drie [voorbereidde camera-armen](#3-algemene-montage-camera-armen) o
 
 ![plasma_montage](images/04_options/01_plasma_mounting.png)
 
-[Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-installatie-aan-de-wand)**
+[Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-laatste-stap-installatie--wandmontage)**
 
 ---
 
@@ -161,7 +161,7 @@ Zet de camera-armen vast op de geïntegreerde montagepunten op de DIY-ring met M
 
 ![arm_bevestiging](images/04_options/04_diy_arm_mounting.png)
 
-[Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-installatie-aan-de-wand)**
+[Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-laatste-stap-installatie--wandmontage)**
 
 ---
 
@@ -187,7 +187,7 @@ Haak vervolgens het **bovenste deel van de adapter** in de ring en klik het op z
 
 > **Pro-tip:** Je hebt de mogelijkheid om de stroomkabel van de Target Corona door de interne kanalen van het IT2-systeem te leiden voor een nog strakker uiterlijk. Dit vereist wat extra stappen - zie [Sectie 6.4: Target Corona stroomkabel verbergen](#64-target-corona-stroomkabel-verbergen) voor details.
 
-[Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-installatie-aan-de-wand)**
+[Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-laatste-stap-installatie--wandmontage)**
 
 ---
 
@@ -205,7 +205,7 @@ Na montage zou je Low Ceiling Lichtring er als volgt uit moeten zien:
 
 ![low_ceiling_assembly](images/04_options/09_low_ceiling_assembly.png)
 
-[Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-installatie-aan-de-wand)**
+[Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-laatste-stap-installatie--wandmontage)**
 
 ---
 
@@ -213,21 +213,29 @@ Na montage zou je Low Ceiling Lichtring er als volgt uit moeten zien:
 
 Het IT2-systeem biedt twee belangrijke installatiemogelijkheden, afhankelijk van je wensen voor esthetiek, installatiegemak en behoud van de muur.
 
-### Optie A: Directe Montage
-In deze configuratie wordt het IT2-systeem rechtstreeks aan de muur gemonteerd. Dit vereist het boren van **6 gaten** voor de armen en **2 extra gaten** voor de ophanging van je dartbord (indien nog niet aanwezig).
+### Option A: Directe Montage
+In deze configuratie wordt het IT2-systeem rechtstreeks aan de muur gemonteerd. Dit vereist het boren van 6 gaten voor de armen en 2 extra gaten voor de ophanging van je dartbord (indien nog niet aanwezig).
 *   **Voordelen:** Minder onderdelen om te monteren; minimale voetafdruk; het systeem zit vlak tegen de muur.
 *   **Nadelen:** Vereist meer boorpunten; de gaten voor de poten moeten handmatig worden bepaald met behulp van metingen, cirkeltekeningen of een boormal.
 
-### Optie B: IT2 Baseplate
+### Option B: IT2 Baseplate
 De **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is een optionele unit die is ontworpen om het installatieproces te vereenvoudigen en extra functionaliteit toe te voegen.
 
 *   **Voordelen:**
     *   **Installatiegemak:** Centreer de plaat op de bullseye en installeer deze waterpas; de volledige setup wordt vervolgens op de plaat gemonteerd met slechts drie muurschroeven.
-    *   **Behoud van de muur:** Er hoeven slechts **3 gaten** in de muur te worden geboord.
+    *   **Behoud van de muur:** Er hoeven slechts 3 gaten in de muur te worden geboord.
     *   **Geluidsisolatie:** Voorzien van een geïntegreerd, optioneel geluidsisolatiesysteem.
     *   **Compatibiliteit met standaard:** Kan standaard worden geïnstalleerd op een dartbord-standaard (bijv. Winmau Xtreme Dartboard Stand 2).
 *   **Keerzijde:**
-    *   **Afstand tot de muur:** De baseplate voegt ongeveer **30mm diepte** toe. Je zou je oche (werplijn) afstand met 30mm moeten aanpassen om de officiële afmetingen te behouden.
+    *   **Afstand tot de muur:** De baseplate voegt ongeveer 30mm diepte toe. Je zou je oche (werplijn) afstand met 30mm moeten aanpassen om de officiële afmetingen te behouden.
+
+---
+
+### 5.1 Montage-instructies: Directe Wandmontage (Optie A)
+*(Gedetailleerde stap-voor-stap instructies voor directe wandmontage volgen hier)*
+
+### 5.2 Montage-instructies: Baseplate Montage (Optie B)
+*(Gedetailleerde stap-voor-stap instructies voor montage via de IT2 Baseplate volgen hier)*
 
 [Terug naar Inhoudsopgave](#inhoudsopgave)
 
@@ -238,20 +246,18 @@ De **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is een optionele un
 Volg deze professionele tips en best practices voor de best mogelijke ervaring met je IT2-systeem.
 
 ### 6.1 Best Practices voor Montage
-Draai de M2 schroeven voor de camera's en de M4 schroeven voor het frame vast tot ze **"handvast"** zitten. 
-*   Draai ze niet te vast aan, omdat dit de 3D-geprinte schroefdraad kan belasten of de camera PCB licht kan buigen, wat de focus kan beïnvloeden.
-
-### 6.2 Uitlijning & Prestaties
-#### 120° Uitlijning
-Een correcte uitlijning is cruciaal voor de nauwkeurigheid van de score. Afhankelijk van je versie wordt dit anders aangepakt:
-
-*   **Target Corona:** Omdat the adapters vrij langs de ring kunnen glijden, moet je ervoor zorgen dat je ze handmatig uitlijnt op exact **120 graden** van elkaar voor een optimale score-nauwkeurigheid.
+Zorg er bij het aandraaien van schroeven voor dat ze slechts **"handvast"** zitten.
+*   Vermijd overmatig vastdraaien, omdat dit de smeltmoeren kan belasten.
+*   **Zelftappende Versie:** Wees extra voorzichtig bij het gebruik van de zelftappende versie, omdat de plastic schroefdraad gemakkelijk kan worden gestript (wat **onomkeerbaar** is) als er te veel kracht wordt uitgeoefend.
 
 ### 6.3 Winmau Plasma stroomkabel verbergen
 **Stap 1:** ...
 **Stap 2:** ...
+*(Instructies volgen binnenkort)*
 
 ### 6.4 Target Corona stroomkabel verbergen
+**Stap 1:** ...
+**Stap 2:** ...
 *(Instructies volgen binnenkort)*
 
 [Terug naar Inhoudsopgave](#inhoudsopgave)
@@ -301,6 +307,4 @@ Een correcte uitlijning is cruciaal voor de nauwkeurigheid van de score. Afhanke
 *   **Donaties:** Steun de ontwikkeling hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
 
 ---
-ontwikkeling hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
 
----
