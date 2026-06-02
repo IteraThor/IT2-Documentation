@@ -11,7 +11,7 @@
 
 Welcome to the official manual for the IT2 Autodarts Scoring System. This guide will walk you through the assembly process.
 
-> 📥 **Download Files:** [IT2 System on Makerworld](https://makerworld.com/en/models/1013725)
+> 📥 **Download Files:** [IT2 System on Makerworld](https://makerworld.com/en/models/1334165)
 
 ![dimensions](images/01_overview/dimensions.png)
 

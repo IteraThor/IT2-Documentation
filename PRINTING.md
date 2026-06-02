@@ -67,7 +67,7 @@ If you are importing STLs into your slicer, ensure you follow the orientations s
 ### 4.1 Main Components (Arms, Ring & Baseplate)
 These parts utilize the standard settings defined in Section 2.
 
-*   **Makerworld (Main System):** [Official IT2 System Profile](https://makerworld.com/en/models/1013725)
+*   **Makerworld (Main System):** [Official IT2 System Profile](https://makerworld.com/en/models/1334165)
 *   **Makerworld (Baseplate):** [Official IT2 Baseplate Profile](https://makerworld.com/en/models/2782096)
 
 > 📝 **Technical Note:** Ensure your filament is calibrated. Tight tolerances on dovetail joints require a clean print, and the 4-part baseplate design relies on the **0.2mm layer height** for optimal bridging performance.
