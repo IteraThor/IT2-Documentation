@@ -8,6 +8,9 @@
 
 > 🌍 **Deze handleiding is beschikbaar in andere talen:** [English](README.md) | [Deutsch](README.de.md)
 >
+> ---
+> *Opmerking: Als solo-ontwerper die dit hele project beheert, gebruik ik AI-assistentie om te helpen met de uitgebreide documentatie. Sommige onderdelen kunnen AI-gegenereerde fouten of misverstanden bevatten. Totdat ik de tijd heb om elke sectie volledig te herzien en te verfijnen, verzoeken wij u attent te blijven en contact op te nemen via Discord als u problemen tegenkomt.*
+>
 > ⚠️ **Opmerking:** Deze handleiding is vertaald met behulp van AI. Er kunnen vertaalfouten aanwezig zijn.
 
 Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Deze gids begeleidt je door het montageproces.
