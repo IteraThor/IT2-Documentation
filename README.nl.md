@@ -57,7 +57,7 @@ Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Dez
 *   **Printen zonder support** - Ontworpen voor nul supports, waardoor materiaalverspilling en printtijd tot een minimum worden beperkt.
 *   **Universele Compatibiliteit** - Native ondersteuning voor Winmau Plasma, Target Corona en IT2 DIY-ringen.
 *   **Flexibele Montage** - Kies tussen de **Heat Insert** versie of de **Zelf-tappende** versie (geen smeltmoeren nodig).
-*   **Minimalistische Hardware** - Gebouwd met slechts 12x M4 schroeven en 6x M2 schroeven.
+*   **Minimalistische Hardware** - Gebouwd met slechts 12x M4x10mm schroeven en 6x M2x6mm schroeven.
 
 ---
 
@@ -69,8 +69,8 @@ Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Dez
 
 | Onderdeelnaam      | Type                     | Aantal | Link                 | Opmerking                                                                                              |
 | ------------------ | ------------------------ | ------ | -------------------- | ------------------------------------------------------------------------------------------------------ |
-| Cilinderkopschroef | M4 (ISO4762/DIN912)      | 12     | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Vereist voor het grootste deel van de montage.                                                         |
-| Cilinderkopschroef | M2 (ISO4762/DIN912)      | 6      | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Cameraschroeven.                                                                                       |
+| Cilinderkopschroef | M4x10mm (ISO4762/DIN912) | 12     | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Vereist voor het grootste deel van de montage.                                                         |
+| Cilinderkopschroef | M2x6mm (ISO4762/DIN912)  | 6      | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Cameraschroeven.                                                                                       |
 | M4 Smeltmoeren*    | 6.3mm OD (max 9mm lang)  | 12     | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | Een smeltmoer met 6mm OD werkt ook.<br><br>*Alleen vereist bij het printen van de "heat insert" versie. |
 
 > 💡 **Op zoek naar aanbevelingen voor overige hardware?** [Bekijk Aanbevolen Elektronica & Accessoires](#7-aanbevolen-elektronica)
@@ -283,9 +283,6 @@ Zorg er bij het aandraaien van schroeven voor dat ze slechts **"handvast"** zitt
 ---
 
 ## 8. FAQ
-
-### V: Welk materiaal moet ik gebruiken voor 3D-printen?
-**A:** Als je setup binnen staat, uit de buurt van direct zonlicht en de temperatuur onder de **40°C** blijft, is standaard **PLA** ruim voldoende. Voor omgevingen met hogere temperaturen of directe blootstelling aan de zon wordt **PETG** of **ASA** aanbevolen, hoewel deze lastiger te printen kunnen zijn afhankelijk van je printer.
 
 ### V: Welke camera's moet ik kiezen?
 **A:** De duidelijke winnaar qua prijs-kwaliteitverhouding is de **HBV OV2710**. Investeren in duurdere camera's met een hogere resolutie heeft geen zin, omdat Autodarts beperkt is qua resolutie. Hoewel de **OV9732** een goedkoper alternatief is, vereist deze aanzienlijk betere verlichting; daarom raad ik uitsluitend de OV2710 aan vanwege de superieure verwerking van verschillende lichtomstandigheden.

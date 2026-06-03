@@ -49,7 +49,7 @@ De Baseplate is ontworpen om dezelfde hardware te gebruiken als de rest van het 
 
 | Onderdeel          | Type                     | Wand Qty | Stand Qty | Link | Opmerking                                           |
 | ------------------ | ------------------------ | -------- | --------- | ---- | --------------------------------------------------- |
-| Cilinderschroeven  | M4 (ISO4762/DIN912)      | 8        | 8         | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.nl](https://amzn.to/49r8kCE) | Voor montage en IT2-bevestiging.                    |
+| Cilinderschroeven  | M4x10mm (ISO4762/DIN912) | 8        | 8         | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.nl](https://amzn.to/49r8kCE) | Voor montage en IT2-bevestiging.                    |
 | M6 Heat Inserts    | M6 (8mm OD)              | 3        | 7         | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD) | **Verplicht** voor Rota Locks.                      |
 | M4 Heat Inserts ⚠️ | 6.3mm OD (max 9mm lang)  | 8-16     | 8-16      | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.nl](https://amzn.to/4wZr2uZ) | 6mm OD past ook. ⚠️ **Alleen voor Heat Insert versie.** |
 

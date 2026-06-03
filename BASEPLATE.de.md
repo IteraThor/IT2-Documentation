@@ -49,7 +49,7 @@ Die Baseplate nutzt die gleiche Hardware wie das restliche IT2-System, um alles 
 
 | Name               | Typ                     | Wand Qty | Ständer Qty | Link | Kommentar                                           |
 | ------------------ | ----------------------- | -------- | ----------- | ---- | --------------------------------------------------- |
-| Zylinderschrauben  | M4 (ISO4762/DIN912)     | 8        | 8           | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Für Montage und IT2-Befestigung.                    |
+| Zylinderschrauben  | M4x10mm (ISO4762/DIN912) | 8        | 8           | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Für Montage und IT2-Befestigung.                    |
 | M6 Schmelzeinsätze | M6 (8mm OD)             | 3        | 7           | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD) | **Pflicht** für Rota Locks.                         |
 | M4 Schmelzeinsätze ⚠️ | 6.3mm OD (max 9mm lang) | 8-16     | 8-16        | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | 6mm OD passt auch. ⚠️ **Nur für Schmelzeinsatz-Version.** |
 

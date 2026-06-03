@@ -1,4 +1,4 @@
-denk# IT2 - Autodarts Scoring System Handbuch
+# IT2 - Autodarts Scoring System Handbuch
 
 [![Discord](https://img.shields.io/badge/Discord-Server%20beitreten-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/pZAjmwV5kE)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Projekt%20unterstützen-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iterathor)
@@ -7,6 +7,9 @@ denk# IT2 - Autodarts Scoring System Handbuch
 **Version:** 0.95
 
 > 🌍 **Dieses Handbuch ist auch in anderen Sprachen verfügbar:** [English](README.md) | [Nederlands](README.nl.md)
+>
+> ---
+> *Hinweis: Da ich dieses gesamte Projekt als Einzeldesigner leite, nutze ich KI-Unterstützung für die umfangreiche Dokumentation. Einige Teile können KI-generierte Fehler oder Missverständnisse enthalten. Bis ich die Zeit habe, jeden Abschnitt vollständig zu prüfen und zu verfeinern, bleibe bitte aufmerksam und kontaktiere mich auf Discord, falls du auf Probleme stößt.*
 
 Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Diese Anleitung führt dich durch den gesamten Montageprozess.
 
@@ -35,8 +38,9 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
     * [6.2 Verstecken des Winmau Plasma Stromkabels](#62-verstecken-des-winmau-plasma-stromkabels)
     * [6.3 Verstecken des Target Corona Stromkabels](#63-verstecken-des-target-corona-stromkabels)
 7. [Empfohlene Elektronik](#7-empfohlene-elektronik)
-8. [Lizenzierung & Community-Support](#8-lizenzierung--community-support)
-9. [Unterstütze das Projekt](#9-unterstütze-das-projekt)
+8. [FAQ](#8-faq)
+9. [Lizenzierung & Community-Support](#9-lizenzierung--community-support)
+10. [Unterstütze das Projekt](#10-unterstütze-das-projekt)
 
 
 ---
@@ -51,7 +55,7 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
 *   **Druck ohne Supports** - Für null Supports optimiert, um Materialabfall und Druckzeit zu minimieren.
 *   **Universelle Kompatibilität** - Native Unterstützung für Winmau Plasma, Target Corona und IT2 DIY-Ringe.
 *   **Flexible Montage** - Wähle zwischen der **Heat-Insert-Version** oder der **selbstschneidenden Version** (keine Schmelzeinsätze erforderlich).
-*   **Minimalistische Hardware** - Gebaut mit nur 12x M4 Schrauben und 6x M2 Schrauben.
+*   **Minimalistische Hardware** - Gebaut mit nur 12x M4x10mm Schrauben und 6x M2x6mm Schrauben.
 
 ---
 
@@ -63,8 +67,8 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
 
 | Teil-Name           | Typ                       | Menge | Link                 | Kommentar                                                                                                |
 | ------------------- | ------------------------- | ----- | -------------------- | -------------------------------------------------------------------------------------------------------- |
-| Zylinderschrauben   | M4 (ISO4762/DIN912)       | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Erforderlich für den Großteil der Montage.                                                               |
-| Zylinderschrauben   | M2 (ISO4762/DIN912)       | 6     | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Kameraschrauben.                                                                                         |
+| Zylinderschrauben   | M4x10mm (ISO4762/DIN912)  | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Erforderlich für den Großteil der Montage.                                                               |
+| Zylinderschrauben   | M2x6mm (ISO4762/DIN912)   | 6     | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Kameraschrauben.                                                                                         |
 | M4 Schmelzeinsätze* | 6.3mm AD (max 9mm lang)   | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | Ein Insert mit 6mm funktioniert ebenfalls.<br><br>*Nur für die Heat-Insert-Druckversion erforderlich.   |
 > 💡 **Suchst du Empfehlungen für sonstige Hardware?** [Empfohlene Elektronik & Zubehör ansehen](#7-empfohlene-elektronik)
 
@@ -270,17 +274,30 @@ Achte beim Festziehen der Schrauben darauf, diese nur **"handfest"** anzuziehen.
 
 ---
 
-## 8. Lizenzierung & Community-Support
+## 8. FAQ
+
+### F: Welche Kameras sollte ich wählen?
+**A:** Der klare Preis-Leistungs-Sieger ist die **HBV OV2710**. Investitionen in teurere Kameras mit höherer Auflösung sind unnötig, da Autodarts in der Auflösung begrenzt ist. Während die **OV9732** eine günstigere Alternative ist, erfordert sie eine deutlich bessere Beleuchtung; daher empfehle ich ausschließlich die OV2710 wegen ihrer überlegenen Handhabung verschiedener Lichtverhältnisse.
+
+### F: Welchen LED-Streifen sollte ich nehmen?
+**A:** Vermeide USB-Lichtstreifen. Der Community-Standard sind **6000K COB-LEDs** (12V oder 24V). Meine persönliche Empfehlung ist der **Auxmer 120 LEDs/m (9.6W, CRI90)**; in meinen Tests hat er sogar den Winmau Plasma übertroffen. Wenn du ein begrenztes Budget hast, funktioniert jeder 6000K-Streifen mit etwa 10W pro Meter, vorausgesetzt, er ist hell genug.
+
+### F: Sollte ich einen Raspberry Pi oder einen Mini-PC verwenden?
+**A:** Sofern du nicht bereits einen Raspberry Pi besitzt, empfehle ich den Kauf eines generalüberholten Mini-PCs. Diese sind oft günstiger (ab 50 €) und bieten eine bessere Leistung sowie Touchscreen-Unterstützung. Mein persönlicher Favorit ist der **Dell Wyse 5070** (4 GB RAM, 16 GB Speicher), der weit verbreitet generalüberholt erhältlich ist und die Autodarts-Software perfekt bewältigt.
+
+---
+
+## 9. Lizenzierung & Community-Support
 
 ### Kommerzielle Lizenz
 *   **Gewinnerzielungsabsicht:** Der Verkauf dieses Designs mit Gewinnabsicht erfordert eine aktive kommerzielle Lizenz, erhältlich über mein [Makerworld-Profil](https://makerworld.com/en/@HipsThor/). Verkäufe sind nur während eines aktiven Abonnements gestattet.
 
 ### Ausnahmen (Nicht-kommerziell)
 *   **Privat & Sozial:** Das Teilen mit Freunden, Familie oder deinem lokalen Dartclub (nur zu Materialkosten) ist ausdrücklich erwünscht und erfordert keine Lizenz. Ich freue mich über Feedback oder eine kleine Spende, wenn dir das Projekt gefällt.
-*   **Community-Unterstützung:** Das Drucken für Community-Mitglieder, die keinen eigenen Drucker besitzen (Materialkosten + kleine Bearbeitungsgebühr), ist erlaubt, **MUSS** aber transparent gehandhabt und vorher mit mir (**IteraThor**) auf Discord besprochen werden.
+*   **Community-Unterstützung:** Das Drucken für Community-Mitglieder, die keinen eigenen Drucker besitzen (Materialkosten + kleine Bearbeitungsgebühr), ist erlaubt, **MUSS** aber transparent gehandhabt und vorher mit mir (**IteraThor**) on Discord besprochen werden.
 
 ---
 
-## 9. Unterstütze das Projekt
+## 10. Unterstütze das Projekt
 *   **Feedback:** Tritt dem Discord bei oder hinterlasse einen Kommentar auf Makerworld.
 *   **Spenden:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)

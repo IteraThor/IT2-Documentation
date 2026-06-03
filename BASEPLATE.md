@@ -49,7 +49,7 @@ The Baseplate is designed to use the same hardware as the rest of the IT2 system
 
 | Part Name          | Type                    | Wall Qty | Stand Qty | Link                                                                                             | Comment                                             |
 | ------------------ | ----------------------- | -------- | --------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
-| Cylindrical Screws | M4 (ISO4762/DIN912)     | 8        | 8         | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | For baseplate assembly and IT2 mounting.            |
+| Cylindrical Screws | M4x10mm (ISO4762/DIN912) | 8        | 8         | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | For baseplate assembly and IT2 mounting.            |
 | M6 Heat Inserts    | M6 (8mm OD)             | 3        | 7         | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)                                         | **Mandatory** for Rota Locks.                       |
 | M4 Heat Inserts ⚠️ | 6.3mm OD (max 9mm long) | 8-16     | 8-16      | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | 6mm OD also fits. ⚠️ **Only for Heat Insert version.** |
 
