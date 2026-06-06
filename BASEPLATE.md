@@ -6,7 +6,7 @@
 > 🛠️ **Main Manual:** Looking for the camera system instructions? [View the IT2 System Manual](README.md)
 >
 > ---
-> *Note: As a solo designer managing this entire project, I use AI assistance to help with the extensive documentation. Some parts may contain AI-generated errors or misunderstandings. Until I have the time to fully review and refine every section, please stay attentive and reach out on Discord if you encounter any issues.*
+> *Note: Since I'm managing this project on my own, I use AI to help with the repetitive parts of the documentation - mostly for managing hyperlinks and fine-tuning the wording. I'm currently focused on getting all the technical content out there so you can start building as soon as possible. I'll be doing a full proofread and "ironing out" the phrasing later, but if you spot anything confusing in the meantime, please let me know on Discord!*
 
 The **IT2 Baseplate** is a mounting solution for the IT2 Autodarts system. It is designed to simplify installation, protect your walls, and provide advanced features like sound dampening and native compatibility with dartboard stands.
 

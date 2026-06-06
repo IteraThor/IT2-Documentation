@@ -3,85 +3,88 @@
 [![Discord](https://img.shields.io/badge/Discord-Join%20My%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/pZAjmwV5kE)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Project-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iterathor)
 
-**Laatst bijgewerkt:** Zondag, 31. Mei 2026  
 **Versie:** 1.0 (BETA)
 
-> 🌍 **Deze handleiding is beschikbaar in andere talen:** [English](README.md) | [Deutsch](README.de.md)
->
+> 🌍 **Deze handleiding is beschikbaar in andere talen:** [English](README.md) | [Deutsch](README.de.md)  
+> 🛠️ **Optionele Upgrade:** Op zoek naar de montageplaat? [Bekijk de IT2 Baseplate Handleiding](BASEPLATE.nl.md)
 > ---
-> *Opmerking: Als solo-ontwerper die dit hele project beheert, gebruik ik AI-assistentie om te helpen met de uitgebreide documentatie. Sommige onderdelen kunnen AI-gegenereerde fouten of misverstanden bevatten. Totdat ik de tijd heb om elke sectie volledig te herzien en te verfijnen, verzoeken wij u attent te blijven en contact op te nemen via Discord als u problemen tegenkomt.*
+> *Opmerking: Omdat ik dit project alleen beheer, gebruik ik AI voor de tijdrovende klusjes in de documentatie – vooral voor de links en de zinsopbouw. Mijn focus ligt nu op het online krijgen van alle technische inhoud, zodat jullie zo snel mogelijk kunnen beginnen met bouwen. Ik ga alles later nog uitgebreid nalezen en de formuleringen "gladstrijken", maar laat het me tot die tijd weten via Discord als er iets onduidelijk is!*
 >
 > ⚠️ **Opmerking:** Deze handleiding is vertaald met behulp van AI. Er kunnen vertaalfouten aanwezig zijn.
 
 Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Deze gids begeleidt je door het montageproces.
 
-![afmetingen](images/01_overview/dimensions.png)
+> 📥 **Bestanden downloaden:** [IT2 Systeem op Makerworld](https://makerworld.com/en/models/1334165)
+
+![dimensions](images/01_overview/dimensions.png)
 
 ---
 ## Inhoudsopgave
 1. [Algemeen Overzicht](#1-algemeen-overzicht)
-2. [Wat je nodig hebt](#2-wat-je-nodig-hebt)
-    * [2.1 Essentiële Hardware (Vereist)](#21-essentiële-hardware-vereist)
-    * [2.2 Benodigd Gereedschap](#22-benodigd-gereedschap)
+2. [Wat heb je nodig](#2-wat-heb-je-nodig)
+    * [2.1 Kernhardware (Vereist)](#21-kernhardware-vereist)
+    * [2.2 Vereist Gereedschap](#22-vereist-gereedschap)
 3. [Algemene Montage: Camera-armen](#3-algemene-montage-camera-armen)
-    * [3.1 Stap 1: Camera voorbereiden & op maat maken](#31-stap-1-camera-voorbereiden--op-maat-maken)
-    * [3.2 Stap 2: Voorbereiding smeltmoeren](#32-stap-2-voorbereiding-smeltmoeren)
-    * [3.3 Stap 3: Camera installatie & sluiten](#33-stap-3-camera-installatie--sluiten)
-4. [Bouwopties: Kies je pad](#4-bouwopties-kies-je-pad)
-    * [4.1 Optie 1: Winmau Plasma Lichtring](#41-option-1-winmau-plasma-lichtring)
-    * [4.2 Optie 2: IT2 DIY Lichtring](#42-option-2-it2-diy-lichtring)
-    * [4.3 Optie 3: Target Corona Lichtring](#43-option-3-target-corona-lichtring)
-    * [4.4 Optie 4: IT2 DIY Low Ceiling Lichtring](#44-option-4-it2-diy-low-ceiling-lichtring)
-5. [Laatste Stap: Installatie & Wandmontage](#5-laatste-stap-installatie--wandmontage)
-    * [5.1 Montage-instructies: Directe Wandmontage (Optie A)](#51-montage-instructies-directe-wandmontage-optie-a)
-    * [5.2 Montage-instructies: Baseplate Montage (Optie B)](#52-montage-instructies-baseplate-montage-optie-b)
-6. [Pro-tips & Probleemoplossing](#6-pro-tips--probleemoplossing)
-    * [6.1 Best Practices voor Montage](#61-best-practices-voor-montage)
-    * [6.2 Winmau Plasma stroomkabel verbergen](#62-winmau-plasma-stroomkabel-verbergen)
-    * [6.3 Target Corona stroomkabel verbergen](#63-target-corona-stroomkabel-verbergen)
-7. [Aanbevolen Elektronica](#7-aanbevolen-elektronica)
-8. [FAQ](#8-faq)
-9. [Licenties & Community-ondersteuning](#9-licenties--community-ondersteuning)
-10. [Ondersteun het Project](#10-ondersteun-het-project)
+    * [3.1 Stap 1: Camera Voorbereiding & Aanpassen](#31-stap-1-camera-voorbereiding--aanpassen)
+    * [3.2 Stap 2: Schmelzeinsätze (Heat Inserts) Voorbereiden](#32-stap-2-schmelzeins%C3%A4tze-heat-inserts-voorbereiden)
+    * [3.3 Stap 3: Camera Installatie & Sluiten](#33-stap-3-camera-installatie--sluiten)
+4. [Bouwopties: Kies je Pad](#4-bouwopties-kies-je-pad)
+    * [4.1 Optie 1: Winmau Plasma Lichtring](#41-optie-1-winmau-plasma-lichtring)
+    * [4.2 Optie 2: IT2 DIY Lichtring](#42-optie-2-it2-diy-lichtring)
+    * [4.3 Optie 3: Target Corona Lichtring](#43-optie-3-target-corona-lichtring)
+    * [4.4 Optie 4: IT2 DIY Low Ceiling Lichtring](#44-optie-4-it2-diy-low-ceiling-lichtring)
+5. [Pre-installatie: Camera Positionering](#5-pre-installatie-camera-positionering)
+6. [Laatste Stap: Installatie & Wandmontage](#6-laatste-stap-installatie--wandmontage)
+    * [6.1 Montage-instructies: Directe Wandmontage (Optie A)](#61-montage-instructies-directe-wandmontage-optie-a)
+    * [6.2 Montage-instructies: Baseplate Montage (Optie B)](#62-montage-instructies-baseplate-montage-optie-b)
+7. [Pro Tips & Problemen Oplossen](#7-pro-tips--problemen-oplossen)
+    * [7.1 Best Practices voor Montage](#71-best-practices-voor-montage)
+    * [7.2 Winmau Plasma Stroomkabel Verbergen](#72-winmau-plasma-stroomkabel-verbergen)
+    * [7.3 Target Corona Stroomkabel Verbergen](#73-target-corona-stroomkabel-verbergen)
+8. [Aanbevolen Elektronica](#8-aanbevolen-elektronica)
+9. [Veelgestelde Vragen (FAQ)](#9-veelgestelde-vragen-faq)
+10. [Licenties & Community Ondersteuning](#10-licenties--community-ondersteuning)
+11. [Ondersteun het Project](#11-ondersteun-het-project)
 
 
 ---
 
 ## 1. Algemeen Overzicht
 
-**Project Sirius** is ontworpen met een duidelijke visie: de helderste ster aan de hemel zijn. Het wijst de weg naar een Autodarts-systeem dat niet alleen op gelijke voet staat met bestaande oplossingen, maar ernaar streeft aanzienlijk beter te zijn in esthetiek, functies, modulariteit en gebruiksgemak.
+**Project Sirius** is ontworpen met een heldere visie: de helderste ster aan de hemel zijn. Het wijst de weg naar een Autodarts-systeem dat niet alleen gelijkwaardig is aan bestaande oplossingen, maar er naar streeft aanzienlijk beter te zijn in esthetiek, functies, modulariteit en gebruiksgemak.
 
 ### Belangrijkste Kenmerken
-*   **Slank & Elegant Ontwerp** - De slankste 3D-geprinte LED-lichtring anno 2026.
-*   **Verborgen Kabelbeheer** - Interne routing voor een strak uiterlijk. Past op Corona of Plasma stroomaansluitingen zonder aanpassingen.
-*   **Printen zonder support** - Ontworpen voor nul supports, waardoor materiaalverspilling en printtijd tot een minimum worden beperkt.
+*   **Slank Ontwerp** - De dunste 3D-geprinte LED-lichtring vanaf 2026.
+*   **Verborgen Kabelbeheer** - Interne routing voor een strak uiterlijk. Past op Corona- of Plasma-stroomaansluitingen zonder aanpassingen.
+*   **Printen zonder Support** - Ontworpen voor nul supports, waardoor materiaalverspilling en printtijd worden geminimaliseerd.
 *   **Universele Compatibiliteit** - Native ondersteuning voor Winmau Plasma, Target Corona en IT2 DIY-ringen.
-*   **Flexibele Montage** - Kies tussen de **Heat Insert** versie of de **Zelf-tappende** versie (geen smeltmoeren nodig).
+*   **Flexibele Montage** - Kies tussen de **Heat Insert** versie of de **Self-Tapping** versie (geen heat inserts vereist).
 *   **Minimalistische Hardware** - Gebouwd met slechts 12x M4x10mm schroeven en 6x M2x6mm schroeven.
 
 ---
 
-## 2. Wat je nodig hebt
+## 2. Wat heb je nodig
 
-> **Opmerking:** Veel van de productlinks hieronder zijn affiliate-links. Als je deze gebruikt om een aankoop te doen, ontvang ik mogelijk een kleine commissie zonder extra kosten voor jou. Dit helpt de ontwikkeling van dit project te ondersteunen.
+> **Opmerking:** Veel van de onderstaande productlinks zijn affiliate links. Als je via deze links een aankoop doet, ontvang ik mogelijk een kleine commissie zonder extra kosten voor jou, wat de ontwikkeling van dit project ondersteunt.
 
-### 2.1 Essentiële Hardware (Vereist)
+> 🖨️ **3D-printen:** Als je de Makerworld .3mf-profielen niet gebruikt, raadpleeg dan de **[Universele Printgids](PRINTING.md)** voor aanbevolen instellingen en materialen.
 
-| Onderdeelnaam      | Type                     | Aantal | Link                 | Opmerking                                                                                              |
-| ------------------ | ------------------------ | ------ | -------------------- | ------------------------------------------------------------------------------------------------------ |
-| Cilinderkopschroef | M4x10mm (ISO4762/DIN912) | 12     | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Vereist voor het grootste deel van de montage.                                                         |
-| Cilinderkopschroef | M2x6mm (ISO4762/DIN912)  | 6      | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Cameraschroeven.                                                                                       |
-| M4 Smeltmoeren*    | 6.3mm OD (max 9mm lang)  | 12     | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | Een smeltmoer met 6mm OD werkt ook.<br><br>*Alleen vereist bij het printen van de "heat insert" versie. |
+### 2.1 Kernhardware (Vereist)
 
-> 💡 **Op zoek naar aanbevelingen voor overige hardware?** [Bekijk Aanbevolen Elektronica & Accessoires](#7-aanbevolen-elektronica)
+| Onderdeelnaam      | Type                      | Aantal | Link                 | Opmerking                                                                                                |
+| ------------------ | ------------------------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------- |
+| Cilinderschroeven  | M4x10mm (ISO4762/DIN912)  | 12     | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Vereist voor het grootste deel van de montage.                                                           |
+| Cilinderschroeven  | M2x6mm (ISO4762/DIN912)   | 6      | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Cameraschroeven.                                                                                         |
+| M4 Heat Inserts ⚠️  | 6,3mm OD (max 9mm lang)   | 12     | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | 6mm OD past ook. <br><br>⚠️ **Alleen voor de Heat Insert-versie.**                                       |
+> 💡 **Op zoek naar meer?** [Bekijk Aanbevelingen voor Elektronica & Accessoires](#8-aanbevolen-elektronica)
 
-### 2.2 Benodigd Gereedschap
+### 2.2 Vereist Gereedschap
 
-| Gereedschap           | Link                                 | Doel                                                                    |
-| --------------------- | ------------------------------------ | ----------------------------------------------------------------------- |
-| Inbussleutelset       | [Aliexpress](https://s.click.aliexpress.com/e/_c3OuwTrf)<br>[Amazon.de](https://amzn.to/4nWmdhU) | Voor M4 en M2 cilinderkopschroeven.                                     |
-| Tang / Zijkniptang    | [Aliexpress](https://s.click.aliexpress.com/e/_c4NYxuoH)<br>[Amazon.de](https://amzn.to/3PBMeql) | Nodig voor het verkleinen van de cameraframes van 38x38 naar 32x32.      |
-| Soldeerbout           | [Aliexpress](https://s.click.aliexpress.com/e/_c3Jtjkzn)<br>[Amazon.de](https://amzn.to/3PBMeql) | Nodig voor het smelten van de M4 smeltmoeren (alleen Heat Insert versie).|
+| Gereedschap            | Link                                 | Doel                                                                     |
+| ---------------------- | ------------------------------------ | ------------------------------------------------------------------------ |
+| Inbussleutelset        | [Aliexpress](https://s.click.aliexpress.com/e/_c3OuwTrf)<br>[Amazon.de](https://amzn.to/4nWmdhU) | Voor M4 en M2 cilinderschroeven.                                         |
+| Tang / Zijkniptang     | [Aliexpress](https://s.click.aliexpress.com/e/_c4NYxuoH)<br>[Amazon.de](https://amzn.to/3PBMeql) | Nodig voor het aanpassen van de cameraframes van 38x38 naar 32x32.        |
+| Soldeerbout            | [Aliexpress](https://s.click.aliexpress.com/e/_c3Jtjkzn)<br>[Amazon.de](https://amzn.to/3PBMeql) | Nodig voor het smelten van M4 heat inserts (alleen Heat Insert-versie).  |
 
 ---
 
@@ -89,223 +92,248 @@ Welkom bij de officiële handleiding voor het IT2 Autodarts Scoring Systeem. Dez
 
 Voordat je jouw specifieke versie bouwt (DIY, Winmau Plasma of Target Corona), moet je de drie camera-armen voorbereiden en monteren. Dit proces is identiek voor alle versies.
 
-### 3.1 Stap 1: Camera voorbereiden & op maat maken
-> Sommige camera's worden geleverd met een montageframe van 38x38mm. Om ze passend te maken, moet je het **buitenste frame afbreken** om het te verkleinen naar **32x32mm**.
+### 3.1 Stap 1: Camera Voorbereiding & Aanpassen
+> Sommige camera's worden geleverd met een 38x38mm montageframe. Om ze passend te maken, moet je het **buitenframe afbreken** om ze te verkleinen naar **32x32mm**.
 
- Breek de geperforeerde randen voorzichtig af met een tang.
+*   Breek de geperforeerde randen voorzichtig af met een tang.
 
-![camera_verkleinen](images/03_general/01_camera_resize.png)
+![camera-resize](images/03_general/01_camera_resize.png)
 
-### 3.2 Stap 2: Voorbereiding smeltmoeren
-> Zelftappende versie: Als je voor deze versie hebt gekozen, kun je deze stap overslaan.
+### 3.2 Stap 2: Schmelzeinsätze (Heat Inserts) Voorbereiden
+> **Self-Tapping Versie:** Als je deze versie hebt geprint, kun je deze stap overslaan.
 
-Smelt de **M4 moeren** in de gaten van de camera-armen en -koppen met een soldeerbout, zoals weergegeven op de onderstaande afbeelding.
+Smelt de **M4 inserts** in de gaten van de camera-armen en -koppen met een soldeerbout, zoals weergegeven in de onderstaande afbeelding.
 
-![smeltmoeren_voorbereiding](images/03_general/02_heat_inserts.png)
+![heat_inserts](images/03_general/02_heat_inserts.png)
 
-### 3.3 Stap 3: Camera installatie & sluiten
+### 3.3 Stap 3: Camera Installatie & Sluiten
 **1. Montage van Kop & Arm**  
-Verbind de camerakop en de arm met twee **M4 schroeven**. Trek vervolgens de USB-kabel door het interne kanaal van de behuizing en sluit deze aan op de 4-pins connector van de camera.
+Verbind de camerakop en de arm met twee **M4 schroeven**. Trek daarna de USB-kabel door het interne kanaal van de behuizing en sluit deze aan op de 4-pins connector van de camera.
 
-![arm_montage](images/03_general/03_arm_assembly.png)
+![arm_assembly](images/03_general/03_arm_assembly.png)
 
-**2. Montage**  
-Zet de camera PCB vast met twee **M2 schroeven**. 
+**2. Camera Installatie**  
+Bevestig de camera-PCB met twee **M2 schroeven**. 
 
-> **Opmerking:** Deze gaten zijn zelftappend. Het gebruik van slechts twee schroeven is aanbevolen en opzettelijk.
+> **Opmerking:** Deze gaten zijn zelftappend. Het gebruik van slechts twee schroeven wordt aanbevolen en is opzettelijk.
 
-**3. Zonnekap & Sluiten**  
-Draai de zonnekap vast in het cameradeksel (met de klok mee, twist-lock), en klik vervolgens het deksel op de kop.
-> **Tip:** Kies tussen de twee zonnekap-ontwerpen die in het printprofiel worden aangeboden.
+**3. Zonnekap (Lens Hood) & Sluiten**  
+Draai de zonnekap met de klok mee in het cameradeksel (twist-lock) en klik het deksel vervolgens op de kop.
+> **Tip:** Kies tussen de twee verschillende zonnekap-ontwerpen die in het printprofiel zijn opgenomen.
 
-![zonnekap_voorbereiding](images/03_general/04_lens_hood.png)
+![lens_hood](images/03_general/04_lens_hood.png)
 
 **Eindresultaat van Fase 1**  
 Na het voltooien van deze stappen heb je drie volledig gemonteerde camera-armen klaar voor installatie.
 
-[<img src="images/03_general/05_result_phase1.png" width="200" alt="gemonteerde camera-armen">](images/03_general/05_result_phase1.png)
+[<img src="images/03_general/05_result_phase1.png" width="200" alt="volledig gemonteerde camera-armen">](images/03_general/05_result_phase1.png)
 
 ---
 
-## 4. Bouwopties: Kies je pad
+## 4. Bouwopties: Kies je Pad
 
-Nu je camera-armen klaar zijn, kies je de bouwhandleiding die bij jouw setup past.
+Nadat je camera-armen zijn voorbereid, kies je de bouwhandleiding die bij jouw opstelling past.
 
 ### 4.1 Optie 1: Winmau Plasma Lichtring
 
-> **Pro-tip:** Je hebt de mogelijkheid om de stroomkabel van de Winmau Plasma door de interne kanalen van het IT2-systeem te leiden voor een nog strakker uiterlijk. Dit vereist wat extra stappen - zie [Sectie 6.2: Winmau Plasma stroomkabel verbergen](#62-winmau-plasma-stroomkabel-verbergen) voor details.
+> **Pro Tip:** Je hebt de mogelijkheid om de Winmau Plasma stroomkabel door de interne kanalen van het IT2-systeem te leiden voor een nog strakker uiterlijk. Dit vereist een paar extra stappen - zie [Sectie 7.2: Winmau Plasma stroomkabel verbergen](#72-winmau-plasma-stroomkabel-verbergen) voor details.
 
-**Stap 1: Originele poten verwijderen**  
-Verwijder de drie originele montagepoten van je Winmau Plasma lichtring. Deze worden vervangen door de IT2 camera-armen.
+**Stap 1: De armen monteren**  
+Bevestig de drie [voorbereide camera-armen](#3-algemene-montage-camera-armen) op de daarvoor bestemde posities op de Winmau Plasma ring. De IT2-armen zijn ontworpen om perfect op het profiel van de Plasma te passen. Gebruik M4 schroeven om ze vast te zetten.  
 
-**Stap 2: Montage van de IT2-armen**  
-Bevestig de drie [voorbereidde camera-armen](#3-algemene-montage-camera-armen) op de daarvoor bestemde posities op de Winmau Plasma ring. De IT2-armen zijn ontworpen om perfect op het profiel van de Plasma te passen. Gebruik M4 schroeven om ze vast te zetten.  
+![plasma_mounting](images/04_options/01_plasma_mounting.png)
 
-![plasma_montage](images/04_options/01_plasma_mounting.png)
-
-[Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-laatste-stap-installatie--wandmontage)**
+[Terug naar de inhoudsopgave](#inhoudsopgave) | **Volgende stap: [5. Camera Positionering](#5-pre-installatie-camera-positionering)**
 
 ---
 
-### 4.2 Optie 2: Setup met IT2 DIY Lichtring
+### 4.2 Optie 2: IT2 DIY Lichtring
 
-**Stap 1: Montage van de Ring**  
-Zet de ring in elkaar door de **zwaluwstaartverbindingen** in elkaar te schuiven. Gebruik de **3 montagesegmenten** en **6 tussensegmenten** in de juiste volgorde voor een perfecte 120° uitlijning.
+**Stap 1: Ring Montage**  
+Verbind de 3D-geprinte segmenten van de IT2 DIY lichtring. Zorg voor een stevige verbinding om de stabiliteit te behouden.
 
-![ring_zwaluwstaart](images/04_options/02_diy_ring_assembly.png)
-
-> **Opmerking:** Alle segmenten moeten vlak tegen elkaar aanliggen. De zwaluwstaartverbindingen moeten met matige kracht in elkaar schuiven. Als ze te strak zitten, komt dit waarschijnlijk door printertoleranties of ongekalibreerd filament. Schuur in dat geval voorzichtig de randen van de zwaluwstaart af tot ze soepel passen.
+![ring_dovetail](images/04_options/02_diy_ring_assembly.png)
 
 **Stap 2: LED-installatie**  
-Installeer de **LED-strip** zoals getoond op de onderstaande afbeelding. Zorg ervoor dat de strip het diepste oppervlak raakt voor een optimaal resultaat.
+Installeer de **LED-strip** in het daarvoor bestemde kanaal van de ring. Begin onderaan om een schone stroomkabelrouting mogelijk te maken.
 
-![led_installatie](images/04_options/03_diy_led_install.png)
+![led_install](images/04_options/03_diy_led_install.png)
 
-**Stap 3: Bevestigen van de armen**  
-Zet de camera-armen vast op de geïntegreerde montagepunten op de DIY-ring met M4 schroeven. 
+**Stap 3: De armen bevestigen**  
+Zet de camera-armen vast op de geïntegreerde montagepunten op de DIY-ring met M4 schroeven.
 
-![arm_bevestiging](images/04_options/04_diy_arm_mounting.png)
+![arm_mounting](images/04_options/04_diy_arm_mounting.png)
 
-[Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-laatste-stap-installatie--wandmontage)**
+[Terug naar de inhoudsopgave](#inhoudsopgave) | **Volgende stap: [5. Camera Positionering](#5-pre-installatie-camera-positionering)**
 
 ---
 
 ### 4.3 Optie 3: Target Corona Lichtring
 
-**Stap 1: Voorbereiding Adapter**  
-Installeer het **onderste deel van de IT2 Corona Adapter** op de drie [voorbereide camera-armen](#3-algemene-montage-camera-armen) met M4 schroeven. 
+**Stap 1: Adapter Voorbereiding**  
+Installeer het **onderste deel van de IT2 Corona Adapter** op de drie [voorbereide camera-armen](#3-general-assembly-camera-arms) met M4 schroeven. 
 
-![corona_adapter_voorbereiding](images/04_options/05_corona_adapter_prep.png)
+![corona_adapter_prep](images/04_options/05_corona_adapter_prep.png)
 
 **Stap 2: Montage & Uitlijning**  
-Plaats de Target Corona ring in de uitsparingen van de gemonteerde onderste adapterdelen. 
+Plaats de Target Corona ring in de uitsparingen van de geïnstalleerde onderste adapteronderdelen. 
 
-![corona_ring_montage](images/04_options/06_corona_ring_mounting.png)
+![corona_ring_mounting](images/04_options/06_corona_ring_mounting.png)
 
 Haak vervolgens het **bovenste deel van de adapter** in de ring en klik het op zijn plaats. 
 
-![corona_adapter_haak](images/04_options/07_corona_adapter_hook.png)
+![corona_adapter_hook](images/04_options/07_corona_adapter_hook.png)
 
-> **Tip:** Probeer de adapters op een geschatte **120 graden afstand** te plaatsen terwijl je ze vastklikt. Dit minimaliseert de hoeveelheid fijnafstelling die achteraf nodig is.
+> **Tip:** Probeer de adapters op een geschatte **120-graden offset** te positioneren tijdens het vastklikken. Dit minimaliseert de hoeveelheid fijnafstelling die later nodig is.
 
-![corona_uitlijning](images/04_options/08_corona_alignment.png)
+![corona_alignment](images/04_options/08_corona_alignment.png)
 
-> **Pro-tip:** Je hebt de mogelijkheid om de stroomkabel van de Target Corona door de interne kanalen van het IT2-systeem te leiden voor een nog strakker uiterlijk. Dit vereist wat extra stappen - zie [Sectie 6.3: Target Corona stroomkabel verbergen](#63-target-corona-stroomkabel-verbergen) voor details.
+> **Pro-Tip:** Je hebt de mogelijkheid om de Target Corona stroomkabel door de interne kanalen van het IT2-systeem te leiden voor een nog strakker uiterlijk. Dit vereist een paar extra stappen - zie [Sectie 7.3: Target Corona stroomkabel verbergen](#73-target-corona-stroomkabel-verbergen) voor details.
 
-[Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-laatste-stap-installatie--wandmontage)**
+[Terug naar de inhoudsopgave](#inhoudsopgave) | **Volgende stap: [5. Camera Positionering](#5-pre-installatie-camera-positionering)**
 
 ---
 
 ### 4.4 Optie 4: IT2 DIY Low Ceiling Lichtring
 
-> Deze versie is speciaal ontwikkeld voor ruimtes met een laag plafond. Het vereist een minimale plafondhoogte van **2,00m**.
+> Deze versie is speciaal ontwikkeld voor ruimtes met een laag plafond. Er is een plafondhoogte van minimaal **2,00m** vereist.
 
 **Montage-instructies**  
-De montagelogica voor deze versie is identiek aan de standaard DIY-ring. Volg de gedetailleerde **[Stap-voor-stap instructies in Sectie 4.2](#42-option-2-setup-met-it2-diy-lichtring)**.
+De montagelogica voor deze versie is identiek aan de standaard DIY-ring. Volg de gedetailleerde **[stap-voor-stap instructies in Sectie 4.2](#42-option-2-it2-diy-light-ring)**.
 
-> 💡 **Tip:** In tegenstelling tot de standaard ring bestaat de Low Ceiling versie uit **6 verschillende soorten segmenten**. Leg voordat je de zwaluwstaartverbindingen samenvoegt alle stukken in de juiste volgorde op de grond om montagefouten te voorkomen. Eenmaal verbonden kunnen de segmenten erg lastig weer uit elkaar te halen zijn zonder de onderdelen te beschadigen.
+> 💡 **Tip:** In tegenstelling tot de standaard ring bestaat de Low Ceiling-versie uit **6 verschillende segmenttypen**. Let op: alle drie de segmenten die op de camera's worden gemonteerd, verschillen van de standaardversie – twee daarvan zijn gespiegeld en korter om de plafondvrijheid te waarborgen. Leg alle stukken voor het verbinden van de zwaluwstaarten in de juiste volgorde op de vloer om volgordefouten te voorkomen. Eenmaal verbonden zijn de stukken vaak erg moeilijk uit elkaar te trekken zonder risico op schade.
 
 **Eindresultaat**  
-Na montage zou je Low Ceiling Lichtring er als volgt uit moeten zien:
+Na de montage zou je Low Ceiling Lichtring er als volgt uit moeten zien:
 
 ![low_ceiling_assembly](images/04_options/09_low_ceiling_assembly.png)
 
-[Terug naar Inhoudsopgave](#inhoudsopgave) | **Volgende Stap: [5. Installatie aan de Wand](#5-laatste-stap-installatie--wandmontage)**
+[Terug naar de inhoudsopgave](#inhoudsopgave) | **Volgende stap: [5. Camera Positionering](#5-pre-installatie-camera-positionering)**
 
 ---
 
-## 5. Laatste Stap: Installatie & Wandmontage
+## 5. Pre-installatie: Camera Positionering
 
-Het IT2-systeem biedt twee belangrijke installatiemogelijkheden, afhankelijk van je wensen voor esthetiek, installatiegemak en behoud van de muur.
+Voordat je jouw systeem monteert, moet je beslissen over de oriëntatie van je camera-armen. 
+
+> **Camera Positionering**  
+> Lijn de camera-armen uit met de **11- of 6-uurs** segmenten voor optimale herkenning ([Officiële Autodarts Richtlijnen](https://autodarts.diy/getting-started/camera-positioning/)).  
+> **Opmerking:** De **Low Ceiling** of **draagbare standaard** versie gebruikt in plaats daarvan het **3-uurs** segment.
+
+![camera_positions](images/01_overview/camera_positions.png)
+
+---
+
+## 6. Laatste Stap: Installatie & Wandmontage
+
+Het IT2-systeem biedt twee belangrijke installatiepaden, afhankelijk van je eisen voor esthetiek, montage-inspanning en wandbescherming.
 
 ### Optie A: Directe Montage
-In deze configuratie wordt het IT2-systeem rechtstreeks aan de muur gemonteerd. Dit vereist het boren van 6 gaten voor de armen en 2 extra gaten voor de ophanging van je dartbord (indien nog niet aanwezig).
-*   **Voordelen:** Minder onderdelen om te monteren; minimale voetafdruk; het systeem zit vlak tegen de muur.
-*   **Nadelen:** Vereist meer boorpunten; de gaten voor de poten moeten handmatig worden bepaald met behulp van metingen, cirkeltekeningen of een boormal.
+In deze configuratie wordt het IT2-systeem direct aan de muur gemonteerd. Dit vereist het boren van **6 gaten** voor de armen en **2 extra gaten** voor de dartbordophanging (indien nog niet aanwezig).
+*   **Voordelen:** Minder onderdelen om te monteren; minimale voetafdruk; systeem zit vlak tegen de muur.
+*   **Nadelen:** Vereist meer boorpunten; pootposities moeten handmatig worden bepaald via metingen, het tekenen van cirkels of het gebruik van een boorsjabloon.
 
 ### Optie B: IT2 Baseplate
-De **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is een optionele unit die is ontworpen om het installatieproces te vereenvoudigen en extra functionaliteit toe te voegen.
+De **[IT2 Baseplate](BASEPLATE.nl.md)** is een optionele eenheid die het installatieproces vereenvoudigt en extra functies biedt.
 
 *   **Voordelen:**
-    *   **Installatiegemak:** Centreer de plaat op de bullseye en installeer deze waterpas; de volledige setup wordt vervolgens op de plaat gemonteerd met slechts drie muurschroeven.
-    *   **Behoud van de muur:** Er hoeven slechts 3 gaten in de muur te worden geboord.
-    *   **Geluidsisolatie:** Voorzien van een geïntegreerd, optioneel geluidsisolatiesysteem.
+    *   **Eenvoudige Installatie:** Centreer de plaat op de bullseye en monteer deze waterpas; het hele systeem wordt vervolgens met slechts drie muurschroeven aan de plaat bevestigd.
+    *   **Wandbescherming:** Er hoeven slechts **3 gaten** in de muur te worden geboord.
+    *   **Geluidsdemping:** Voorzien van een geïntegreerd, optioneel geluidsdempingssysteem.
     *   **Compatibiliteit met standaard:** Kan standaard worden geïnstalleerd op een dartbord-standaard (bijv. Winmau Xtreme Dartboard Stand 2).
-*   **Keerzijde:**
-    *   **Afstand tot de muur:** De baseplate voegt ongeveer 30mm diepte toe. Je zou je oche (werplijn) afstand met 30mm moeten aanpassen om de officiële afmetingen te behouden.
+*   **Nadelen:**
+    *   **Wandafstand:** De baseplate voegt ongeveer **30mm diepte** toe. Je moet je oche (werplijn) afstand met 30mm aanpassen om de officiële metingen te behouden.
 
 ---
 
-### 5.1 Montage-instructies: Directe Wandmontage (Optie A)
-*(Gedetailleerde stap-voor-stap instructies voor directe wandmontage volgen hier)*
+### 6.1 Montage-instructies: Directe Wandmontage (Optie A)
+Er zijn twee manieren om ervoor te zorgen dat je systeem perfect is uitgelijnd bij directe montage aan de muur:
 
-### 5.2 Montage-instructies: Baseplate Montage (Optie B)
+#### Methode 1: Gebruik van het IT2 Boorsjabloon (Aanbevolen)
+Dit is de makkelijkste en meest nauwkeurige manier om je boorgaten te positioneren.
+1. Lijn het midden van het sjabloon uit met de door jou gemarkeerde bullseye-hoogte (1,73m).
+2. Zet het sjabloon waterpas.
+3. Markeer de boorposities via de aangewezen punten op het sjabloon.
+    > 💡 **Tip:** Om het boren te minimaliseren terwijl de perfecte stabiliteit behouden blijft, raad ik aan om slechts **twee diagonale gaten** per arm te gebruiken (bijv. linksboven en rechtsonder) in plaats van alle vier.
+
+> 💡 **Tip:** Als je de oriëntatie van de camera-armen wilt veranderen (bijv. de hoofdarm links in plaats van rechts plaatsen), draai het sjabloon dan gewoon ondersteboven. Je kunt dan een waterpas op de onderrand gebruiken om het perfect uit te lijnen.
+
+![drill_template](images/01_overview/drill_template.png)
+
+#### Methode 2: Handmatig Markeren & Tekenen
+Als je de posities liever zelf markeert zonder het 3D-geprinte sjabloon, volg dan de afmetingen in de onderstaande technische tekening. Dit garandeert de correcte 120-graden offset en afstand tot de bullseye.
+
+![manual_marking](images/01_overview/manual_marking.png)
+
+---
+
+### 6.2 Montage-instructies: Baseplate Montage (Optie B)
 *(Gedetailleerde stap-voor-stap instructies voor montage via de IT2 Baseplate volgen hier)*
 
-[Terug naar Inhoudsopgave](#inhoudsopgave)
+[Terug naar de inhoudsopgave](#inhoudsopgave)
 
 ---
 
-## 6. Pro-tips & Probleemoplossing
+## 7. Pro Tips & Problemen Oplossen
 
-Volg deze professionele tips en best practices voor de best mogelijke ervaring met je IT2-systeem.
+Volg deze pro tips voor de best mogelijke ervaring met je IT2-systeem.
 
-### 6.1 Best Practices voor Montage
+### 7.1 Best Practices voor Montage
 Zorg er bij het aandraaien van schroeven voor dat ze slechts **"handvast"** zitten.
-*   Vermijd overmatig vastdraaien, omdat dit de smeltmoeren kan belasten.
-*   **Zelftappende Versie:** Wees extra voorzichtig bij het gebruik van de zelftappende versie, omdat de plastic schroefdraad gemakkelijk kan worden gestript (wat **onomkeerbaar** is) als er te veel kracht wordt uitgeoefend.
+*   Voorkom te vast aandraaien, omdat dit de heat inserts kan belasten.
+*   **Self-Tapping Versie:** Wees extra voorzichtig met de self-tapping versie. De plastic schroefdraad kan gemakkelijk strippen, wat **onherstelbaar** is als er te veel kracht wordt uitgeoefend.
 
-### 6.2 Winmau Plasma stroomkabel verbergen
+### 7.2 Winmau Plasma Stroomkabel Verbergen
 **Stap 1:** ...
 **Stap 2:** ...
 *(Instructies volgen binnenkort)*
 
-### 6.3 Target Corona stroomkabel verbergen
+### 7.3 Target Corona Stroomkabel Verbergen
 **Stap 1:** ...
 **Stap 2:** ...
 *(Instructies volgen binnenkort)*
 
-[Terug naar Inhoudsopgave](#inhoudsopgave)
+[Terug naar de inhoudsopgave](#inhoudsopgave)
 
 ---
 
-## 7. Aanbevolen Elektronica
+## 8. Aanbevolen Elektronica
 
-| Onderdeelnaam | Type                                   | Link       | Opmerking                                       |
-| ------------- | -------------------------------------- | ---------- | ----------------------------------------------- |
-| Camera's      | HBV OV2710                             | [Aliexpress](https://s.click.aliexpress.com/e/_c4bziy33) | Camera's met de beste prijs-kwaliteitverhouding.|
-| LED-strip     | Auxmer 12V 9.6W LED-strip              | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | Persoonlijke favoriet. Meest natuurgetrouwe kleuren. |
-| Voeding       | 12V 3A Voedingsadapter                 | [Aliexpress](https://s.click.aliexpress.com/e/_c2IYxq1R) | Vereist voor de DIY LED-strip.                 |
-| DC-connector  | 2.1mm DC-Hohlbuchse                    | [Aliexpress](https://s.click.aliexpress.com/e/_c3L2uy4H) | Om de voeding op de LED-strip aan te sluiten.  |
-| PC            | Dell Wyse 5070 ≥4GB RAM ≥ 16GB Storage   |                                                          | Persoonlijke favoriet. Goede prijs-kwaliteitverhouding. |
-| Touchscreen   | Anmite 16" Touchscreen                 | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | Persoonlijke favoriet. Goede prijs-kwaliteitverhouding. |
+| Onderdeelnaam | Type                                   | Link       | Opmerking                                    |
+| ------------- | -------------------------------------- | ---------- | -------------------------------------------- |
+| Camera's      | HBV OV2710                             | [Aliexpress](https://s.click.aliexpress.com/e/_c4bziy33) | Beste prijs-kwaliteitverhouding camera's.    |
+| LED-strip     | Auxmer 12V 9.6W LED-strip              | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | Mijn favoriet. Beste kleurweergave.          |
+| Voeding       | 12V 3A Voedingsadapter                 | [Aliexpress](https://s.click.aliexpress.com/e/_c2IYxq1R) | Vereist voor de DIY LED-strip.               |
+| DC-connector  | 2.1mm DC-bus                           | [Aliexpress](https://s.click.aliexpress.com/e/_c3L2uy4H) | Om de voeding op de LED's aan te sluiten.    |
+| PC            | Dell Wyse 5070 ≥4GB RAM ≥ 16GB Opslag    |                                                          | Mijn favoriet. Goede prijs-kwaliteitverhouding. |
+| Touchscreen   | Anmite 16" Touchscreen                 | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | Mijn favoriet. Goede prijs-kwaliteitverhouding. |
 
 ---
 
-## 8. FAQ
+## 9. Veelgestelde Vragen (FAQ)
 
 ### V: Welke camera's moet ik kiezen?
-**A:** De duidelijke winnaar qua prijs-kwaliteitverhouding is de **HBV OV2710**. Investeren in duurdere camera's met een hogere resolutie heeft geen zin, omdat Autodarts beperkt is qua resolutie. Hoewel de **OV9732** een goedkoper alternatief is, vereist deze aanzienlijk betere verlichting; daarom raad ik uitsluitend de OV2710 aan vanwege de superieure verwerking van verschillende lichtomstandigheden.
+**A:** De duidelijke winnaar voor prijs-kwaliteitverhouding is de **HBV OV2710**. Investeren in duurdere camera's met een hogere resolutie is onnodig, aangezien Autodarts beperkt is in resolutie. Hoewel de **OV9732** een goedkoper alternatief is, vereist deze aanzienlijk betere verlichting; daarom raad ik uitsluitend de OV2710 aan vanwege de superieure verwerking van verschillende lichtomstandigheden.
 
 ### V: Welke LED-strip moet ik nemen?
-**A:** Vermijd USB-lichtstrips. De standaard in de community is **6000K COB LED's** (12V of 24V). Mijn persoonlijke aanbeveling is de **Auxmer 120 LED's/m (9.6W, CRI90)**; in mijn tests presteerde deze zelfs beter dan de Winmau Plasma. Als je een beperkt budget hebt, werkt elke 6000K strip met ongeveer 10W per meter. Zorg er wel voor dat deze fel genoeg is.
+**A:** Vermijd USB-lichtstrips. De communitystandaard is **6000K COB LED's** (12V of 24V). Mijn persoonlijke aanbeveling is de **Auxmer 120 LED's/m (9.6W, CRI90)**; in mijn tests presteerde deze zelfs beter dan de Winmau Plasma. Als je een beperkt budget hebt, werkt elke 6000K strip met ongeveer 10W per meter, mits deze helder genoeg is.
 
-### V: Moet ik een Raspberry Pi of een Mini PC gebruiken?
-**A:** Tenzij je al een Raspberry Pi hebt, raad ik aan om een refurbished Mini PC te kopen. Deze zijn vaak goedkoper (vanaf 50€) en bieden betere prestaties en touchscreen-ondersteuning. Mijn persoonlijke favoriet is the **Dell Wyse 5070** (4GB RAM, 16GB opslag), die op grote schaal refurbished verkrijgbaar is en de Autodarts-software perfect aan kan.
+### V: Moet ik een Raspberry Pi of een Mini-PC gebruiken?
+**A:** Tenzij je al een Raspberry Pi bezit, raad ik aan om een refurbished Mini-PC te kopen. Deze zijn vaak goedkoper (vanaf €50) en bieden betere prestaties en touchscreen-ondersteuning. Mijn persoonlijke favoriet is de **Dell Wyse 5070** (4GB RAM, 16GB opslag), die breed verkrijgbaar is als refurbished model en de Autodarts-software perfect draait.
 
 ---
 
-## 9. Licenties & Community-ondersteuning
+## 10. Licenties & Community Ondersteuning
 
 ### Commerciële Licentie
-*   **Verkoop voor winst:** Het verkopen van dit ontwerp voor winst vereist een actieve commerciële licentie, beschikbaar via mijn [Makerworld-profiel](https://makerworld.com/en/@HipsThor/). Verkoop is alleen toegestaan zolang het abonnement actief is.
+*   **Winstoogmerk:** Voor de verkoop van dit ontwerp met winstoogmerk is een actieve commerciële licentie vereist, verkrijgbaar via mijn [Makerworld-profiel](https://makerworld.com/en/@HipsThor/). Verkoop is alleen toegestaan tijdens een actief abonnement.
 
-### Uitzonderingen (Niet-commercieel)
-*   **Persoonlijk & Sociaal:** Delen met vrienden, familie of je lokale dartclub (alleen tegen materiaalkosten) wordt aangemoedigd en vereist geen licentie. Ik vraag alleen om feedback of een kleine donatie als je het project leuk vindt.
-*   **Hulp aan de community:** Printen voor communityleden die zelf geen printer hebben (tegen materiaalkosten + een kleine vergoeding voor de moeite) is toegestaan, maar **MOET** transparant worden afgehandeld en eerst met mij (**IteraThor**) op Discord besproken worden.
+### Uitzonderingen (Niet-Commercieel)
+*   **Privé & Sociaal:** Het delen met vrienden, familie of je lokale dartclub (tegen alleen materiaalkosten) wordt uitdrukkelijk aangemoedigd en vereist geen licentie. Ik waardeer feedback of een kleine donatie als je het project leuk vindt.
+*   **Community Ondersteuning:** Het printen voor communityleden die zelf geen printer bezitten (materiaalkosten + kleine vergoeding), is toegestaan, maar **MOET** transparant worden afgehandeld en vooraf met mij (**IteraThor**) op Discord worden besproken.
 
 ---
 
-## 10. Ondersteun het Project
+## 11. Ondersteun het Project
 *   **Feedback:** Word lid van de Discord of laat een reactie achter op Makerworld.
 *   **Donaties:** Steun de ontwikkeling hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)

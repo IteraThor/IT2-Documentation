@@ -5,9 +5,8 @@
 
 > 🌍 **This manual is available in other languages:** [Deutsch](README.de.md) | [Nederlands](README.nl.md)  
 > 🛠️ **Optional Upgrade:** Looking for the mounting plate? [View the IT2 Baseplate Manual](BASEPLATE.md)
->
 > ---
-> *Note: As a solo designer managing this entire project, I use AI assistance to help with the extensive documentation. Some parts may contain AI-generated errors or misunderstandings. Until I have the time to fully review and refine every section, please stay attentive and reach out on Discord if you encounter any issues.*
+> *Note: Since I'm managing this project on my own, I use AI to help with the repetitive parts of the documentation - mostly for managing hyperlinks and fine-tuning the wording. I'm currently focused on getting all the technical content out there so you can start building as soon as possible. I'll be doing a full proofread and "ironing out" the phrasing later, but if you spot anything confusing in the meantime, please let me know on Discord!*
 
 Welcome to the official manual for the IT2 Autodarts Scoring System. This guide will walk you through the assembly process.
 
@@ -30,24 +29,25 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
     * [4.2 Option 2: IT2 DIY Light Ring](#42-option-2-it2-diy-light-ring)
     * [4.3 Option 3: Target Corona Light Ring](#43-option-3-target-corona-light-ring)
     * [4.4 Option 4: IT2 DIY Low Ceiling Light Ring](#44-option-4-it2-diy-low-ceiling-light-ring)
-5. [Final Step: Installation & Wall Mounting](#5-final-step-installation--wall-mounting)
-    * [5.1 Mounting Instructions: Direct Wall Mounting (Option A)](#51-mounting-instructions-direct-wall-mounting-option-a)
-    * [5.2 Mounting Instructions: Baseplate Mounting (Option B)](#52-mounting-instructions-baseplate-mounting-option-b)
-6. [Pro Tips & Troubleshooting](#6-pro-tips--troubleshooting)
-    * [6.1 Assembly Best Practices](#61-assembly-best-practices)
-    * [6.2 Hiding Winmau Plasma Power Cable](#62-hiding-winmau-plasma-power-cable)
-    * [6.3 Hiding Target Corona Power Cable](#63-hiding-target-corona-power-cable)
-7. [Recommended Electronics](#7-recommended-electronics)
-8. [FAQ](#8-faq)
-9. [Licensing & Community Support](#9-licensing--community-support)
-10. [Support the Project](#10-support-the-project)
+5. [Pre-Installation: Camera Positioning](#5-pre-installation-camera-positioning)
+6. [Final Step: Installation & Wall Mounting](#6-final-step-installation-and-wall-mounting)
+    * [6.1 Mounting Instructions: Direct Wall Mounting (Option A)](#61-mounting-instructions-direct-wall-mounting-option-a)
+    * [6.2 Mounting Instructions: Baseplate Mounting (Option B)](#62-mounting-instructions-baseplate-mounting-option-b)
+7. [Pro Tips & Troubleshooting](#7-pro-tips--troubleshooting)
+    * [7.1 Assembly Best Practices](#71-assembly-best-practices)
+    * [7.2 Hiding Winmau Plasma Power Cable](#72-hiding-winmau-plasma-power-cable)
+    * [7.3 Hiding Target Corona Power Cable](#73-hiding-target-corona-power-cable)
+8. [Recommended Electronics](#8-recommended-electronics)
+9. [FAQ](#8-faq)
+10. [Licensing & Community Support](#10-licensing--community-support)
+11. [Support the Project](#11-support-the-project)
 
 
 ---
 
 ## 1. General Overview
 
-**Project Sirius** was designed with a clear vision: to be the brightest star in the sky. It points the way forward for an Autodarts system that is not only on par with existing solutions but aims to be significantly better in aesthetics, features, modularity, and ease of use.
+**Project Sirius** was designed with a clear vision: to be the brightest star in the sky. It points the way forward for an Autodarts system that is not only on par with existing solutions but aims to be significantly better in features, modularity, and ease of use.
 
 ### Key Features
 *   **Sleek & Slim Design** - The slimmest 3D-printed LED Light Ring as of 2026.
@@ -67,11 +67,11 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
 
 ### 2.1 Core Hardware (Required) 
 
-| Part Name          | Type                    | qty | Link                                                                                             | Comment                                                            |
+| Part Name          | Type                    | Qty | Link                                                                                             | Comment                                                            |
 | ------------------ | ----------------------- | --- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
-| Cylindrical Screws | M4x10mm (ISO4762/DIN912) | 12  | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Required for most of the assembly                                  |
-| Cylindrical Screws | M2x6mm (ISO4762/DIN912)  | 6   | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Camera Screws.                                                     |
-| M4 Heat Inserts ⚠️   | 6.3mm OD (max 9mm long) | 12  | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | 6mm OD also fits. <br><br>⚠️ **Only for the heat insert version.** |
+| Cylindrical Screws | M4x10mm (ISO4762/DIN912) | 12  | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Required for most of the assembly.                                 |
+| Cylindrical Screws | M2x6mm (ISO4762/DIN912)  | 6   | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Camera screws.                                                     |
+| M4 Heat Inserts ⚠️   | 6.3mm OD (max 9mm long) | 12  | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | 6mm OD also fits. <br><br>⚠️ **Only for the Heat Insert version.** |
 
 > 💡 **Looking for more?** [View Recommendations for Electronics & Accessories](#7-recommended-electronics)
 
@@ -133,14 +133,14 @@ After your camera arms are prepared, choose the build guide that matches your se
 
 ### 4.1 Option 1: Winmau Plasma Light Ring
 
-> **Pro Tip:** You have the option to route the Winmau Plasma power cable through the internal channels of the IT2 system for an even cleaner look. This requires a few extra steps - see [Section 6.2: Hiding Winmau Plasma Power Cable](#62-hiding-winmau-plasma-power-cable) for details.
+> **Pro Tip:** You have the option to route the Winmau Plasma power cable through the internal channels of the IT2 system for an even cleaner look. This requires a few extra steps - see [Section 7.2: Hiding Winmau Plasma Power Cable](#72-hiding-winmau-plasma-power-cable) for details.
 
 **Step 1: Mounting the Arms**  
 Attach the three [prepared camera arms](#3-general-assembly-camera-arms) to the designated positions on the Winmau Plasma ring. The IT2 arms are designed to fit perfectly onto the Plasma's profile. Use M4 screws to secure them.  
 
 ![plasma_mounting](images/04_options/01_plasma_mounting.png)
 
-[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation & Wall Mounting](#5-final-step-installation--wall-mounting)**
+[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Pre-Installation: Camera Positioning](#5-pre-installation-camera-positioning)**
 
 ---
 
@@ -152,28 +152,28 @@ Connect the 3D-printed segments of the IT2 DIY Light Ring. Ensure a tight connec
 ![ring_dovetail](images/04_options/02_diy_ring_assembly.png)
 
 **Step 2: LED Installation**  
-Install the **LED strip** into the designated channel of the ring. Start at the bottom so the power cable can be routed away cleanly.
+Install the **LED strip** in the designated channel of the ring. Start from the bottom to allow for clean power cable routing.
 
 ![led_install](images/04_options/03_diy_led_install.png)
 
 **Step 3: Attaching the Arms**  
-Secure the camera arms to the integrated mounting points of the DIY ring using M4 screws.
+Secure the camera arms to the integrated mounting points on the DIY ring using M4 screws.
 
 ![arm_mounting](images/04_options/04_diy_arm_mounting.png)
 
-[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation & Wall Mounting](#5-final-step-installation--wall-mounting)**
+[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Pre-Installation: Camera Positioning](#5-pre-installation-camera-positioning)**
 
 ---
 
 ### 4.3 Option 3: Target Corona Light Ring
 
 **Step 1: Adapter Preparation**  
-Install the **lower part of the IT2 Corona Adapter** to the three [prepared camera arms](#3-general-assembly-camera-arms) using M4 screws. 
+Install the **bottom part of the IT2 Corona Adapter** onto the three [prepared camera arms](#3-general-assembly-camera-arms) using M4 screws. 
 
 ![corona_adapter_prep](images/04_options/05_corona_adapter_prep.png)
 
 **Step 2: Mounting & Alignment**  
-Place the Target Corona Ring into the recesses of the installed lower adapter parts. 
+Place the Target Corona ring into the recesses of the installed bottom adapter parts. 
 
 ![corona_ring_mounting](images/04_options/06_corona_ring_mounting.png)
 
@@ -181,13 +181,13 @@ Then, hook the **upper part of the adapter** into the ring and snap it into plac
 
 ![corona_adapter_hook](images/04_options/07_corona_adapter_hook.png)
 
-> **Tip:** Try to position the adapters at an approximate **120-degree offset** while snapping them in. This minimizes the effort for fine-tuning later.
+> **Tip:** Try to position the adapters at an approximate **120-degree offset** while snapping them on. This will minimize the amount of fine-tuning needed later.
 
 ![corona_alignment](images/04_options/08_corona_alignment.png)
 
-> **Pro Tip:** You have the option to route the Target Corona power cable through the internal channels of the IT2 system for an even cleaner look. This requires a few extra steps - see [Section 6.3: Hiding Target Corona Power Cable](#63-hiding-target-corona-power-cable) for details.
+> **Pro Tip:** You have the option to route the Target Corona power cable through the internal channels of the IT2 system for an even cleaner look. This requires a few extra steps - see [Section 7.3: Hiding Target Corona Power Cable](#73-hiding-target-corona-power-cable) for details.
 
-[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation & Wall Mounting](#5-final-step-installation--wall-mounting)**
+[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Pre-Installation: Camera Positioning](#5-pre-installation-camera-positioning)**
 
 ---
 
@@ -198,25 +198,37 @@ Then, hook the **upper part of the adapter** into the ring and snap it into plac
 **Assembly Instructions**  
 The assembly logic for this version is identical to the standard DIY ring. Please follow the detailed **[step-by-step instructions in Section 4.2](#42-option-2-it2-diy-light-ring)**.
 
-> 💡 **Tip:** Unlike the standard ring, the Low Ceiling version consists of **6 different segment types**. Before connecting the dovetails, lay out all pieces on the floor in the correct order to avoid sequence errors. Once connected, the pieces are often very difficult to pull apart without risking damage.
+> 💡 **Tip:** Unlike the standard ring, the Low Ceiling version consists of **6 different segment types**. Please note that all three segments that mount to the cameras are different from the standard version - two of them are mirrored and shorter to accommodate the ceiling clearance. Before connecting the dovetails, lay out all pieces on the floor in the correct order to avoid sequence errors. Once connected, the pieces are often very difficult to pull apart without risking damage.
 
 **Final Result**  
 After assembly, your Low Ceiling Light Ring should look as follows:
 
 ![low_ceiling_assembly](images/04_options/09_low_ceiling_assembly.png)
 
-[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Installation & Wall Mounting](#5-final-step-installation--wall-mounting)**
+[Back to Table of Contents](#table-of-contents) | **Next Step: [5. Pre-Installation: Camera Positioning](#5-pre-installation-camera-positioning)**
 
 ---
 
-## 5. Final Step: Installation & Wall Mounting
+## 5. Pre-Installation: Camera Positioning
+
+Before mounting your system, you need to decide on the orientation of your camera arms. 
+
+> **Camera Positioning**  
+> Align camera arms with the **11** or **6** segments for optimal recognition ([Autodarts Guidelines](https://autodarts.diy/getting-started/camera-positioning/)).  
+> **Note:** The **Low Ceiling** or **portable stand** version uses the **3** segment instead.
+
+![camera_positions](images/01_overview/camera_positions.png)
+
+---
+
+## 6. Final Step: Installation & Wall Mounting
 
 The IT2 system offers two main installation paths, depending on your requirements for aesthetics, mounting effort, and wall protection.
 
 ### Option A: Direct Mounting
-In this configuration, the IT2 system is mounted directly to the wall. This requires drilling **6 holes** for the arms and **2 additional holes** for the dartboard bracket (if not already present).
-*   **Pros:** Fewer parts to assemble; minimal footprint; the system sits flush against the wall.
-*   **Cons:** Requires more drilling points in the wall; the positions for the legs must be determined manually by measuring, marking, or using a drilling template.
+In this configuration, the IT2 system is mounted directly to the wall. This requires drilling **6 holes** for the arms and **2 additional holes** for the dartboard hanger (if not already present).
+*   **Pros:** Fewer parts to assemble; minimal footprint; system sits flush against the wall.
+*   **Cons:** Requires more drill points; leg positions must be determined manually via measurements, drawing circles, or using a drill template.
 
 ### Option B: IT2 Baseplate
 The **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is an optional unit that simplifies the installation process and offers additional features.
@@ -231,31 +243,49 @@ The **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is an optional uni
 
 ---
 
-### 5.1 Mounting Instructions: Direct Wall Mounting (Option A)
-*(Detailed step-by-step instructions for direct wall mounting follow here)*
+### 6.1 Mounting Instructions: Direct Wall Mounting (Option A)
+There are two ways to ensure your system is perfectly aligned when mounting directly to the wall:
 
-### 5.2 Mounting Instructions: Baseplate Mounting (Option B)
+#### Method 1: Using the IT2 Drill Template (Recommended)
+This is the easiest and most precise way to position your mounting holes.
+1. Align the center of the template with your marked bullseye height (1.73m).
+2. Level the template.
+3. Mark the drill positions through the designated points on the template.
+    > 💡 **Tip:** To minimize drilling while maintaining perfect stability, I recommend using only **two diagonal holes** per arm (e.g., top-left and bottom-right) instead of all four.
+
+> 💡 **Tip:** If you want to change the orientation of the camera arms (e.g., placing the main arm on the left instead of the right), simply flip the template upside down. You can then use a spirit level on the bottom edge to align it perfectly.
+
+![drill_template](images/01_overview/drill_template.png)
+
+#### Method 2: Manual Marking & Drawing
+If you prefer to mark the positions yourself without the 3D-printed template, follow the measurements shown in the technical drawing below. This ensures the correct 120-degree offset and distance from the bullseye.
+
+![manual_marking](images/01_overview/manual_marking.png)
+
+---
+
+### 6.2 Mounting Instructions: Baseplate Mounting (Option B)
 *(Detailed step-by-step instructions for mounting via the IT2 Baseplate follow here)*
 
 [Back to Table of Contents](#table-of-contents)
 
 ---
 
-## 6. Pro Tips & Troubleshooting
+## 7. Pro Tips & Troubleshooting
 
 To ensure the best possible experience with your IT2 system, follow these pro tips.
 
-### 6.1 Assembly Best Practices
+### 7.1 Assembly Best Practices
 When tightening screws, ensure they are only **"finger-tight"**.
 *   Avoid over-tightening as this can stress the heat inserts.
 *   **Self-Tapping Version:** Be extra careful with the self-tapping version. The plastic threads can easily strip, which is **irreversible** if too much force is applied.
 
-### 6.2 Hiding Winmau Plasma Power Cable
+### 7.2 Hiding Winmau Plasma Power Cable
 **Step 1:** ...
 **Step 2:** ...
 *(Instructions coming soon)*
 
-### 6.3 Hiding Target Corona Power Cable
+### 7.3 Hiding Target Corona Power Cable
 **Step 1:** ...
 **Step 2:** ...
 *(Instructions coming soon)*
@@ -264,7 +294,7 @@ When tightening screws, ensure they are only **"finger-tight"**.
 
 ---
 
-## 7. Recommended Electronics
+## 8. Recommended Electronics
 
 | Part Name    | Type                                   | Link       | Comment                                      |
 | ------------ | -------------------------------------- | ---------- | ---------------------------------------------- |
@@ -277,7 +307,7 @@ When tightening screws, ensure they are only **"finger-tight"**.
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 ### Q: Which cameras should I choose?
 **A:** The clear winner for price-to-performance is the **HBV OV2710**. Investing in more expensive, higher-resolution cameras is unnecessary as Autodarts is resolution-limited. While the **OV9732** is a cheaper alternative, it requires significantly better lighting; therefore, I exclusively recommend the OV2710 for its superior handling of various light conditions.
@@ -290,7 +320,7 @@ When tightening screws, ensure they are only **"finger-tight"**.
 
 ---
 
-## 9. Licensing & Community Support
+## 10. Licensing & Community Support
 
 ### Commercial License
 *   **Profit Intent:** Selling this design for profit requires an active commercial license, available via my [Makerworld profile](https://makerworld.com/en/@HipsThor/). Sales are only permitted during an active subscription.
@@ -301,6 +331,6 @@ When tightening screws, ensure they are only **"finger-tight"**.
 
 ---
 
-## 10. Support the Project
+## 11. Support the Project
 *   **Feedback:** Join the Discord or leave a comment on Makerworld.
 *   **Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)

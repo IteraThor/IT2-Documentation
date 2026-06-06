@@ -3,15 +3,14 @@
 [![Discord](https://img.shields.io/badge/Discord-Server%20beitreten-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/pZAjmwV5kE)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Projekt%20unterstützen-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iterathor)
 
-**Zuletzt aktualisiert:** 31. Mai 2026  
-**Version:** 0.95
-
-> 🌍 **Dieses Handbuch ist auch in anderen Sprachen verfügbar:** [English](README.md) | [Nederlands](README.nl.md)
->
+> 🌍 **Dieses Handbuch ist auch in anderen Sprachen verfügbar:** [English](README.md) | [Nederlands](README.nl.md)  
+> 🛠️ **Optionales Upgrade:** Suchst du die Montageplatte? [Hier geht es zum IT2 Baseplate Handbuch](BASEPLATE.de.md)
 > ---
-> *Hinweis: Da ich dieses gesamte Projekt als Einzeldesigner leite, nutze ich KI-Unterstützung für die umfangreiche Dokumentation. Einige Teile können KI-generierte Fehler oder Missverständnisse enthalten. Bis ich die Zeit habe, jeden Abschnitt vollständig zu prüfen und zu verfeinern, bleibe bitte aufmerksam und kontaktiere mich auf Discord, falls du auf Probleme stößt.*
+> *Hinweis: Da ich dieses Projekt alleine leite, nutze ich KI-Unterstützung für die Fleißarbeit an der Dokumentation – vor allem für die Verlinkungen und den Satzbau. Mein Fokus liegt aktuell darauf, alle technischen Inhalte schnell bereitzustellen, damit ihr mit dem Bauen loslegen könnt. Ein gründliches Proof-Reading und das "Ausbügeln" der Formulierungen mache ich später. Falls euch in der Zwischenzeit etwas unklar vorkommt, sag mir bitte auf Discord Bescheid!*
 
 Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Diese Anleitung führt dich durch den gesamten Montageprozess.
+
+> 📥 **Dateien herunterladen:** [IT2 System auf Makerworld](https://makerworld.com/en/models/1334165)
 
 ![dimensions](images/01_overview/dimensions.png)
 
@@ -30,17 +29,18 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
     * [4.2 Option 2: IT2 DIY Lichtring](#42-option-2-it2-diy-lichtring)
     * [4.3 Option 3: Target Corona Lichtring](#43-option-3-target-corona-lichtring)
     * [4.4 Option 4: IT2 DIY Low Ceiling Lichtring](#44-option-4-it2-diy-low-ceiling-lichtring)
-5. [Letzter Schritt: Installation & Wandmontage](#5-letzter-schritt-installation--wandmontage)
-    * [5.1 Montageanleitung: Direkte Wandmontage (Option A)](#51-montageanleitung-direkte-wandmontage-option-a)
-    * [5.2 Montageanleitung: Baseplate-Montage (Option B)](#52-montageanleitung-baseplate-montage-option-b)
-6. [Profi-Tipps & Fehlerbehebung](#6-profi-tipps--fehlerbehebung)
-    * [6.1 Best Practices für die Montage](#61-best-practices-für-die-montage)
-    * [6.2 Verstecken des Winmau Plasma Stromkabels](#62-verstecken-des-winmau-plasma-stromkabels)
-    * [6.3 Verstecken des Target Corona Stromkabels](#63-verstecken-des-target-corona-stromkabels)
-7. [Empfohlene Elektronik](#7-empfohlene-elektronik)
-8. [FAQ](#8-faq)
-9. [Lizenzierung & Community-Support](#9-lizenzierung--community-support)
-10. [Unterstütze das Projekt](#10-unterstütze-das-projekt)
+5. [Vor der Installation: Kamera-Positionierung](#5-vor-der-installation-kamera-positionierung)
+6. [Letzter Schritt: Installation & Wandmontage](#6-letzter-schritt-installation--wandmontage)
+    * [6.1 Montageanleitung: Direkte Wandmontage (Option A)](#61-montageanleitung-direkte-wandmontage-option-a)
+    * [6.2 Montageanleitung: Baseplate-Montage (Option B)](#62-montageanleitung-baseplate-montage-option-b)
+7. [Profi-Tipps & Fehlerbehebung](#7-profi-tipps--fehlerbehebung)
+    * [7.1 Best Practices für die Montage](#71-best-practices-für-die-montage)
+    * [7.2 Verstecken des Winmau Plasma Stromkabels](#72-verstecken-des-winmau-plasma-stromkabels)
+    * [7.3 Verstecken des Target Corona Stromkabels](#73-verstecken-des-target-corona-stromkabels)
+8. [Empfohlene Elektronik](#8-empfohlene-elektronik)
+9. [FAQ](#8-faq)
+10. [Lizenzierung & Community-Support](#9-lizenzierung--community-support)
+11. [Unterstütze das Projekt](#11-unterstütze-das-projekt)
 
 
 ---
@@ -63,14 +63,16 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
 
 > **Hinweis:** Viele der unten aufgeführten Produktlinks sind Affiliate-Links. Wenn du über diese Links kaufst, erhalte ich eine kleine Provision ohne zusätzliche Kosten für dich, was die Entwicklung dieses Projekts unterstützt.
 
+> 🖨️ **3D-Druck:** Wenn du nicht die Makerworld .3mf-Profile nutzt, schau dir bitte den **[Universal Printing Guide](PRINTING.md)** für empfohlene Einstellungen und Materialien an.
+
 ### 2.1 Hardware (Erforderlich)
 
 | Teil-Name           | Typ                       | Menge | Link                 | Kommentar                                                                                                |
 | ------------------- | ------------------------- | ----- | -------------------- | -------------------------------------------------------------------------------------------------------- |
 | Zylinderschrauben   | M4x10mm (ISO4762/DIN912)  | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Erforderlich für den Großteil der Montage.                                                               |
 | Zylinderschrauben   | M2x6mm (ISO4762/DIN912)   | 6     | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Kameraschrauben.                                                                                         |
-| M4 Schmelzeinsätze* | 6.3mm AD (max 9mm lang)   | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | Ein Insert mit 6mm funktioniert ebenfalls.<br><br>*Nur für die Heat-Insert-Druckversion erforderlich.   |
-> 💡 **Suchst du Empfehlungen für sonstige Hardware?** [Empfohlene Elektronik & Zubehör ansehen](#7-empfohlene-elektronik)
+| M4 Schmelzeinsätze ⚠️ | 6,3mm AD (max 9mm lang)   | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | 6mm AD passt auch. <br><br>⚠️ **Nur für die Heat-Insert-Druckversion erforderlich.**                     |
+> 💡 **Suchst du Empfehlungen für sonstige Hardware?** [Empfohlene Elektronik & Zubehör ansehen](#8-empfohlene-elektronik)
 
 ### 2.2 Erforderliches Werkzeug
 
@@ -96,7 +98,7 @@ Bevor du deine spezifische Version (DIY, Winmau Plasma oder Target Corona) baust
 ### 3.2 Schritt 2: Vorbereitung der Schmelzeinsätze
 > **Selbstschneidende Version:** Wenn du diese Version gedruckt hast, kannst du diesen Schritt überspringen.
 
-Schmelze die **M4 Inserts** mit einem Lötkolben in die Löcher der Kamera-Arme und -Köpfe ein, wie im Bild unten gezeigt.
+Schmelze die **M4 Schmelzeinsätze** mit einem Lötkolben in die Löcher der Kamera-Arme und -Köpfe ein, wie im Bild unten gezeigt.
 
 ![heat_inserts](images/03_general/02_heat_inserts.png)
 
@@ -130,14 +132,14 @@ Nachdem deine Kamera-Arme vorbereitet sind, wähle die Aufbauanleitung, die zu d
 
 ### 4.1 Option 1: Winmau Plasma Lichtring
 
-> **Pro-Tipp:** Du hast die Möglichkeit, das Stromkabel des Winmau Plasma durch die internen Kanäle des IT2-Systems zu führen, um eine noch sauberere Optik zu erzielen. Dies erfordert einige zusätzliche Schritte - siehe [Abschnitt 6.2: Verstecken des Winmau Plasma Stromkabels](#62-verstecken-des-winmau-plasma-stromkabels) für Details.
+> **Pro-Tipp:** Du hast die Möglichkeit, das Stromkabel des Winmau Plasma durch die internen Kanäle des IT2-Systems zu führen, um eine noch sauberere Optik zu erzielen. Dies erfordert einige zusätzliche Schritte - siehe [Abschnitt 7.2: Verstecken des Winmau Plasma Stromkabels](#72-verstecken-des-winmau-plasma-stromkabels) für Details.
 
 **Schritt 1: Montage der Arme**  
 Befestige die drei [vorbereiteten Kamera-Arme](#3-allgemeine-montage-kamera-arme) an den vorgesehenen Positionen auf dem Winmau Plasma Ring. Die IT2-Arme sind so konzipiert, dass sie perfekt auf das Profil des Plasma passen. Verwende M4 Schrauben, um sie zu sichern.  
 
 ![plasma_mounting](images/04_options/01_plasma_mounting.png)
 
-[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Installation an die Wand](#5-letzter-schritt-installation--wandmontage)**
+[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Vor der Installation: Kamera-Positionierung](#5-vor-der-installation-kamera-positionierung)**
 
 ---
 
@@ -158,14 +160,14 @@ Sichere die Kamera-Arme an den integrierten Montagepunkten des DIY-Rings mit M4 
 
 ![arm_mounting](images/04_options/04_diy_arm_mounting.png)
 
-[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Installation an die Wand](#5-letzter-schritt-installation--wandmontage)**
+[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Vor der Installation: Kamera-Positionierung](#5-vor-der-installation-kamera-positionierung)**
 
 ---
 
 ### 4.3 Option 3: Target Corona Lichtring
 
 **Schritt 1: Vorbereitung der Adapter**  
-Installiere den **unteren Teil des IT2 Corona Adapters** an den drei [vorbereiteten Kamera-Armen](#3-general-assembly-camera-arms) mit M4 Schrauben. 
+Installiere den **unteren Teil des IT2 Corona Adapters** an den drei [vorbereiteten Kamera-Armen](#3-allgemeine-montage-kamera-arme) mit M4 Schrauben. 
 
 ![corona_adapter_prep](images/04_options/05_corona_adapter_prep.png)
 
@@ -182,9 +184,9 @@ Hake dann den **oberen Teil des Adapters** in den Ring ein und lass ihn einraste
 
 ![corona_alignment](images/04_options/08_corona_alignment.png)
 
-> **Pro-Tipp:** Du hast die Möglichkeit, das Stromkabel des Target Corona durch die internen Kanäle des IT2-Systems zu führen, um eine noch sauberere Optik zu erzielen. Dies erfordert einige zusätzliche Schritte - siehe [Abschnitt 6.3: Verstecken des Target Corona Stromkabels](#63-verstecken-des-target-corona-stromkabels) für Details.
+> **Pro-Tipp:** Du hast die Möglichkeit, das Stromkabel des Target Corona durch die internen Kanäle des IT2-Systems zu führen, um eine noch sauberere Optik zu erzielen. Dies erfordert einige zusätzliche Schritte - siehe [Abschnitt 7.3: Verstecken des Target Corona Stromkabels](#73-verstecken-des-target-corona-stromkabels) für Details.
 
-[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Installation an die Wand](#5-letzter-schritt-installation--wandmontage)**
+[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Vor der Installation: Kamera-Positionierung](#5-vor-der-installation-kamera-positionierung)**
 
 ---
 
@@ -195,18 +197,30 @@ Hake dann den **oberen Teil des Adapters** in den Ring ein und lass ihn einraste
 **Montageanleitung**  
 Die Montage-Logik für diese Version ist identisch mit dem Standard-DIY-Ring. Bitte folge den detaillierten **[Schritt-für-Schritt-Anweisungen in Abschnitt 4.2](#42-option-2-it2-diy-lichtring)**.
 
-> 💡 **Tipp:** Im Gegensatz zum Standard-Ring besteht die Low-Ceiling-Version aus **6 verschiedenen Segment-Typen**. Lege vor dem Verbinden der Schwalbenschwänze alle Teile in der richtigen Reihenfolge auf den Boden, um Fehler in der Sequenz zu vermeiden. Einmal verbunden, lassen sich die Teile oft nur sehr schwer und nicht ohne Risiko einer Beschädigung wieder auseinanderziehen.
+> 💡 **Tipp:** Im Gegensatz zum Standard-Ring besteht die Low-Ceiling-Version aus **6 verschiedenen Segment-Typen**. Beachte bitte, dass alle drei Segmente, die an den Kameras montiert werden, anders sind als bei der Standard-Version – zwei davon sind gespiegelt und kürzer, um den Deckenabstand einzuhalten. Lege vor dem Verbinden der Schwalbenschwänze alle Teile in der richtigen Reihenfolge auf den Boden, um Fehler in der Sequenz zu vermeiden. Einmal verbunden, lassen sich die Teile oft nur sehr schwer und nicht ohne Risiko einer Beschädigung wieder auseinanderziehen.
 
 **Endergebnis**  
 Nach dem Zusammenbau sollte dein Low Ceiling Lichtring wie folgt aussehen:
 
 ![low_ceiling_assembly](images/04_options/09_low_ceiling_assembly.png)
 
-[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Installation an die Wand](#5-letzter-schritt-installation--wandmontage)**
+[Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis) | **Nächster Schritt: [5. Vor der Installation: Kamera-Positionierung](#5-vor-der-installation-kamera-positionierung)**
 
 ---
 
-## 5. Letzter Schritt: Installation & Wandmontage
+## 5. Vor der Installation: Kamera-Positionierung
+
+Bevor du dein System montierst, musst du dich für die Ausrichtung deiner Kamera-Arme entscheiden. 
+
+> **Kamera-Positionierung**  
+> Richte die Kamera-Arme auf die **11- oder 6-Uhr**-Segmente aus, um eine optimale Erkennung zu gewährleisten ([Offizielle Autodarts-Richtlinien](https://autodarts.diy/getting-started/camera-positioning/)).  
+> **Hinweis:** Die **Low-Ceiling**- oder **Dartständer**-Version nutzt stattdessen das **3-Uhr**-Segment.
+
+![camera_positions](images/01_overview/camera_positions.png)
+
+---
+
+## 6. Letzter Schritt: Installation & Wandmontage
 
 Das IT2-System bietet zwei Hauptinstallationswege, je nach deinen Anforderungen an Ästhetik, Montageaufwand und Wandschutz.
 
@@ -216,7 +230,7 @@ In dieser Konfiguration wird das IT2-System direkt an der Wand montiert. Dies er
 *   **Nachteile:** Erfordert mehr Bohrpunkte in der Wand; die Positionen für die Beine müssen manuell durch Messen, Anzeichnen oder eine Bohrschablone ermittelt werden.
 
 ### Option B: IT2 Baseplate
-Die **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** ist eine optionale Einheit, die den Installationsprozess vereinfacht und zusätzliche Funktionen bietet.
+Die **[IT2 Baseplate](BASEPLATE.de.md)** ist eine optionale Einheit, die den Installationsprozess vereinfacht und zusätzliche Funktionen bietet.
 
 *   **Vorteile:**
     *   **Einfache Installation:** Zentriere die Platte auf dem Bullseye und montiere sie waagerecht; das komplette Setup wird dann mit nur drei Wandschrauben an der Platte befestigt.
@@ -228,31 +242,49 @@ Die **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** ist eine optionale
 
 ---
 
-### 5.1 Montageanleitung: Direkte Wandmontage (Option A)
-*(Detaillierte Schritt-für-Schritt-Anweisungen für die direkte Wandmontage folgen hier)*
+### 6.1 Montageanleitung: Direkte Wandmontage (Option A)
+Es gibt zwei Möglichkeiten, um sicherzustellen, dass dein System bei der Direktmontage an der Wand perfekt ausgerichtet ist:
 
-### 5.2 Montageanleitung: Baseplate-Montage (Option B)
+#### Methode 1: Verwendung der IT2-Bohrschablone (Empfohlen)
+Dies ist der einfachste und präziseste Weg, um deine Bohrlöcher zu positionieren.
+1. Richte die Mitte der Schablone an deiner markierten Bullseye-Höhe (1,73m) aus.
+2. Nivelliere die Schablone (Wasserwaage).
+3. Markiere die Bohrpositionen durch die dafür vorgesehenen Punkte auf der Schablone.
+    > 💡 **Tipp:** Um das Bohren zu minimieren und gleichzeitig perfekte Stabilität zu gewährleisten, empfehle ich, pro Arm nur **zwei diagonale Löcher** (z. B. oben-links und unten-rechts) anstatt aller vier zu verwenden.
+
+> 💡 **Tipp:** Wenn du die Ausrichtung der Kamera-Arme ändern möchtest (z. B. den Hauptarm links statt rechts positionieren), drehe die Schablone einfach um. Du kannst dann eine Wasserwaage an der Unterkante verwenden, um sie perfekt auszurichten.
+
+![drill_template](images/01_overview/drill_template.png)
+
+#### Methode 2: Manuelles Anzeichnen & Zeichnen
+Wenn du die Positionen lieber selbst ohne die 3D-gedruckte Schablone markieren möchtest, folge den Maßen in der untenstehenden technischen Zeichnung. Dies stellt den korrekten 120-Grad-Versatz und den Abstand zum Bullseye sicher.
+
+![manual_marking](images/01_overview/manual_marking.png)
+
+---
+
+### 6.2 Montageanleitung: Baseplate-Montage (Option B)
 *(Detaillierte Schritt-für-Schritt-Anweisungen für die Montage über die IT2 Baseplate folgen hier)*
 
 [Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ---
 
-## 6. Profi-Tipps & Fehlerbehebung
+## 7. Profi-Tipps & Fehlerbehebung
 
 Um das bestmögliche Erlebnis mit deinem IT2-System zu gewährleisten, befolge diese Profi-Tipps.
 
-### 6.1 Best Practices für die Montage
+### 7.1 Best Practices für die Montage
 Achte beim Festziehen der Schrauben darauf, diese nur **"handfest"** anzuziehen.
 *   Vermeide übermäßiges Festziehen, da dies die Schmelzeinsätze belasten kann.
 *   **Selbstschneidende Version:** Sei besonders vorsichtig bei der selbstschneidenden Version. Die Kunststoffgewinde können leicht überdrehen, was **irreversibel** ist, wenn zu viel Kraft angewendet wird.
 
-### 6.2 Verstecken des Winmau Plasma Stromkabels
+### 7.2 Verstecken des Winmau Plasma Stromkabels
 **Schritt 1:** ...
 **Schritt 2:** ...
 *(Anleitung folgt in Kürze)*
 
-### 6.3 Verstecken des Target Corona Stromkabels
+### 7.3 Verstecken des Target Corona Stromkabels
 **Schritt 1:** ...
 **Schritt 2:** ...
 *(Anleitung folgt in Kürze)*
@@ -261,7 +293,7 @@ Achte beim Festziehen der Schrauben darauf, diese nur **"handfest"** anzuziehen.
 
 ---
 
-## 7. Empfohlene Elektronik
+## 8. Empfohlene Elektronik
 
 | Teil-Name    | Typ                                    | Link       | Kommentar                                      |
 | ------------ | -------------------------------------- | ---------- | ---------------------------------------------- |
@@ -287,17 +319,17 @@ Achte beim Festziehen der Schrauben darauf, diese nur **"handfest"** anzuziehen.
 
 ---
 
-## 9. Lizenzierung & Community-Support
+## 10. Lizenzierung & Community-Support
 
 ### Kommerzielle Lizenz
 *   **Gewinnerzielungsabsicht:** Der Verkauf dieses Designs mit Gewinnabsicht erfordert eine aktive kommerzielle Lizenz, erhältlich über mein [Makerworld-Profil](https://makerworld.com/en/@HipsThor/). Verkäufe sind nur während eines aktiven Abonnements gestattet.
 
 ### Ausnahmen (Nicht-kommerziell)
 *   **Privat & Sozial:** Das Teilen mit Freunden, Familie oder deinem lokalen Dartclub (nur zu Materialkosten) ist ausdrücklich erwünscht und erfordert keine Lizenz. Ich freue mich über Feedback oder eine kleine Spende, wenn dir das Projekt gefällt.
-*   **Community-Unterstützung:** Das Drucken für Community-Mitglieder, die keinen eigenen Drucker besitzen (Materialkosten + kleine Bearbeitungsgebühr), ist erlaubt, **MUSS** aber transparent gehandhabt und vorher mit mir (**IteraThor**) on Discord besprochen werden.
+*   **Community-Unterstützung:** Das Drucken für Community-Mitglieder, die keinen eigenen Drucker besitzen (Materialkosten + kleine Bearbeitungsgebühr), ist erlaubt, **MUSS** behendelt transparent gehandhabt und vorher mit mir (**IteraThor**) on Discord besprochen werden.
 
 ---
 
-## 10. Unterstütze das Projekt
+## 11. Unterstütze das Projekt
 *   **Feedback:** Tritt dem Discord bei oder hinterlasse einen Kommentar auf Makerworld.
-*   **Spenden:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+*   **Donations:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
