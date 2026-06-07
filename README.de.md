@@ -1,7 +1,6 @@
 # IT2 - Autodarts Scoring System Handbuch
 
 [![Discord](https://img.shields.io/badge/Discord-Server%20beitreten-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/pZAjmwV5kE)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Projekt%20unterstützen-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iterathor)
 
 > 🌍 **Dieses Handbuch ist auch in anderen Sprachen verfügbar:** [English](README.md) | [Nederlands](README.nl.md)  
 > 🛠️ **Optionales Upgrade:** Suchst du die Montageplatte? [Hier geht es zum IT2 Baseplate Handbuch](BASEPLATE.de.md)
@@ -38,16 +37,13 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
     * [7.2 Verstecken des Winmau Plasma Stromkabels](#72-verstecken-des-winmau-plasma-stromkabels)
     * [7.3 Verstecken des Target Corona Stromkabels](#73-verstecken-des-target-corona-stromkabels)
 8. [Empfohlene Elektronik](#8-empfohlene-elektronik)
-9. [FAQ](#8-faq)
-10. [Lizenzierung & Community-Support](#9-lizenzierung--community-support)
-11. [Unterstütze das Projekt](#11-unterstütze-das-projekt)
+9. [FAQ](#9-faq)
+10. [Licensing & Community Support](#10-licensing--community-support)
 
 
 ---
 
 ## 1. Allgemeine Übersicht
-
-**Projekt Sirius** wurde mit einer klaren Vision entwickelt: der hellste Stern am Himmel zu sein. Es weist den Weg für ein Autodarts-System, das nicht nur mit bestehenden Lösungen gleichzieht, sondern in den Bereichen Ästhetik, Funktionen, Modularität und Benutzerfreundlichkeit deutlich besser sein will.
 
 ### Hauptmerkmale
 *   **Schlankes Design** - Der bisher schmalste 3D-gedruckte LED-Lichtring (Stand 2026).
@@ -67,8 +63,8 @@ Willkommen beim offiziellen Handbuch für das IT2 Autodarts Scoring System. Dies
 
 ### 2.1 Hardware (Erforderlich)
 
-| Teil-Name           | Typ                       | Menge | Link                 | Kommentar                                                                                                |
-| ------------------- | ------------------------- | ----- | -------------------- | -------------------------------------------------------------------------------------------------------- |
+| Teil-Name           | Typ                       | Menge | Link | Kommentar                                                                                                |
+| ------------------- | ------------------------- | ----- | ---- | -------------------------------------------------------------------------------------------------------- |
 | Zylinderschrauben   | M4x10mm (ISO4762/DIN912)  | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Erforderlich für den Großteil der Montage.                                                               |
 | Zylinderschrauben   | M2x6mm (ISO4762/DIN912)   | 6     | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Kameraschrauben.                                                                                         |
 | M4 Schmelzeinsätze ⚠️ | 6,3mm AD (max 9mm lang)   | 12    | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | 6mm AD passt auch. <br><br>⚠️ **Nur für die Heat-Insert-Druckversion erforderlich.**                     |
@@ -115,7 +111,7 @@ Befestige die Kamera-Platine mit zwei **M2 Schrauben**.
 
 **3. Lens Hood & Verschluss**  
 Drehe die Lens Hood im Uhrzeigersinn in den Kameradeckel (Twist-Lock) und klicke den Deckel anschließend auf den Kopf.
-> **Tipp:** Wähle zwischen den zwei verschiedenen Lens-Hood-Designs, die im Druckprofil enthalten sind.
+> **Tip:** Wähle zwischen den zwei verschiedenen Lens-Hood-Designs, die im Druckprofil enthalten sind.
 
 ![lens_hood](images/03_general/04_lens_hood.png)
 
@@ -225,20 +221,14 @@ Bevor du dein System montierst, musst du dich für die Ausrichtung deiner Kamera
 Das IT2-System bietet zwei Hauptinstallationswege, je nach deinen Anforderungen an Ästhetik, Montageaufwand und Wandschutz.
 
 ### Option A: Direktmontage
-In dieser Konfiguration wird das IT2-System direkt an der Wand montiert. Dies erfordert das Bohren von **6 Löchern** für die Arme sowie **2 weitere Löcher** für die Dartboard-Aufhängung (falls noch nicht vorhanden).
+In dieser Konfiguration wird das IT2-System direkt an der Wand montiert. Dies erfordert das Bohren von **6 Löchern** für die Arme sowie **2 weitere Löcher für die Dartboard-Aufhängung** (falls noch nicht vorhanden).
 *   **Vorteile:** Weniger Teile zum Zusammenbauen; minimaler Platzbedarf; das System sitzt bündig an der Wand.
-*   **Nachteile:** Erfordert mehr Bohrpunkte in der Wand; die Positionen für die Beine müssen manuell durch Messen, Anzeichnen oder eine Bohrschablone ermittelt werden.
+*   **Nadeln:** Erfordert mehr Bohrpunkte in der Wand; die Positionen für die Beine müssen manuell durch Messen, Anzeichnen oder eine Bohrschablone ermittelt werden.
 
 ### Option B: IT2 Baseplate
-Die **[IT2 Baseplate](BASEPLATE.de.md)** ist eine optionale Einheit, die den Installationsprozess vereinfacht und zusätzliche Funktionen bietet.
+Die **[IT2 Baseplate](BASEPLATE.de.md)** ist eine optionale Einheit, die den Installationsprozess vereinfacht und zusätzliche Funktionen wie Schallschutz und native Ständer-Kompatibilität bietet.
 
-*   **Vorteile:**
-    *   **Einfache Installation:** Zentriere die Platte auf dem Bullseye und montiere sie waagerecht; das komplette Setup wird dann mit nur drei Wandschrauben an der Platte befestigt.
-    *   **Wandschutz:** Erfordert nur **3 Löcher**, die in die Wand gebohrt werden müssen.
-    *   **Schallschutz:** Verfügt über ein integriertes, optionales Schallschutzsystem.
-    *   **Ständer-Kompatibilität:** Kann standardmäßig auf einem Dartständer installiert werden (z. B. Winmau Xtreme Dartboard Stand 2).
-*   **Nachteile:**
-    *   **Wandabstand:** Die Basisplatte fügt ca. **30mm Tiefe** hinzu. Du solltest den Abstand deiner Oche (Abwurflinie) um 30mm anpassen, um die offiziellen Maße einzuhalten.
+Detaillierte Schritt-für-Schritt-Anweisungen zur Montage und Ausrichtung der Baseplate findest du im **[IT2 Baseplate Handbuch](BASEPLATE.de.md)**.
 
 ---
 
@@ -247,7 +237,7 @@ Es gibt zwei Möglichkeiten, um sicherzustellen, dass dein System bei der Direkt
 
 #### Methode 1: Verwendung der IT2-Bohrschablone (Empfohlen)
 Dies ist der einfachste und präziseste Weg, um deine Bohrlöcher zu positionieren.
-1. Richte die Mitte der Schablone an deiner markierten Bullseye-Höhe (1,73m) aus.
+1. Richte die Mitte der Schablone an deiner markierten Bullseye-Höhe (1.73m) aus.
 2. Nivelliere die Schablone (Wasserwaage).
 3. Markiere die Bohrpositionen durch die dafür vorgesehenen Punkte auf der Schablone.
     > 💡 **Tipp:** Um das Bohren zu minimieren und gleichzeitig perfekte Stabilität zu gewährleisten, empfehle ich, pro Arm nur **zwei diagonale Löcher** (z. B. oben-links und unten-rechts) anstatt aller vier zu verwenden.
@@ -264,7 +254,7 @@ Wenn du die Positionen lieber selbst ohne die 3D-gedruckte Schablone markieren m
 ---
 
 ### 6.2 Montageanleitung: Baseplate-Montage (Option B)
-*(Detaillierte Schritt-für-Schritt-Anweisungen für die Montage über die IT2 Baseplate folgen hier)*
+Bitte folge den detaillierten Anweisungen zur Wandmontage und Ausrichtung im **[IT2 Baseplate Handbuch](BASEPLATE.de.md)**.
 
 [Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
@@ -295,24 +285,24 @@ Achte beim Festziehen der Schrauben darauf, diese nur **"handfest"** anzuziehen.
 
 ## 8. Empfohlene Elektronik
 
-| Teil-Name    | Typ                                    | Link       | Kommentar                                      |
-| ------------ | -------------------------------------- | ---------- | ---------------------------------------------- |
+| Teil-Name    | Typ                                    | Link | Kommentar                                      |
+| ------------ | -------------------------------------- | ---- | ---------------------------------------------- |
 | Kameras      | HBV OV2710                             | [Aliexpress](https://s.click.aliexpress.com/e/_c4bziy33) | Beste Preis-Leistungs-Kameras.                 |
 | LED-Streifen | Auxmer 12V 9.6W LED-Streifen           | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | Mein Favorit. Beste Farbwiedergabe.            |
 | Netzteil     | 12V 3A Netzadapter                     | [Aliexpress](https://s.click.aliexpress.com/e/_c2IYxq1R) | Erforderlich für den DIY LED-Streifen.         |
 | DC-Anschluss | 2.1mm DC-Hohlbuchse                    | [Aliexpress](https://s.click.aliexpress.com/e/_c3L2uy4H) | Zum Anschluss der Stromversorgung an die LEDs. |
-| PC           | Dell Wyse 5070 ≥4GB RAM ≥ 16GB Storage   |                                                          | Mein Favorit. Gutes Preis-Leistungs-Verhältnis. |
+| PC           | Dell Wyse 5070 ≥4GB RAM ≥ 16GB Storage   |      | Mein Favorit. Gutes Preis-Leistungs-Verhältnis. |
 | Touchscreen  | Anmite 16" Touchscreen                 | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | Mein Favorit. Gutes Preis-Leistungs-Verhältnis. |
 
 ---
 
-## 8. FAQ
+## 9. FAQ
 
 ### F: Welche Kameras sollte ich wählen?
 **A:** Der klare Preis-Leistungs-Sieger ist die **HBV OV2710**. Investitionen in teurere Kameras mit höherer Auflösung sind unnötig, da Autodarts in der Auflösung begrenzt ist. Während die **OV9732** eine günstigere Alternative ist, erfordert sie eine deutlich bessere Beleuchtung; daher empfehle ich ausschließlich die OV2710 wegen ihrer überlegenen Handhabung verschiedener Lichtverhältnisse.
 
 ### F: Welchen LED-Streifen sollte ich nehmen?
-**A:** Vermeide USB-Lichtstreifen. Der Community-Standard sind **6000K COB-LEDs** (12V oder 24V). Meine persönliche Empfehlung ist der **Auxmer 120 LEDs/m (9.6W, CRI90)**; in meinen Tests hat er sogar den Winmau Plasma übertroffen. Wenn du ein begrenztes Budget hast, funktioniert jeder 6000K-Streifen mit etwa 10W pro Meter, vorausgesetzt, er ist hell genug.
+**A:** Vermeide USB-Lichtstreifen. Der Community-Standard sind **6000K COB-LEDs** (12V oder 24V). Meine persönliche Empfehlung ist der **Auxmer 120 LEDs/m (9.6W, CRI90)**; in meinen Tests hat er sogar den Winmau Plasma übertroffen. Wenn du ein begrenztes Budget hast, funktioniert jeder 6000K-Streifen mit etwa 10W pro meter, vorausgesetzt, er ist hell genug.
 
 ### F: Sollte ich einen Raspberry Pi oder einen Mini-PC verwenden?
 **A:** Sofern du nicht bereits einen Raspberry Pi besitzt, empfehle ich den Kauf eines generalüberholten Mini-PCs. Diese sind oft günstiger (ab 50 €) und bieten eine bessere Leistung sowie Touchscreen-Unterstützung. Mein persönlicher Favorit ist der **Dell Wyse 5070** (4 GB RAM, 16 GB Speicher), der weit verbreitet generalüberholt erhältlich ist und die Autodarts-Software perfekt bewältigt.
@@ -320,16 +310,4 @@ Achte beim Festziehen der Schrauben darauf, diese nur **"handfest"** anzuziehen.
 ---
 
 ## 10. Lizenzierung & Community-Support
-
-### Kommerzielle Lizenz
-*   **Gewinnerzielungsabsicht:** Der Verkauf dieses Designs mit Gewinnabsicht erfordert eine aktive kommerzielle Lizenz, erhältlich über mein [Makerworld-Profil](https://makerworld.com/en/@HipsThor/). Verkäufe sind nur während eines aktiven Abonnements gestattet.
-
-### Ausnahmen (Nicht-kommerziell)
-*   **Privat & Sozial:** Das Teilen mit Freunden, Familie oder deinem lokalen Dartclub (nur zu Materialkosten) ist ausdrücklich erwünscht und erfordert keine Lizenz. Ich freue mich über Feedback oder eine kleine Spende, wenn dir das Projekt gefällt.
-*   **Community-Unterstützung:** Das Drucken für Community-Mitglieder, die keinen eigenen Drucker besitzen (Materialkosten + kleine Bearbeitungsgebühr), ist erlaubt, **MUSS** behendelt transparent gehandhabt und vorher mit mir (**IteraThor**) on Discord besprochen werden.
-
----
-
-## 11. Unterstütze das Projekt
-*   **Feedback:** Tritt dem Discord bei oder hinterlasse einen Kommentar auf Makerworld.
-*   **Donations:** Unterstütze die Entwicklung hier: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+IT2 wird unter einer benutzerdefinierten Lizenz bereitgestellt. Informationen zur kommerziellen Nutzung, zum privaten Teilen und zum Community-Support findest du in der Datei **[LICENSE.md](LICENSE.md)**.

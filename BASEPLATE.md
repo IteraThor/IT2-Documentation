@@ -1,7 +1,6 @@
 # IT2 Baseplate - Installation & Assembly Guide
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20My%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/pZAjmwV5kE)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Project-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iterathor)
 
 > 🛠️ **Main Manual:** Looking for the camera system instructions? [View the IT2 System Manual](README.md)
 >
@@ -27,7 +26,7 @@ The **IT2 Baseplate** is a mounting solution for the IT2 Autodarts system. It is
     * [4.2 Mounting Instructions: Dartboard Stand (Option B)](#42-mounting-instructions-dartboard-stand-option-b)
 5. [Pro Tips: Advanced Features & Addons](#5-pro-tips-advanced-features--addons)
     * [5.1 Noise Dampening](#51-noise-dampening)
-    * [5.2 RGB LED Ring Expansion & Camera Shroud](#52-rgb-led-ring-expansion--camera-shroud)
+    * [5.2 RGB LED Ring Expansion & Camera Shroud](#52-rgb-ring-expansion--camera-shroud)
     * [5.3 Upcoming Features (Work in Progress)](#53-upcoming-features-work-in-progress)
 
 ---
@@ -47,11 +46,11 @@ While the IT2 system can be mounted directly to the wall, the Baseplate offers s
 
 The Baseplate is designed to use the same hardware as the rest of the IT2 system to keep things simple.
 
-| Part Name          | Type                    | Wall Qty | Stand Qty | Link                                                                                             | Comment                                             |
-| ------------------ | ----------------------- | -------- | --------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
+| Part Name          | Type                    | Wall Qty | Stand Qty | Link | Comment                                             |
+| ------------------ | ----------------------- | -------- | --------- | ---- | --------------------------------------------------- |
 | Cylindrical Screws | M4x10mm (ISO4762/DIN912) | 8        | 8         | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | For baseplate assembly and IT2 mounting.            |
-| M6 Heat Inserts    | M6 (8mm OD)             | 3        | 7         | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)                                         | **Mandatory** for Rota Locks.                       |
-| M4 Heat Inserts ⚠️ | 6.3mm OD (max 9mm long) | 8-16     | 8-16      | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | 6mm OD also fits. ⚠️ **Only for Heat Insert version.** |
+| M6 Heat Inserts    | M6 (8mm OD)             | 3        | 7         | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD) | **Mandatory** for Rota Locks.                       |
+| M4 Heat Inserts ⚠️ | 6.3mm OD (max 9mm long)  | 8-16     | 8-16      | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | 6mm OD also fits. ⚠️ **Only for Heat Insert version.** |
 
 > 💡 **Wall Mounting Tip:** For wall installation, we recommend using **3x 4mm wood screws** of sufficient length (typical setup: 6mm wall plugs with 30-40mm screws).
 
@@ -60,8 +59,6 @@ The Baseplate is designed to use the same hardware as the rest of the IT2 system
 ---
 
 ## 3. General Assembly: Baseplate & System
-
-![baseplate_assembly](images/05_baseplate/01_baseplate_assembly.png)
 
 ### 3.1 Step 1: Installing Heat Inserts
 
@@ -85,8 +82,6 @@ The three mounting arms are joined to the center point using a simple **face-to-
 1. Align the mounting arms with the center point.
 2. Secure each arm using the provided screw points.
 
-![baseplate_joining](images/05_baseplate/06_baseplate_joining.png)
-
 ### 3.3 Step 3: Attaching the IT2 System
 It is highly recommended to attach your assembled IT2 scoring system to the baseplate before mounting it to the wall or stand. However, you can also perform this step afterwards if preferred.
 1.  Place your assembled IT2 system (the three camera arms connected to the ring) onto the baseplate.
@@ -100,24 +95,20 @@ It is highly recommended to attach your assembled IT2 scoring system to the base
 The IT2 Baseplate can be mounted either directly to a wall or onto a mobile dartboard stand. Choose the section below that fits your setup.
 
 ### 4.1 Mounting Instructions: Wall Mounting (Option A)
-This method is ideal for permanent setups and requires only 3 holes to be drilled.
+Installing the IT2 Baseplate to the wall is simple and precise. 
 
 1.  **Find the Bullseye:** Measure and mark the official bullseye height (**1.73m**) on your wall.
-2.  **Positioning:** Use the center hole of the baseplate to align with your mark. Secure it with a screw if needed or mark the spot.
-3.  **Leveling:** Use a spirit level on one of the horizontally facing arms. 
-    > 💡 **Recommendation:** For a standard setup, we recommend orienting the baseplate so that one arm faces either **3 o'clock or 9 o'clock**.
-    > ⚠️ **Exception:** If you are building a **low-ceiling** or **dartboard stand** setup, it is perfectly fine to have an arm facing **6 o'clock**.
-    > 💡 **Note:** You can also level it roughly by eye. For Autodarts scoring recognition, it does not matter if the system is not perfectly level.
-4.  **Securing:** Screw the baseplate to the wall using the holes shown in the image below.
+2.  **Positioning:** Align the center hole of the baseplate with your mark. If possible, you can already use a screw for the center point - this allows you to freely rotate the baseplate for perfect alignment.
+3.  **Alignment:** Use the "LR" indicators on the arms to position one of the arms in the direction of either the **11 segment** (Left) or the **9 segment** (Right). 
+4.  **Leveling:** Finally, use a spirit level on the outer edge to level the baseplate.
+5.  **Securing:** Secure the assembly using the remaining wall screws through the holes shown in the image below.
 
-![baseplate_mounting_holes](images/05_baseplate/07_baseplate_mounting_holes.png)
-
-![baseplate_wall_mounting](images/05_baseplate/02_baseplate_wall_mounting.png)
+![baseplate_mounting_steps](images/05_baseplate/08_mounting_steps.png)
 
 > ⚠️ **Important:** The baseplate adds **30mm of depth** to your setup. You **MUST** move your oche (throw line) back by 30mm to maintain official tournament distances.
 
 ### 4.2 Mounting Instructions: Dartboard Stand (Option B)
-This method allows for a fully mobile setup. The IT2 Baseplate features a universal pattern designed to fit professional stands without modifications.
+This method allows for a fully mobile setup. The IT2 Baseplate features a mounting pattern explicitly designed to fit the **Winmau Xtreme Dartboard Stand 2** without modifications.
 
 1.  **Alignment:** Align the baseplate mounting holes with the brackets of your stand.
 2.  **Securing:** Use the hardware provided with your stand or M6 screws to secure the baseplate.
@@ -131,8 +122,6 @@ The IT2 Baseplate system supports several modular addons to extend its functiona
 
 ### 5.1 Noise Dampening (Optional Addon)
 The back of the baseplate segments features **circular threaded recesses** designed for 3D-printed TPU dampeners. These inserts do not make the scoring system quieter for the player, but they effectively prevent vibrations and noise from being transmitted through the wall to other rooms.
-
-![baseplate_features](images/05_baseplate/03_baseplate_features.png)
 
 #### Installation & Wall Mounting with Dampeners:
 If you choose to use the TPU dampeners, the wall mounting process changes:

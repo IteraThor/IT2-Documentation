@@ -5,7 +5,7 @@ This guide provides the recommended 3D printing settings and orientations for al
 > 💡 **Using Makerworld .3mf files?** If you are using the official print profiles on Makerworld, these settings and orientations are already pre-configured. You can skip this guide and proceed directly to assembly.
 >
 > ---
-> *Note: As a solo designer managing this entire project, I use AI assistance to help with the extensive documentation. Some parts may contain AI-generated errors or misunderstandings. Until I have the time to fully review and refine every section, please stay attentive and reach out on Discord if you encounter any issues.*
+> *Note: Since I'm managing this project on my own, I use AI to help with the repetitive parts of the documentation - mostly for managing hyperlinks and fine-tuning the wording. I'm currently focused on getting all the technical content out there so you can start building as soon as possible. I'll be doing a full proofread and "ironing out" the phrasing later, but if you spot anything confusing in the meantime, please let me know on Discord!*
 
 ---
 

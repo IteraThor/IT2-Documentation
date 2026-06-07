@@ -1,7 +1,6 @@
 # IT2 Baseplate - Montage- & Installationsanleitung
 
 [![Discord](https://img.shields.io/badge/Discord-Tritt%20meinem%20Server%20bei-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/pZAjmwV5kE)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Unterst%C3%BCtze%20das%20Projekt-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iterathor)
 
 > 🛠️ **Hauptanleitung:** Suchst du die Anleitung für das Kamerasystem? [Hier geht es zum IT2 System Manual](README.de.md)
 >
@@ -16,17 +15,17 @@ Die **IT2 Baseplate** ist eine Montagelösung für das IT2 Autodarts-System. Sie
 
 ---
 ## Inhaltsverzeichnis
-1. [Allgemeine Übersicht: Die IT2 Baseplate](#1-allgemeine-%C3%BCbersicht-die-it2-baseplate)
-2. [Was du benötigst](#2-was-du-ben%C3%B6tigst)
+1. [Allgemeine Übersicht: Die IT2 Baseplate](#1-allgemeine-ubersicht-die-it2-baseplate)
+2. [Was du benötigst](#2-was-du-benotigst)
 3. [Allgemeine Montage: Baseplate-Segmente](#3-allgemeine-montage-baseplate-segmente)
-    * [3.1 Schritt 1: Installation der Schmelzeinsätze](#31-schritt-1-installation-der-schmelzeins%C3%A4tze)
+    * [3.1 Schritt 1: Installation der Schmelzeinsätze](#31-schritt-1-installation-der-schmelzeinsatze)
     * [3.2 Schritt 2: Verbinden der Segmente](#32-schritt-2-verbinden-der-segmente)
     * [3.3 Schritt 3: Befestigen des IT2-Systems](#33-schritt-3-befestigen-des-it2-systems)
 4. [Letzter Schritt: Installation & Montage](#4-letzter-schritt-installation--montage)
     * [4.1 Montageanleitung: Wandmontage (Option A)](#41-montageanleitung-wandmontage-option-a)
-    * [4.2 Montageanleitung: Dartboard-Ständer (Option B)](#42-montageanleitung-dartboard-st%C3%A4nder-option-b)
+    * [4.2 Montageanleitung: Dartboard-Ständer (Option B)](#42-montageanleitung-dartboard-stander-option-b)
 5. [Pro-Tipps: Erweiterte Funktionen & Addons](#5-pro-tipps-erweiterte-funktionen--addons)
-    * [5.1 Schalldämmung](#51-schalld%C3%A4mmung)
+    * [5.1 Schalldämmung](#51-schalldammung)
     * [5.2 RGB-Ring-Erweiterung & Kamera-Blende](#52-rgb-ring-erweiterung--kamera-blende)
     * [5.3 Kommende Funktionen (In Arbeit)](#53-kommende-funktionen-in-arbeit)
 
@@ -47,11 +46,11 @@ Obwohl das IT2-System direkt an der Wand montiert werden kann, bietet die Basepl
 
 Die Baseplate nutzt die gleiche Hardware wie das restliche IT2-System, um alles einfach zu halten.
 
-| Name               | Typ                     | Wand Qty | Ständer Qty | Link | Kommentar                                           |
+| Name | Typ | Wand Qty | Ständer Qty | Link | Kommentar |
 | ------------------ | ----------------------- | -------- | ----------- | ---- | --------------------------------------------------- |
-| Zylinderschrauben  | M4x10mm (ISO4762/DIN912) | 8        | 8           | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Für Montage und IT2-Befestigung.                    |
-| M6 Schmelzeinsätze | M6 (8mm OD)             | 3        | 7           | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD) | **Pflicht** für Rota Locks.                         |
-| M4 Schmelzeinsätze ⚠️ | 6.3mm OD (max 9mm lang) | 8-16     | 8-16        | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | 6mm OD passt auch. ⚠️ **Nur für Schmelzeinsatz-Version.** |
+| Zylinderschrauben | M4x10mm (ISO4762/DIN912) | 8 | 8 | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Für Montage und IT2-Befestigung. |
+| M6 Schmelzeinsätze | M6 (8mm OD) | 3 | 7 | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD) | **Pflicht** für Rota Locks. |
+| M4 Schmelzeinsätze ⚠️ | 6.3mm OD (max 9mm lang) | 8-16 | 8-16 | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | 6mm OD passt auch. ⚠️ **Nur für Schmelzeinsatz-Version.** |
 
 > 💡 **Tipp zur Wandmontage:** Für die Wandinstallation empfehlen wir **3x 4mm Holzschrauben** in ausreichender Länge (typisches Setup: 6mm Dübel mit 30-40mm Schrauben).
 
@@ -60,8 +59,6 @@ Die Baseplate nutzt die gleiche Hardware wie das restliche IT2-System, um alles 
 ---
 
 ## 3. Allgemeine Montage: Baseplate-Segmente
-
-![baseplate_assembly](images/05_baseplate/01_baseplate_assembly.png)
 
 ### 3.1 Schritt 1: Installation der Schmelzeinsätze
 
@@ -85,8 +82,6 @@ Die drei Montagearme werden über eine einfache **Face-to-Face Schraubverbindung
 1. Richte die Montagearme am Mittelstück aus.
 2. Befestige jeden Arm an den vorgesehenen Schraubpunkten.
 
-![baseplate_joining](images/05_baseplate/06_baseplate_joining.png)
-
 ### 3.3 Schritt 3: Befestigen des IT2-Systems
 Es wird dringend empfohlen, dein fertig montiertes IT2-System an der Baseplate zu befestigen, bevor du diese an der Wand oder dem Ständer montierst. Du kannst diesen Schritt jedoch auch später durchführen.
 1. Platziere dein IT2-System (die drei mit dem Ring verbundenen Kameraarme) auf der Baseplate.
@@ -100,24 +95,20 @@ Es wird dringend empfohlen, dein fertig montiertes IT2-System an der Baseplate z
 Die IT2 Baseplate kann entweder direkt an einer Wand oder an einem mobilen Dartboard-Ständer montiert werden. Wähle den Abschnitt, der zu deinem Setup passt.
 
 ### 4.1 Montageanleitung: Wandmontage (Option A)
-Diese Methode ist ideal für dauerhafte Setups und erfordert nur 3 Bohrlöcher.
+Die Montage der IT2 Baseplate an der Wand ist einfach und präzise.
 
-1.  **Bullseye finden:** Miss und markiere die offizielle Bullseye-Höhe (**1,73m**) an deiner Wand.
-2.  **Positionierung:** Nutze das Mittelloch der Baseplate, um sie an deiner Markierung auszurichten. Fixiere sie bei Bedarf mit einer Schraube oder markiere die Stelle.
-3.  **Nivellierung:** Nutze eine Wasserwaage an einem der horizontal ausgerichteten Arme.
-    > 💡 **Empfehlung:** Für ein Standard-Setup empfehlen wir, die Baseplate so auszurichten, dass ein Arm entweder auf **3 Uhr oder 9 Uhr** zeigt.
-    > ⚠️ **Ausnahme:** Wenn du ein **Low-Ceiling-** oder **Dartständer-Setup** baust, ist es völlig in Ordnung, wenn ein Arm auf **6 Uhr** zeigt.
-    > 💡 **Hinweis:** Du kannst sie auch grob nach Augenmaß ausrichten. Für die Autodarts-Erkennung spielt es keine Rolle, wenn das System nicht perfekt im Lot ist.
-4.  **Befestigung:** Schraube die Baseplate an den im Bild unten gezeigten Stellen an der Wand fest.
+1.  **Bullseye finden:** Miss und markiere die offizielle Bullseye-Höhe (**1,73 m**) an deiner Wand.
+2.  **Positionierung:** Richte das Mittelloch der Baseplate an deiner Markierung aus. Falls möglich, kannst du den Mittelpunkt direkt mit einer Schraube befestigen - so lässt sich die Baseplate für eine perfekte Ausrichtung frei drehen.
+3.  **Ausrichtung:** Nutze die „LR“-Markierungen an den Armen, um einen der Arme entweder in Richtung des **11er-Segments** (Links) oder des **9er-Segments** (Rechts) zu positionieren.
+4.  **Nivellierung:** Verwende abschließend eine Wasserwaage an der Außenkante, um die Baseplate exakt zu nivellieren.
+5.  **Befestigung:** Schraube die Baseplate an den im Bild unten gezeigten Stellen an der Wand fest.
 
-![baseplate_mounting_holes](images/05_baseplate/07_baseplate_mounting_holes.png)
-
-![baseplate_wall_mounting](images/05_baseplate/02_baseplate_wall_mounting.png)
+![baseplate_mounting_steps](images/05_baseplate/08_mounting_steps.png)
 
 > ⚠️ **Wichtig:** Die Baseplate fügt deinem Setup **30mm Tiefe** hinzu. Du **MUSST** dein Oche (Abwurflinie) um 30mm nach hinten verschieben, um die offiziellen Turnierspiel-Distanzen einzuhalten.
 
 ### 4.2 Montageanleitung: Dartboard-Ständer (Option B)
-Diese Methode ermöglicht ein voll mobiles Setup. Die IT2 Baseplate verfügt über ein universelles Lochmuster, das ohne Modifikationen auf gängige Ständer passt.
+Diese Methode ermöglicht ein voll mobiles Setup. Die IT2 Baseplate verfügt über ein Lochmuster, das explizit und ohne Modifikationen auf den **Winmau Xtreme Dartboard Stand 2** passt.
 
 1.  **Ausrichtung:** Richte die Montagelöcher der Baseplate an den Halterungen deines Ständers aus.
 2.  **Befestigung:** Nutze die mit deinem Ständer gelieferte Hardware oder M6-Schrauben, um die Baseplate zu fixieren.
@@ -132,8 +123,6 @@ Das IT2 Baseplate-System unterstützt mehrere modulare Addons zur Funktionserwei
 ### 5.1 Schalldämmung (Optionales Addon)
 Die Rückseite der Baseplate-Segmente verfügt über **kreisförmige Gewinde-Aussparungen** für 3D-gedruckte TPU-Dämpfer. Diese Einsätze machen das System für den Spieler nicht leiser, aber sie verhindern effektiv, dass Vibrationen und Geräusche durch die Wand in andere Räume übertragen werden.
 
-![baseplate_features](images/05_baseplate/03_baseplate_features.png)
-
 #### Installation & Wandmontage mit Dämpfern:
 Wenn du dich für die Nutzung der TPU-Dämpfer entscheidest, ändert sich der Vorgang der Wandmontage:
 
@@ -147,7 +136,7 @@ Wenn du dich für die Nutzung der TPU-Dämpfer entscheidest, ändert sich der Vo
 Eine kommende Mehrzweck-Erweiterung für Ambiente-Beleuchtung und Erkennungszuverlässigkeit:
 *   **RGB-LED-Support:** Ermöglicht die Montage zusätzlicher RGB-LED-Streifen um den Außenrand des Lichtrings für eigene visuelle Effekte.
 *   **Erkennungs-Blende (Shroud):** Die Erweiterung fungiert auch als Blende, die das System umschließt. Dies verhindert, dass die Kameras Hintergrundbewegungen erfassen, was die Pfeilerkennung erheblich verbessert.
-*   **💡 Empfehlung:** Diese Blende wird dringend für **mobile Ständer-Setups** empfohlen, bei denen ein statischer Hintergrund nicht immer garantiert werden kann.
+*   **💡 Empfehlung:** Diese Blende wird dringend für **mobile Ständer-Setups** empfohlen, bei denen ein statische Hintergrund nicht immer garantiert werden kann.
 
 ### 5.3 Kommende Funktionen (In Arbeit)
 Folgende Funktionen befinden sich derzeit in der Entwicklung:

@@ -1,7 +1,6 @@
 # IT2 Baseplate - Montage- & Installatiehandleiding
 
 [![Discord](https://img.shields.io/badge/Discord-Word%20lid%20van%20mijn%20server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/pZAjmwV5kE)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Ondersteun%20het%20project-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iterathor)
 
 > 🛠️ **Hoofdhandleiding:** Op zoek naar de instructies voor het camerasysteem? [Bekijk de IT2 Systeemhandleiding](README.nl.md)
 >
@@ -24,7 +23,7 @@ De **IT2 Baseplate** is een montageoplossing voor het IT2 Autodarts-systeem. Het
     * [3.3 Stap 3: Het IT2-systeem bevestigen](#33-stap-3-het-it2-systeem-bevestigen)
 4. [Laatste Stap: Installatie & Montage](#4-laatste-stap-installatie--montage)
     * [4.1 Montage-instructies: Wandmontage (Optie A)](#41-montage-instructies-wandmontage-optie-a)
-    * [4.2 Montage-instructies: Dartbordstandaard (Optie B)](#42-montage-instructies-dartbordstandaard-optie-b)
+    * [4.2 Montage-instructies: Dartbordstandaard (Option B)](#42-montage-instructies-dartbordstandaard-option-b)
 5. [Pro Tips: Geavanceerde Functies & Add-ons](#5-pro-tips-geavanceerde-functies--add-ons)
     * [5.1 Geluidsdemping](#51-geluidsdemping)
     * [5.2 RGB Ring Uitbreiding & Camera Shroud](#52-rgb-ring-uitbreiding--camera-shroud)
@@ -43,15 +42,15 @@ Hoewel het IT2-systeem direct aan de muur kan worden gemonteerd, biedt de Basepl
 
 ---
 
-## 2. Wat je nodig hebt
+## 2. What je nodig hebt
 
 De Baseplate is ontworpen om dezelfde hardware te gebruiken als de rest van het IT2-systeem om alles eenvoudig te houden.
 
-| Onderdeel          | Type                     | Wand Qty | Stand Qty | Link | Opmerking                                           |
+| Onderdeel | Type | Wand Qty | Stand Qty | Link | Opmerking |
 | ------------------ | ------------------------ | -------- | --------- | ---- | --------------------------------------------------- |
-| Cilinderschroeven  | M4x10mm (ISO4762/DIN912) | 8        | 8         | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.nl](https://amzn.to/49r8kCE) | Voor montage en IT2-bevestiging.                    |
-| M6 Heat Inserts    | M6 (8mm OD)              | 3        | 7         | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD) | **Verplicht** voor Rota Locks.                      |
-| M4 Heat Inserts ⚠️ | 6.3mm OD (max 9mm lang)  | 8-16     | 8-16      | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.nl](https://amzn.to/4wZr2uZ) | 6mm OD past ook. ⚠️ **Alleen voor Heat Insert versie.** |
+| Cilinderschroeven | M4x10mm (ISO4762/DIN912) | 8 | 8 | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.nl](https://amzn.to/49r8kCE) | Voor montage en IT2-bevestiging. |
+| M6 Heat Inserts | M6 (8mm OD) | 3 | 7 | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD) | **Verplicht** voor Rota Locks. |
+| M4 Heat Inserts ⚠️ | 6.3mm OD (max 9mm long) | 8-16 | 8-16 | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.nl](https://amzn.to/4wZr2uZ) | 6mm OD past ook. ⚠️ **Alleen voor Heat Insert versie.** |
 
 > 💡 **Wandmontage Tip:** Voor wandinstallatie raden we het gebruik van **3x 4mm houtschroeven** aan met voldoende lengte (typische opstelling: 6mm pluggen met 30-40mm schroeven).
 
@@ -61,11 +60,9 @@ De Baseplate is ontworpen om dezelfde hardware te gebruiken als de rest van het 
 
 ## 3. Algemene Montage: Baseplate Segmenten
 
-![baseplate_assembly](images/05_baseplate/01_baseplate_assembly.png)
-
 ### 3.1 Stap 1: Heat Inserts installeren
 
-> 💡 **Belangrijk:** Hoewel er een "Self-Tapping" versie van de baseplate beschikbaar is, geldt dit alleen voor de M4-bevestigingspunten. De **M6 heat inserts** voor de Rota Locks zijn **altijd verplicht** voor alle versies, omdat deze onderdelen vaak worden afgesteld en de duurzaamheid van een metalen schroefdraad nodig hebben.
+> 💡 **Belangrijk:** Hoewel er een "Self-Tapping" versie van de baseplate beschikbaar is, geldt dit alleen voor de M4-bevestigingspunten. De **M6 heat inserts** voor the Rota Locks are **altijd verplicht** voor alle versies, omdat deze onderdelen vaak worden afgesteld en de duurzaamheid van een metalen schroefdraad nodig hebben.
 
 Als je de **Heat Insert versie** gebruikt, smelt dan de M4 inserts in de daarvoor bestemde gaten aan de uiteinden van de drie montagearmen.
 
@@ -81,14 +78,12 @@ Als je de **Heat Insert versie** gebruikt, smelt dan de M4 inserts in de daarvoo
 > ⚠️ **Oriëntatie:** De foto's tonen de **standaard uitlijning**. Als je bouwt voor een dartstandaard of laag plafond, zorg er dan voor dat je de armen correct oriënteert (met gebruik van de alternatieve montagegaten).
 
 ### 3.2 Stap 2: De segmenten verbinden
-De drie montagearmen worden verbonden met het middelpunt via een eenvoudige **face-to-face schroefverbinding**.
+De drie montagearmen worden verbonden met het middelpunt via een eenvoudige **face-to-face schroeverbinding**.
 1. Lijn de montagearmen uit met het middelpunt.
-2. Bevestig elke arm met de meegeleverde schroefpunten.
-
-![baseplate_joining](images/05_baseplate/06_baseplate_joining.png)
+2. Bevestig elke arm mit de meegeleverde schroefpunten.
 
 ### 3.3 Stap 3: Het IT2-systeem bevestigen
-Het wordt ten zeerste aanbevolen om je gemonteerde IT2-scoreingssysteem aan de baseplate te bevestigen voordat je deze aan de muur of standaard monteert. Je kunt deze stap echter ook achteraf uitvoeren indien gewenst.
+Het wordt ten zeerste aanbevolen om je gemonteerde IT2-scoreingssysteem aan de baseplate te bevestigen voordat je deze aan de muur of standaard monteert. Je kunt deze stap echter auch achteraf uitvoeren indien gewenst.
 1. Plaats je gemonteerde IT2-systeem (de drie camera-armen verbonden met de ring) op de baseplate.
 2. Lijn de poten van de camera-armen uit met de bevestigingspunten op de baseplate-armen.
 3. Zet het systeem vast met **drie M4-schroeven**.
@@ -100,24 +95,20 @@ Het wordt ten zeerste aanbevolen om je gemonteerde IT2-scoreingssysteem aan de b
 De IT2 Baseplate kan direct aan een muur of op een mobiele dartbordstandaard worden gemonteerd. Kies de sectie hieronder die past bij jouw opstelling.
 
 ### 4.1 Montage-instructies: Wandmontage (Optie A)
-Deze methode is ideaal voor permanente opstellingen en vereist slechts 3 boorgaten.
+Het installeren van de IT2 Baseplate aan de muur is eenvoudig en nauwkeurig.
 
-1.  **Bullseye vinden:** Meet en markeer de officiële bullseye-hoogte (**1,73m**) op je muur.
-2.  **Positionering:** Gebruik het middengat van de baseplate om uit te lijnen met je markering. Zet het vast met een schroef indien nodig of markeer de plek.
-3.  **Waterpas zetten:** Gebruik een waterpas op een van de horizontaal gerichte armen.
-    > 💡 **Aanbeveling:** Voor een standaardopstelling raden we aan de baseplate zo te oriënteren dat één arm naar **3 uur of 9 uur** wijst.
-    > ⚠️ **Uitzondering:** Als je een **laag plafond-** of **dartbordstandaard-opstelling** bouwt, is het prima als een arm naar **6 uur** wijst.
-    > 💡 **Opmerking:** Je kunt het ook ruwweg op het oog waterpas zetten. Voor de Autodarts-scoreherkenning maakt het niet uit als het systeem niet perfect waterpas staat.
-4.  **Vastzetten:** Schroef de baseplate aan de muur op de plaatsen die in de onderstaande afbeelding worden getoond.
+1.  **Bullseye vinden:** Meet en markeer de officiële bullseye-hoogte (**1,73 m**) op je muur.
+2.  **Positionering:** Lijn het middelste gat van de baseplate uit met de gemarkeerde bullseye-hoogte. Indien mogelijk kun je het middelpunt alvast met een schroef vastzetten - hierdoor kun je de baseplate vrij draaien voor een perfecte uitlijning.
+3.  **Uitlijning:** Gebruik de „LR“-indicatoren op de armen om een van de armen in de richting van het **11-segment** (Links) of het **9-segment** (Rechts) te positioneren.
+4.  **Waterpas zetten:** Gebruik tot slot een waterpas op de buitenrand om de baseplate waterpas te stellen.
+5.  **Vastzetten:** Schroef de baseplate aan de muur op de plaatsen die in de onderstaande afbeelding worden getoond.
 
-![baseplate_mounting_holes](images/05_baseplate/07_baseplate_mounting_holes.png)
-
-![baseplate_wall_mounting](images/05_baseplate/02_baseplate_wall_mounting.png)
+![baseplate_mounting_steps](images/05_baseplate/08_mounting_steps.png)
 
 > ⚠️ **Belangrijk:** De baseplate voegt **30mm diepte** toe aan je opstelling. Je **MOET** je oche (werplijn) met 30mm naar achteren verplaatsen om de officiële toernooiafstanden te behouden.
 
-### 4.2 Montage-instructies: Dartbordstandaard (Optie B)
-Deze methode maakt een volledig mobiele opstelling mogelijk. De IT2 Baseplate heeft een universeel patroon dat zonder aanpassingen op professionele standaards past.
+### 4.2 Montage-instructies: Dartbordstandaard (Option B)
+Deze methode maakt een volledig mobiele opstelling mogelijk. De IT2 Baseplate heeft een gatenpatroon dat expliciet is ontworpen om zonder aanpassingen op de **Winmau Xtreme Dartboard Stand 2** te passen.
 
 1.  **Uitlijning:** Lijn de montagegaten van de baseplate uit met de beugels van je standaard.
 2.  **Vastzetten:** Gebruik de hardware die bij je standaard is geleverd of M6-schroeven om de baseplate vast te zetten.
@@ -131,8 +122,6 @@ Het IT2 Baseplate-systeem ondersteunt verschillende modulaire add-ons om de func
 
 ### 5.1 Geluidsdemping (Optionele Add-on)
 De achterkant van de baseplate-segmenten is voorzien van **ronde uitsparingen met schroefdraad** ontworpen voor 3D-geprinte TPU-dempers. Deze inserts maken het scoreingssysteem niet stiller voor de speler, maar ze voorkomen effectief dat trillingen en geluid via de muur naar andere kamers worden overgedragen.
-
-![baseplate_features](images/05_baseplate/03_baseplate_features.png)
 
 #### Installatie & Wandmontage met dempers:
 Als je ervoor kiest om de TPU-dempers te gebruiken, verandert het proces van wandmontage:

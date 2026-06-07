@@ -1,7 +1,6 @@
 # IT2 - Autodarts Scoring System Manual
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20My%20Server-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/pZAjmwV5kE)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Project-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iterathor)
 
 > 🌍 **This manual is available in other languages:** [Deutsch](README.de.md) | [Nederlands](README.nl.md)  
 > 🛠️ **Optional Upgrade:** Looking for the mounting plate? [View the IT2 Baseplate Manual](BASEPLATE.md)
@@ -30,7 +29,7 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
     * [4.3 Option 3: Target Corona Light Ring](#43-option-3-target-corona-light-ring)
     * [4.4 Option 4: IT2 DIY Low Ceiling Light Ring](#44-option-4-it2-diy-low-ceiling-light-ring)
 5. [Pre-Installation: Camera Positioning](#5-pre-installation-camera-positioning)
-6. [Final Step: Installation & Wall Mounting](#6-final-step-installation-and-wall-mounting)
+6. [Final Step: Installation & Wall Mounting](#6-final-step-installation--wall-mounting)
     * [6.1 Mounting Instructions: Direct Wall Mounting (Option A)](#61-mounting-instructions-direct-wall-mounting-option-a)
     * [6.2 Mounting Instructions: Baseplate Mounting (Option B)](#62-mounting-instructions-baseplate-mounting-option-b)
 7. [Pro Tips & Troubleshooting](#7-pro-tips--troubleshooting)
@@ -38,16 +37,13 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
     * [7.2 Hiding Winmau Plasma Power Cable](#72-hiding-winmau-plasma-power-cable)
     * [7.3 Hiding Target Corona Power Cable](#73-hiding-target-corona-power-cable)
 8. [Recommended Electronics](#8-recommended-electronics)
-9. [FAQ](#8-faq)
+9. [FAQ](#9-faq)
 10. [Licensing & Community Support](#10-licensing--community-support)
-11. [Support the Project](#11-support-the-project)
 
 
 ---
 
 ## 1. General Overview
-
-**Project Sirius** was designed with a clear vision: to be the brightest star in the sky. It points the way forward for an Autodarts system that is not only on par with existing solutions but aims to be significantly better in features, modularity, and ease of use.
 
 ### Key Features
 *   **Sleek & Slim Design** - The slimmest 3D-printed LED Light Ring as of 2026.
@@ -67,13 +63,13 @@ Welcome to the official manual for the IT2 Autodarts Scoring System. This guide 
 
 ### 2.1 Core Hardware (Required) 
 
-| Part Name          | Type                    | Qty | Link                                                                                             | Comment                                                            |
-| ------------------ | ----------------------- | --- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| Part Name          | Type                    | Qty | Link | Comment                                                            |
+| ------------------ | ----------------------- | --- | ---- | ------------------------------------------------------------------ |
 | Cylindrical Screws | M4x10mm (ISO4762/DIN912) | 12  | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/49r8kCE) | Required for most of the assembly.                                 |
 | Cylindrical Screws | M2x6mm (ISO4762/DIN912)  | 6   | [Aliexpress](https://s.click.aliexpress.com/e/_c4WUfT79)<br>[Amazon.de](https://amzn.to/4u4l5du) | Camera screws.                                                     |
 | M4 Heat Inserts ⚠️   | 6.3mm OD (max 9mm long) | 12  | [Aliexpress](https://s.click.aliexpress.com/e/_c3iaYfkD)<br>[Amazon.de](https://amzn.to/4wZr2uZ) | 6mm OD also fits. <br><br>⚠️ **Only for the Heat Insert version.** |
 
-> 💡 **Looking for more?** [View Recommendations for Electronics & Accessories](#7-recommended-electronics)
+> 💡 **Looking for more?** [View Recommendations for Electronics & Accessories](#8-recommended-electronics)
 
 ### 2.2 Required Tools
 
@@ -231,15 +227,9 @@ In this configuration, the IT2 system is mounted directly to the wall. This requ
 *   **Cons:** Requires more drill points; leg positions must be determined manually via measurements, drawing circles, or using a drill template.
 
 ### Option B: IT2 Baseplate
-The **[IT2 Baseplate](https://makerworld.com/en/@HipsThor/)** is an optional unit that simplifies the installation process and offers additional features.
+The **[IT2 Baseplate](BASEPLATE.md)** is an optional unit that simplifies the installation process and offers additional features like sound dampening and native stand compatibility.
 
-*   **Pros:**
-    *   **Easy Installation:** Center the plate on the bullseye and mount it level; the entire setup is then attached to the plate using only three wall screws.
-    *   **Wall Protection:** Only **3 holes** need to be drilled into the wall.
-    *   **Sound Dampening:** Features an integrated, optional sound dampening system.
-    *   **Stand Compatibility:** Can be installed on a dartboard stand by default (e.g., Winmau Xtreme Dartboard Stand 2).
-*   **Cons:**
-    *   **Wall Offset:** The baseplate adds approximately **30mm of depth**. You should adjust your oche (throw line) distance by 30mm to maintain official measurements.
+For detailed instructions on how to install and align the baseplate, please refer to the **[Baseplate Assembly & Installation Guide](BASEPLATE.md)**.
 
 ---
 
@@ -265,7 +255,7 @@ If you prefer to mark the positions yourself without the 3D-printed template, fo
 ---
 
 ### 6.2 Mounting Instructions: Baseplate Mounting (Option B)
-*(Detailed step-by-step instructions for mounting via the IT2 Baseplate follow here)*
+Please refer to the **[IT2 Baseplate Manual](BASEPLATE.md)** for detailed, step-by-step instructions on wall mounting and alignment.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -296,14 +286,14 @@ When tightening screws, ensure they are only **"finger-tight"**.
 
 ## 8. Recommended Electronics
 
-| Part Name    | Type                                   | Link       | Comment                                      |
-| ------------ | -------------------------------------- | ---------- | ---------------------------------------------- |
-| Cameras      | HBV OV2710                             | [Aliexpress](https://s.click.aliexpress.com/e/_c4bziy33) | Best price-to-performance cameras.                 |
-| LED Strip    | Auxmer 12V 9.6W LED Strip              | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | My favorite. Best color reproduction.            |
-| Power Supply | 12V 3A Power Adapter                   | [Aliexpress](https://s.click.aliexpress.com/e/_c2IYxq1R) | Required for the DIY LED strip.                |
-| DC Connector | 2.1mm DC Socket                        | [Aliexpress](https://s.click.aliexpress.com/e/_c3L2uy4H) | To connect the power supply to the LEDs.       |
-| PC           | Dell Wyse 5070 ≥4GB RAM ≥ 16GB Storage   |                                                          | My favorite. Good price-to-performance ratio.   |
-| Touchscreen  | Anmite 16" Touchscreen                 | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | My favorite. Good price-to-performance ratio.   |
+| Part Name    | Type                                   | Link | Comment                                       |
+| ------------ | -------------------------------------- | ---- | --------------------------------------------- |
+| Cameras      | HBV OV2710                             | [Aliexpress](https://s.click.aliexpress.com/e/_c4bziy33) | Best price-to-performance cameras.            |
+| LED Strip    | Auxmer 12V 9.6W LED Strip              | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | My favorite. Best color reproduction.         |
+| Power Supply | 12V 3A Power Adapter                   | [Aliexpress](https://s.click.aliexpress.com/e/_c2IYxq1R) | Required for the DIY LED strip.               |
+| DC Connector | 2.1mm DC Socket                        | [Aliexpress](https://s.click.aliexpress.com/e/_c3L2uy4H) | To connect the power supply to the LEDs.      |
+| PC           | Dell Wyse 5070 ≥4GB RAM ≥ 16GB Storage |      | My favorite. Good price-to-performance ratio. |
+| Touchscreen  | Anmite 16" Touchscreen                 | [Aliexpress](https://s.click.aliexpress.com/e/_c34qKHYZ) | My favorite. Good price-to-performance ratio. |
 
 ---
 
@@ -321,16 +311,4 @@ When tightening screws, ensure they are only **"finger-tight"**.
 ---
 
 ## 10. Licensing & Community Support
-
-### Commercial License
-*   **Profit Intent:** Selling this design for profit requires an active commercial license, available via my [Makerworld profile](https://makerworld.com/en/@HipsThor/). Sales are only permitted during an active subscription.
-
-### Exceptions (Non-Commercial)
-*   **Private & Social:** Sharing with friends, family, or your local dart club (at material cost only) is expressly encouraged and does not require a license. I appreciate feedback or a small donation if you like the project.
-*   **Community Support:** Printing for community members who do not own a printer (material cost + small handling fee) is allowed, but **MUST** be handled transparently and discussed with me (**IteraThor**) on Discord first.
-
----
-
-## 11. Support the Project
-*   **Feedback:** Join the Discord or leave a comment on Makerworld.
-*   **Donations:** Support the development here: [Buy Me a Coffee](https://www.buymeacoffee.com/IteraThor)
+IT2 is provided under a custom license. For information regarding commercial use, private sharing, and community support, please refer to the **[LICENSE.md](LICENSE.md)** file.
