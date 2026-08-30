@@ -289,7 +289,7 @@ When tightening screws, ensure they are only **"finger-tight"**.
 | Part Name    | Type                                   | Link | Comment                                       |
 | ------------ | -------------------------------------- | ---- | --------------------------------------------- |
 | Cameras      | HBV OV2710                             | [Aliexpress](https://s.click.aliexpress.com/e/_c4bziy33) | Best price-to-performance cameras.            |
-| LED Strip    | Auxmer 12V 9.6W LED Strip              | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | My favorite. Best color reproduction.         |
+| LED Strip    | Auxmer 5000k 12V 9.6W LED Strip              | [Aliexpress](https://s.click.aliexpress.com/e/_c3z7FC4l) | My favorite. Best color reproduction.         |
 | Power Supply | 12V 3A Power Adapter                   | [Aliexpress](https://s.click.aliexpress.com/e/_c2IYxq1R) | Required for the DIY LED strip.               |
 | DC Connector | 2.1mm DC Socket                        | [Aliexpress](https://s.click.aliexpress.com/e/_c3L2uy4H) | To connect the power supply to the LEDs.      |
 | PC           | Dell Wyse 5070 ≥4GB RAM ≥ 16GB Storage |      | My favorite. Good price-to-performance ratio. |
