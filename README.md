@@ -303,7 +303,7 @@ When tightening screws, ensure they are only **"finger-tight"**.
 **A:** The clear winner for price-to-performance is the **HBV OV2710**. Investing in more expensive, higher-resolution cameras is unnecessary as Autodarts is resolution-limited. While the **OV9732** is a cheaper alternative, it requires significantly better lighting; therefore, I exclusively recommend the OV2710 for its superior handling of various light conditions.
 
 ### Q: Which LED strip should I get?
-**A:** Avoid USB light strips. The community standard is **6000K COB LEDs** (12V or 24V). My personal recommendation is the **Auxmer 120 LEDs/m (9.6W, CRI90)**; in my tests, it even outperformed the Winmau Plasma. If you're on a budget, any 6000K strip with around 10W per meter will work, provided it's bright enough.
+**A:** Avoid USB light strips. The community standard for a good, cheap strip is 6000K COB LEDs (12V or 24V). My personal recommendation is the Auxmer 120 5000K LEDs/m (9.6W, CRI90); in my tests, it even outperformed the Winmau Plasma. If you're on a budget, get a 6000K strip; if you want the best for your eyes and the cameras, get the Auxmer 5000K.
 
 ### Q: Should I use a Raspberry Pi or a Mini PC?
 **A:** Unless you already own a Raspberry Pi, I recommend buying a refurbished Mini PC. They are often cheaper (starting at €50) and offer better performance and touchscreen support. My personal favorite is the **Dell Wyse 5070** (4GB RAM, 16GB storage), which is widely available refurbished and handles the Autodarts software perfectly.
